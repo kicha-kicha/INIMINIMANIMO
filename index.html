@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Japanese Flash Cards</title>
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;500;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="app-container">
+    <header class="app-header">
+      <h1><i class="fas fa-language" aria-hidden="true"></i></h1>
+      <div class="header-controls">
+        <button id="fullscreen-toggle" title="Toggle fullscreen" aria-label="Toggle fullscreen mode">
+          <i class="fas fa-expand" aria-hidden="true"></i>
+        </button>
+        <button id="theme-toggle" aria-label="Toggle dark/light theme">
+          <i class="fas fa-moon" aria-hidden="true"></i>
+        </button>
+      </div>
+    </header>
+
+    <main class="flashcard-viewport">
+      <div class="progress-container">
+        <div class="progress-bar">
+          <div class="progress-fill" style="width: 0%"></div>
+        </div>
+      </div>
+      <section id="card-container" aria-live="polite">
+        <!-- Cards will be inserted here by JavaScript -->
+      </section>
+    </main>
+
+    <footer class="app-footer">
+      <nav class="level-tabs" role="tablist">
+        <button class="level-btn active" data-level="N5" role="tab" aria-selected="true">N5</button>
+        <button class="level-btn" data-level="N4" role="tab" aria-selected="false">N4</button>
+        <button class="level-btn" data-level="N3" role="tab" aria-selected="false">N3</button>
+        <button class="level-btn" data-level="N2" role="tab" aria-selected="false">N2</button>
+        <button class="level-btn" data-level="N1" role="tab" aria-selected="false">N1</button>
+      </nav>
+      <p class="footer-note">日本語学習アプリ - Japanese Learning App</p>
+    </footer>
+  </div>
+
+  <button id="fullscreen-close" class="fullscreen-close-btn" aria-label="Exit fullscreen mode">
+    <i class="fas fa-times" aria-hidden="true"></i>
+  </button>
+
+  <script src="script.js"></script>
+</body>
+</html>
