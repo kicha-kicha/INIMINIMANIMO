@@ -1,0 +1,5002 @@
+[
+  {
+    "id": 1,
+    "kanji": "油",
+    "hiragana": "あぶら",
+    "meaning": "minyak",
+    "level": "N3"
+  },
+  {
+    "id": 2,
+    "kanji": "愛",
+    "hiragana": "あい",
+    "meaning": "cinta, kasih sayang, perhatian",
+    "level": "N3"
+  },
+  {
+    "id": 3,
+    "kanji": "愛情",
+    "hiragana": "あいじょう",
+    "meaning": "cinta, kasih sayang",
+    "level": "N3"
+  },
+  {
+    "id": 4,
+    "kanji": "相変わらず",
+    "hiragana": "あいかわらず",
+    "meaning": "seperti biasa, sama",
+    "level": "N3"
+  },
+  {
+    "id": 5,
+    "kanji": "生憎",
+    "hiragana": "あいにく",
+    "meaning": "sayangnya; maaf, tapi...",
+    "level": "N3"
+  },
+  {
+    "id": 6,
+    "kanji": "愛する",
+    "hiragana": "あいする",
+    "meaning": "mencintai",
+    "level": "N3"
+  },
+  {
+    "id": 7,
+    "kanji": "相手",
+    "hiragana": "あいて",
+    "meaning": "pendamping, mitra",
+    "level": "N3"
+  },
+  {
+    "id": 8,
+    "kanji": "合図",
+    "hiragana": "あいず",
+    "meaning": "tanda, sinyal",
+    "level": "N3"
+  },
+  {
+    "id": 9,
+    "kanji": "明かり",
+    "hiragana": "あかり",
+    "meaning": "cahaya, pencahayaan",
+    "level": "N3"
+  },
+  {
+    "id": 10,
+    "kanji": "明ける",
+    "hiragana": "あける",
+    "meaning": "fajar, akhir (periode, musim)",
+    "level": "N3"
+  },
+  {
+    "id": 11,
+    "kanji": "空き",
+    "hiragana": "あき",
+    "meaning": "ruang, kekosongan",
+    "level": "N3"
+  },
+  {
+    "id": 12,
+    "kanji": "空き家",
+    "hiragana": "あきや",
+    "meaning": "rumah kosong",
+    "level": "N3"
+  },
+  {
+    "id": 13,
+    "kanji": "明らか",
+    "hiragana": "あきらか",
+    "meaning": "jelas, terang",
+    "level": "N3"
+  },
+  {
+    "id": 14,
+    "kanji": "諦める",
+    "hiragana": "あきらめる",
+    "meaning": "menyerah, meninggalkan",
+    "level": "N3"
+  },
+  {
+    "id": 15,
+    "kanji": "飽きる",
+    "hiragana": "あきる",
+    "meaning": "bosan",
+    "level": "N3"
+  },
+  {
+    "id": 16,
+    "kanji": "悪魔",
+    "hiragana": "あくま",
+    "meaning": "setan, jahat",
+    "level": "N3"
+  },
+  {
+    "id": 17,
+    "kanji": "握手",
+    "hiragana": "あくしゅ",
+    "meaning": "jabat tangan",
+    "level": "N3"
+  },
+  {
+    "id": 18,
+    "kanji": "余る",
+    "hiragana": "あまる",
+    "meaning": "tinggal, tersisa",
+    "level": "N3"
+  },
+  {
+    "id": 19,
+    "kanji": "編む",
+    "hiragana": "あむ",
+    "meaning": "merajut, mengepang",
+    "level": "N3"
+  },
+  {
+    "id": 20,
+    "kanji": "案",
+    "hiragana": "あん",
+    "meaning": "ide, rencana, pemikiran",
+    "level": "N3"
+  },
+  {
+    "id": 21,
+    "kanji": "汗",
+    "hiragana": "あせ",
+    "meaning": "keringat",
+    "level": "N3"
+  },
+  {
+    "id": 22,
+    "kanji": "穴",
+    "hiragana": "あな",
+    "meaning": "lubang, defisit",
+    "level": "N3"
+  },
+  {
+    "id": 23,
+    "kanji": "暗記",
+    "hiragana": "あんき",
+    "meaning": "hafalan",
+    "level": "N3"
+  },
+  {
+    "id": 24,
+    "kanji": "安定",
+    "hiragana": "あんてい",
+    "meaning": "stabilitas, keseimbangan",
+    "level": "N3"
+  },
+  {
+    "id": 25,
+    "kanji": "粗い",
+    "hiragana": "あらい",
+    "meaning": "kasar, tidak halus",
+    "level": "N3"
+  },
+  {
+    "id": 26,
+    "kanji": "嵐",
+    "hiragana": "あらし",
+    "meaning": "badai",
+    "level": "N3"
+  },
+  {
+    "id": 27,
+    "kanji": "新た",
+    "hiragana": "あらた",
+    "meaning": "baru, segar",
+    "level": "N3"
+  },
+  {
+    "id": 28,
+    "kanji": "現れる",
+    "hiragana": "あらわれる",
+    "meaning": "muncul, terlihat",
+    "level": "N3"
+  },
+  {
+    "id": 29,
+    "kanji": "表す",
+    "hiragana": "あらわす",
+    "meaning": "mewakili, menunjukkan",
+    "level": "N3"
+  },
+  {
+    "id": 30,
+    "kanji": "有らゆる",
+    "hiragana": "あらゆる",
+    "meaning": "semua, setiap",
+    "level": "N3"
+  },
+  {
+    "id": 31,
+    "kanji": "足元",
+    "hiragana": "あしもと",
+    "meaning": "di kaki seseorang, di bawah kaki",
+    "level": "N3"
+  },
+  {
+    "id": 32,
+    "kanji": "与える",
+    "hiragana": "あたえる",
+    "meaning": "memberi, menganugerahkan",
+    "level": "N3"
+  },
+  {
+    "id": 33,
+    "kanji": "値",
+    "hiragana": "あたい",
+    "meaning": "harga, biaya",
+    "level": "N3"
+  },
+  {
+    "id": 34,
+    "kanji": "辺り",
+    "hiragana": "あたり",
+    "meaning": "lingkungan, terdekat",
+    "level": "N3"
+  },
+  {
+    "id": 35,
+    "kanji": "当たる",
+    "hiragana": "あたる",
+    "meaning": "dipukul, menyerang",
+    "level": "N3"
+  },
+  {
+    "id": 36,
+    "kanji": "温める",
+    "hiragana": "あたためる",
+    "meaning": "menghangatkan, memanaskan",
+    "level": "N3"
+  },
+  {
+    "id": 37,
+    "kanji": "跡",
+    "hiragana": "あと",
+    "meaning": "jejak, tanda",
+    "level": "N3"
+  },
+  {
+    "id": 38,
+    "kanji": "扱う",
+    "hiragana": "あつかう",
+    "meaning": "menghadapi, mengobati",
+    "level": "N3"
+  },
+  {
+    "id": 39,
+    "kanji": "集まり",
+    "hiragana": "あつまり",
+    "meaning": "pertemuan, pertemuan",
+    "level": "N3"
+  },
+  {
+    "id": 40,
+    "kanji": "慌てる",
+    "hiragana": "あわてる",
+    "meaning": "panik, terburu-buru",
+    "level": "N3"
+  },
+  {
+    "id": 41,
+    "kanji": "誤り",
+    "hiragana": "あやまり",
+    "meaning": "kesalahan, kesalahan",
+    "level": "N3"
+  },
+  {
+    "id": 42,
+    "kanji": "泡",
+    "hiragana": "あわ",
+    "meaning": "gelembung, busa",
+    "level": "N3"
+  },
+  {
+    "id": 43,
+    "kanji": "哀れ",
+    "hiragana": "あわれ",
+    "meaning": "kasihan, kesedihan",
+    "level": "N3"
+  },
+  {
+    "id": 44,
+    "kanji": "合わせる",
+    "hiragana": "あわせる",
+    "meaning": "mencocokkan, bergabung bersama",
+    "level": "N3"
+  },
+  {
+    "id": 45,
+    "kanji": "預ける",
+    "hiragana": "あずける",
+    "meaning": "menyerahkan ke dalam tahanan",
+    "level": "N3"
+  },
+  {
+    "id": 46,
+    "kanji": "場",
+    "hiragana": "ば",
+    "meaning": "tempat, pemandangan",
+    "level": "N3"
+  },
+  {
+    "id": 47,
+    "kanji": "馬鹿",
+    "hiragana": "ばか",
+    "meaning": "bodoh, idiot",
+    "level": "N3"
+  },
+  {
+    "id": 48,
+    "kanji": "莫大",
+    "hiragana": "ばくだい",
+    "meaning": "sangat besar, luas",
+    "level": "N3"
+  },
+  {
+    "id": 49,
+    "kanji": "爆発",
+    "hiragana": "ばくはつ",
+    "meaning": "ledakan, ledakan",
+    "level": "N3"
+  },
+  {
+    "id": 50,
+    "kanji": "場面",
+    "hiragana": "ばめん",
+    "meaning": "adegan, pengaturan",
+    "level": "N3"
+  },
+  {
+    "id": 51,
+    "kanji": "ばらばら",
+    "hiragana": "ばらばら",
+    "meaning": "tersebar, berkeping-keping",
+    "level": "N3"
+  },
+  {
+    "id": 52,
+    "kanji": "罰する",
+    "hiragana": "ばっする",
+    "meaning": "menghukum, menghukum",
+    "level": "N3"
+  },
+  {
+    "id": 53,
+    "kanji": "弁護士",
+    "hiragana": "べんごし",
+    "meaning": "pengacara, pengacara",
+    "level": "N3"
+  },
+  {
+    "id": 54,
+    "kanji": "別々",
+    "hiragana": "べつべつ",
+    "meaning": "terpisah, individual",
+    "level": "N3"
+  },
+  {
+    "id": 55,
+    "kanji": "美人",
+    "hiragana": "びじん",
+    "meaning": "wanita cantik",
+    "level": "N3"
+  },
+  {
+    "id": 56,
+    "kanji": "びっくり",
+    "hiragana": "びっくり",
+    "meaning": "terkejut",
+    "level": "N3"
+  },
+  {
+    "id": 57,
+    "kanji": "微妙",
+    "hiragana": "びみょう",
+    "meaning": "halus, rumit",
+    "level": "N3"
+  },
+  {
+    "id": 58,
+    "kanji": "瓶",
+    "hiragana": "びん",
+    "meaning": "botol, toples",
+    "level": "N3"
+  },
+  {
+    "id": 59,
+    "kanji": "便",
+    "hiragana": "びん",
+    "meaning": "surat, pos, penerbangan",
+    "level": "N3"
+  },
+  {
+    "id": 60,
+    "kanji": "ぼんやり",
+    "hiragana": "ぼんやり",
+    "meaning": "linglung, tidak jelas",
+    "level": "N3"
+  },
+  {
+    "id": 61,
+    "kanji": "募集",
+    "hiragana": "ぼしゅう",
+    "meaning": "perekrutan, menerima aplikasi",
+    "level": "N3"
+  },
+  {
+    "id": 62,
+    "kanji": "棒",
+    "hiragana": "ぼう",
+    "meaning": "tiang, batang, tongkat",
+    "level": "N3"
+  },
+  {
+    "id": 63,
+    "kanji": "冒険",
+    "hiragana": "ぼうけん",
+    "meaning": "petualangan, risiko",
+    "level": "N3"
+  },
+  {
+    "id": 64,
+    "kanji": "部分",
+    "hiragana": "ぶぶん",
+    "meaning": "bagian, segmen",
+    "level": "N3"
+  },
+  {
+    "id": 65,
+    "kanji": "部品",
+    "hiragana": "ぶひん",
+    "meaning": "bagian, komponen",
+    "level": "N3"
+  },
+  {
+    "id": 66,
+    "kanji": "無事",
+    "hiragana": "ぶじ",
+    "meaning": "keamanan, perdamaian",
+    "level": "N3"
+  },
+  {
+    "id": 67,
+    "kanji": "武器",
+    "hiragana": "ぶき",
+    "meaning": "senjata, senjata",
+    "level": "N3"
+  },
+  {
+    "id": 68,
+    "kanji": "物価",
+    "hiragana": "ぶっか",
+    "meaning": "harga komoditas",
+    "level": "N3"
+  },
+  {
+    "id": 69,
+    "kanji": "文",
+    "hiragana": "ぶん",
+    "meaning": "kalimat",
+    "level": "N3"
+  },
+  {
+    "id": 70,
+    "kanji": "分",
+    "hiragana": "ぶん",
+    "meaning": "bagian, segmen, bagikan",
+    "level": "N3"
+  },
+  {
+    "id": 71,
+    "kanji": "文明",
+    "hiragana": "ぶんめい",
+    "meaning": "peradaban",
+    "level": "N3"
+  },
+  {
+    "id": 72,
+    "kanji": "分類",
+    "hiragana": "ぶんるい",
+    "meaning": "kategorisasi, penyortiran",
+    "level": "N3"
+  },
+  {
+    "id": 73,
+    "kanji": "分析",
+    "hiragana": "ぶんせき",
+    "meaning": "analisis",
+    "level": "N3"
+  },
+  {
+    "id": 74,
+    "kanji": "文章",
+    "hiragana": "ぶんしょう",
+    "meaning": "esai, artikel, komposisi",
+    "level": "N3"
+  },
+  {
+    "id": 75,
+    "kanji": "分野",
+    "hiragana": "ぶんや",
+    "meaning": "bidang, bola",
+    "level": "N3"
+  },
+  {
+    "id": 76,
+    "kanji": "ぶらぶら",
+    "hiragana": "ぶらぶら",
+    "meaning": "berjalan-jalan, mengembara",
+    "level": "N3"
+  },
+  {
+    "id": 77,
+    "kanji": "無沙汰",
+    "hiragana": "ぶさた",
+    "meaning": "tidak menulis atau menghubungi untuk sementara waktu",
+    "level": "N3"
+  },
+  {
+    "id": 78,
+    "kanji": "物質",
+    "hiragana": "ぶっしつ",
+    "meaning": "bahan, substansi",
+    "level": "N3"
+  },
+  {
+    "id": 79,
+    "kanji": "舞台",
+    "hiragana": "ぶたい",
+    "meaning": "tahap",
+    "level": "N3"
+  },
+  {
+    "id": 80,
+    "kanji": "打つかる",
+    "hiragana": "ぶつかる",
+    "meaning": "menyerang, bertabrakan dengan",
+    "level": "N3"
+  },
+  {
+    "id": 81,
+    "kanji": "物理",
+    "hiragana": "ぶつり",
+    "meaning": "fisika",
+    "level": "N3"
+  },
+  {
+    "id": 82,
+    "kanji": "秒",
+    "hiragana": "びょう",
+    "meaning": "kedua",
+    "level": "N3"
+  },
+  {
+    "id": 83,
+    "kanji": "平等",
+    "hiragana": "びょうどう",
+    "meaning": "kesetaraan, kesetaraan",
+    "level": "N3"
+  },
+  {
+    "id": 84,
+    "kanji": "父親",
+    "hiragana": "ちちおや",
+    "meaning": "ayah",
+    "level": "N3"
+  },
+  {
+    "id": 85,
+    "kanji": "知恵",
+    "hiragana": "ちえ",
+    "meaning": "kebijaksanaan, kecerdasan",
+    "level": "N3"
+  },
+  {
+    "id": 86,
+    "kanji": "違い",
+    "hiragana": "ちがい",
+    "meaning": "perbedaan, perbedaan",
+    "level": "N3"
+  },
+  {
+    "id": 87,
+    "kanji": "地平線",
+    "hiragana": "ちへいせん",
+    "meaning": "cakrawala",
+    "level": "N3"
+  },
+  {
+    "id": 88,
+    "kanji": "地方",
+    "hiragana": "ちほう",
+    "meaning": "distrik, wilayah, area",
+    "level": "N3"
+  },
+  {
+    "id": 89,
+    "kanji": "地位",
+    "hiragana": "ちい",
+    "meaning": "posisi sosial, status",
+    "level": "N3"
+  },
+  {
+    "id": 90,
+    "kanji": "地域",
+    "hiragana": "ちいき",
+    "meaning": "wilayah, wilayah",
+    "level": "N3"
+  },
+  {
+    "id": 91,
+    "kanji": "知事",
+    "hiragana": "ちじ",
+    "meaning": "gubernur prefektur",
+    "level": "N3"
+  },
+  {
+    "id": 92,
+    "kanji": "地下",
+    "hiragana": "ちか",
+    "meaning": "ruang bawah tanah, ruang bawah tanah",
+    "level": "N3"
+  },
+  {
+    "id": 93,
+    "kanji": "近頃",
+    "hiragana": "ちかごろ",
+    "meaning": "akhir-akhir ini, baru-baru ini",
+    "level": "N3"
+  },
+  {
+    "id": 94,
+    "kanji": "近道",
+    "hiragana": "ちかみち",
+    "meaning": "jalan pendek, pintasan",
+    "level": "N3"
+  },
+  {
+    "id": 95,
+    "kanji": "力強い",
+    "hiragana": "ちからづよい",
+    "meaning": "kuat, kuat",
+    "level": "N3"
+  },
+  {
+    "id": 96,
+    "kanji": "遅刻",
+    "hiragana": "ちこく",
+    "meaning": "keterlambatan, datang terlambat",
+    "level": "N3"
+  },
+  {
+    "id": 97,
+    "kanji": "地区",
+    "hiragana": "ちく",
+    "meaning": "distrik, sektor",
+    "level": "N3"
+  },
+  {
+    "id": 98,
+    "kanji": "地球",
+    "hiragana": "ちきゅう",
+    "meaning": "bumi, dunia",
+    "level": "N3"
+  },
+  {
+    "id": 99,
+    "kanji": "知能",
+    "hiragana": "ちのう",
+    "meaning": "kecerdasan, otak",
+    "level": "N3"
+  },
+  {
+    "id": 100,
+    "kanji": "知識",
+    "hiragana": "ちしき",
+    "meaning": "pengetahuan, informasi",
+    "level": "N3"
+  },
+  {
+    "id": 101,
+    "kanji": "貯金",
+    "hiragana": "ちょきん",
+    "meaning": "tabungan",
+    "level": "N3"
+  },
+  {
+    "id": 102,
+    "kanji": "直接",
+    "hiragana": "ちょくせつ",
+    "meaning": "langsung, segera",
+    "level": "N3"
+  },
+  {
+    "id": 103,
+    "kanji": "著者",
+    "hiragana": "ちょしゃ",
+    "meaning": "penulis, pengarang",
+    "level": "N3"
+  },
+  {
+    "id": 104,
+    "kanji": "頂上",
+    "hiragana": "ちょうじょう",
+    "meaning": "puncak, titik tertinggi",
+    "level": "N3"
+  },
+  {
+    "id": 105,
+    "kanji": "長期",
+    "hiragana": "ちょうき",
+    "meaning": "jangka panjang",
+    "level": "N3"
+  },
+  {
+    "id": 106,
+    "kanji": "調査",
+    "hiragana": "ちょうさ",
+    "meaning": "penyelidikan, survei",
+    "level": "N3"
+  },
+  {
+    "id": 107,
+    "kanji": "調子",
+    "hiragana": "ちょうし",
+    "meaning": "kondisi, nada, irama",
+    "level": "N3"
+  },
+  {
+    "id": 108,
+    "kanji": "長所",
+    "hiragana": "ちょうしょ",
+    "meaning": "kelebihan, keunggulan",
+    "level": "N3"
+  },
+  {
+    "id": 109,
+    "kanji": "朝食",
+    "hiragana": "ちょうしょく",
+    "meaning": "sarapan",
+    "level": "N3"
+  },
+  {
+    "id": 110,
+    "kanji": "中学",
+    "hiragana": "ちゅうがく",
+    "meaning": "sekolah menengah pertama",
+    "level": "N3"
+  },
+  {
+    "id": 111,
+    "kanji": "中間",
+    "hiragana": "ちゅうかん",
+    "meaning": "tengah, pertengahan",
+    "level": "N3"
+  },
+  {
+    "id": 112,
+    "kanji": "中古",
+    "hiragana": "ちゅうこ",
+    "meaning": "bekas, barang second",
+    "level": "N3"
+  },
+  {
+    "id": 113,
+    "kanji": "注目",
+    "hiragana": "ちゅうもく",
+    "meaning": "perhatian, fokus",
+    "level": "N3"
+  },
+  {
+    "id": 114,
+    "kanji": "注文",
+    "hiragana": "ちゅうもん",
+    "meaning": "pesanan, permintaan",
+    "level": "N3"
+  },
+  {
+    "id": 115,
+    "kanji": "駐車",
+    "hiragana": "ちゅうしゃ",
+    "meaning": "parkir",
+    "level": "N3"
+  },
+  {
+    "id": 116,
+    "kanji": "中止",
+    "hiragana": "ちゅうし",
+    "meaning": "penghentian, pembatalan",
+    "level": "N3"
+  },
+  {
+    "id": 117,
+    "kanji": "中心",
+    "hiragana": "ちゅうしん",
+    "meaning": "pusat, inti",
+    "level": "N3"
+  },
+  {
+    "id": 118,
+    "kanji": "中心地",
+    "hiragana": "ちゅうしんち",
+    "meaning": "pusat kota, area sentral",
+    "level": "N3"
+  },
+  {
+    "id": 119,
+    "kanji": "昼食",
+    "hiragana": "ちゅうしょく",
+    "meaning": "makan siang",
+    "level": "N3"
+  },
+  {
+    "id": 120,
+    "kanji": "中央",
+    "hiragana": "ちゅうおう",
+    "meaning": "tengah, pusat",
+    "level": "N3"
+  },
+  {
+    "id": 121,
+    "kanji": "代",
+    "hiragana": "だい",
+    "meaning": "generasi, pengganti",
+    "level": "N3"
+  },
+  {
+    "id": 122,
+    "kanji": "大部分",
+    "hiragana": "だいぶぶん",
+    "meaning": "sebagian besar",
+    "level": "N3"
+  },
+  {
+    "id": 123,
+    "kanji": "代表",
+    "hiragana": "だいひょう",
+    "meaning": "perwakilan",
+    "level": "N3"
+  },
+  {
+    "id": 124,
+    "kanji": "代表者",
+    "hiragana": "だいひょうしゃ",
+    "meaning": "perwakilan, delegasi",
+    "level": "N3"
+  },
+  {
+    "id": 125,
+    "kanji": "大臣",
+    "hiragana": "だいじん",
+    "meaning": "menteri kabinet",
+    "level": "N3"
+  },
+  {
+    "id": 126,
+    "kanji": "代金",
+    "hiragana": "だいきん",
+    "meaning": "harga, biaya pembayaran",
+    "level": "N3"
+  },
+  {
+    "id": 127,
+    "kanji": "代理",
+    "hiragana": "だいり",
+    "meaning": "perwakilan, wakil",
+    "level": "N3"
+  },
+  {
+    "id": 128,
+    "kanji": "大成功",
+    "hiragana": "だいせいこう",
+    "meaning": "kesuksesan besar",
+    "level": "N3"
+  },
+  {
+    "id": 129,
+    "kanji": "大小",
+    "hiragana": "だいしょう",
+    "meaning": "besar dan kecil",
+    "level": "N3"
+  },
+  {
+    "id": 130,
+    "kanji": "大都会",
+    "hiragana": "だいとかい",
+    "meaning": "metropolis, kota besar",
+    "level": "N3"
+  },
+  {
+    "id": 131,
+    "kanji": "大統領",
+    "hiragana": "だいとうりょう",
+    "meaning": "presiden",
+    "level": "N3"
+  },
+  {
+    "id": 132,
+    "kanji": "黙る",
+    "hiragana": "だまる",
+    "meaning": "diam, tidak berbicara",
+    "level": "N3"
+  },
+  {
+    "id": 133,
+    "kanji": "段",
+    "hiragana": "だん",
+    "meaning": "tingkat, anak tangga",
+    "level": "N3"
+  },
+  {
+    "id": 134,
+    "kanji": "だんだん",
+    "hiragana": "だんだん",
+    "meaning": "sedikit demi sedikit",
+    "level": "N3"
+  },
+  {
+    "id": 135,
+    "kanji": "男女",
+    "hiragana": "だんじょ",
+    "meaning": "pria dan wanita",
+    "level": "N3"
+  },
+  {
+    "id": 136,
+    "kanji": "男子",
+    "hiragana": "だんし",
+    "meaning": "anak laki-laki, pria",
+    "level": "N3"
+  },
+  {
+    "id": 137,
+    "kanji": "団体",
+    "hiragana": "だんたい",
+    "meaning": "kelompok, organisasi",
+    "level": "N3"
+  },
+  {
+    "id": 138,
+    "kanji": "だるい",
+    "hiragana": "だるい",
+    "meaning": "lemas, tidak bertenaga",
+    "level": "N3"
+  },
+  {
+    "id": 139,
+    "kanji": "出会い",
+    "hiragana": "であい",
+    "meaning": "pertemuan, perjumpaan",
+    "level": "N3"
+  },
+  {
+    "id": 140,
+    "kanji": "出会う",
+    "hiragana": "であう",
+    "meaning": "bertemu (secara tidak sengaja)",
+    "level": "N3"
+  },
+  {
+    "id": 141,
+    "kanji": "出来事",
+    "hiragana": "できごと",
+    "meaning": "kejadian, peristiwa",
+    "level": "N3"
+  },
+  {
+    "id": 142,
+    "kanji": "電池",
+    "hiragana": "でんち",
+    "meaning": "baterai",
+    "level": "N3"
+  },
+  {
+    "id": 143,
+    "kanji": "伝言",
+    "hiragana": "でんごん",
+    "meaning": "pesan (verbal)",
+    "level": "N3"
+  },
+  {
+    "id": 144,
+    "kanji": "電球",
+    "hiragana": "でんきゅう",
+    "meaning": "bohlam lampu",
+    "level": "N3"
+  },
+  {
+    "id": 145,
+    "kanji": "電子",
+    "hiragana": "でんし",
+    "meaning": "elektron",
+    "level": "N3"
+  },
+  {
+    "id": 146,
+    "kanji": "電子レンジ",
+    "hiragana": "でんしレンジ",
+    "meaning": "microwave",
+    "level": "N3"
+  },
+  {
+    "id": 147,
+    "kanji": "伝統",
+    "hiragana": "でんとう",
+    "meaning": "tradisi",
+    "level": "N3"
+  },
+  {
+    "id": 148,
+    "kanji": "度",
+    "hiragana": "ど",
+    "meaning": "derajat, tingkat",
+    "level": "N3"
+  },
+  {
+    "id": 149,
+    "kanji": "どきどき",
+    "hiragana": "どきどき",
+    "meaning": "deg-degan (jantung berdebar)",
+    "level": "N3"
+  },
+  {
+    "id": 150,
+    "kanji": "毒",
+    "hiragana": "どく",
+    "meaning": "racun",
+    "level": "N3"
+  },
+  {
+    "id": 151,
+    "kanji": "独立",
+    "hiragana": "どくりつ",
+    "meaning": "kemerdekaan",
+    "level": "N3"
+  },
+  {
+    "id": 152,
+    "kanji": "独身",
+    "hiragana": "どくしん",
+    "meaning": "lajang, belum menikah",
+    "level": "N3"
+  },
+  {
+    "id": 153,
+    "kanji": "読書",
+    "hiragana": "どくしょ",
+    "meaning": "membaca buku",
+    "level": "N3"
+  },
+  {
+    "id": 154,
+    "kanji": "独特",
+    "hiragana": "どくとく",
+    "meaning": "unik, khas",
+    "level": "N3"
+  },
+  {
+    "id": 155,
+    "kanji": "泥",
+    "hiragana": "どろ",
+    "meaning": "lumpur",
+    "level": "N3"
+  },
+  {
+    "id": 156,
+    "kanji": "努力",
+    "hiragana": "どりょく",
+    "meaning": "usaha keras",
+    "level": "N3"
+  },
+  {
+    "id": 157,
+    "kanji": "同一",
+    "hiragana": "どういつ",
+    "meaning": "sama, identik",
+    "level": "N3"
+  },
+  {
+    "id": 158,
+    "kanji": "当時",
+    "hiragana": "とうじ",
+    "meaning": "pada waktu itu",
+    "level": "N3"
+  },
+  {
+    "id": 159,
+    "kanji": "同時",
+    "hiragana": "どうじ",
+    "meaning": "bersamaan, simultan",
+    "level": "N3"
+  },
+  {
+    "id": 160,
+    "kanji": "銅貨",
+    "hiragana": "どうか",
+    "meaning": "koin tembaga",
+    "level": "N3"
+  },
+  {
+    "id": 161,
+    "kanji": "どうか",
+    "hiragana": "どうか",
+    "meaning": "tolong (permohonan)",
+    "level": "N3"
+  },
+  {
+    "id": 162,
+    "kanji": "同級生",
+    "hiragana": "どうきゅうせい",
+    "meaning": "teman sekelas",
+    "level": "N3"
+  },
+  {
+    "id": 163,
+    "kanji": "道路",
+    "hiragana": "どうろ",
+    "meaning": "jalan raya",
+    "level": "N3"
+  },
+  {
+    "id": 164,
+    "kanji": "同僚",
+    "hiragana": "どうりょう",
+    "meaning": "rekan kerja",
+    "level": "N3"
+  },
+  {
+    "id": 165,
+    "kanji": "動詞",
+    "hiragana": "どうし",
+    "meaning": "kata kerja",
+    "level": "N3"
+  },
+  {
+    "id": 166,
+    "kanji": "どうしても",
+    "hiragana": "どうしても",
+    "meaning": "bagaimanapun juga, harus",
+    "level": "N3"
+  },
+  {
+    "id": 167,
+    "kanji": "道徳",
+    "hiragana": "どうとく",
+    "meaning": "moralitas, etika",
+    "level": "N3"
+  },
+  {
+    "id": 168,
+    "kanji": "同様",
+    "hiragana": "どうよう",
+    "meaning": "sama, serupa",
+    "level": "N3"
+  },
+  {
+    "id": 169,
+    "kanji": "柄",
+    "hiragana": "え",
+    "meaning": "gagang, pegangan",
+    "level": "N3"
+  },
+  {
+    "id": 170,
+    "kanji": "描く",
+    "hiragana": "えがく",
+    "meaning": "menggambar, melukis",
+    "level": "N3"
+  },
+  {
+    "id": 171,
+    "kanji": "笑顔",
+    "hiragana": "えがお",
+    "meaning": "senyuman",
+    "level": "N3"
+  },
+  {
+    "id": 172,
+    "kanji": "永遠",
+    "hiragana": "えいえん",
+    "meaning": "keabadian",
+    "level": "N3"
+  },
+  {
+    "id": 173,
+    "kanji": "営業",
+    "hiragana": "えいぎょう",
+    "meaning": "bisnis, operasional",
+    "level": "N3"
+  },
+  {
+    "id": 174,
+    "kanji": "影響",
+    "hiragana": "えいきょう",
+    "meaning": "pengaruh",
+    "level": "N3"
+  },
+  {
+    "id": 175,
+    "kanji": "永久",
+    "hiragana": "えいきゅう",
+    "meaning": "abadi, permanen",
+    "level": "N3"
+  },
+  {
+    "id": 176,
+    "kanji": "衛星",
+    "hiragana": "えいせい",
+    "meaning": "satelit",
+    "level": "N3"
+  },
+  {
+    "id": 177,
+    "kanji": "栄養",
+    "hiragana": "えいよう",
+    "meaning": "nutrisi",
+    "level": "N3"
+  },
+  {
+    "id": 178,
+    "kanji": "円",
+    "hiragana": "えん",
+    "meaning": "yen (mata uang Jepang)",
+    "level": "N3"
+  },
+  {
+    "id": 179,
+    "kanji": "演技",
+    "hiragana": "えんぎ",
+    "meaning": "akting, pertunjukan",
+    "level": "N3"
+  },
+  {
+    "id": 180,
+    "kanji": "援助",
+    "hiragana": "えんじょ",
+    "meaning": "bantuan, dukungan",
+    "level": "N3"
+  },
+  {
+    "id": 181,
+    "kanji": "延期",
+    "hiragana": "えんき",
+    "meaning": "penundaan",
+    "level": "N3"
+  },
+  {
+    "id": 182,
+    "kanji": "遠足",
+    "hiragana": "えんそく",
+    "meaning": "piknik, perjalanan sekolah",
+    "level": "N3"
+  },
+  {
+    "id": 183,
+    "kanji": "演奏",
+    "hiragana": "えんそう",
+    "meaning": "pertunjukan musik",
+    "level": "N3"
+  },
+  {
+    "id": 184,
+    "kanji": "演説",
+    "hiragana": "えんぜつ",
+    "meaning": "pidato",
+    "level": "N3"
+  },
+  {
+    "id": 185,
+    "kanji": "得る",
+    "hiragana": "える",
+    "meaning": "mendapatkan, memperoleh",
+    "level": "N3"
+  },
+  {
+    "id": 186,
+    "kanji": "餌",
+    "hiragana": "えさ",
+    "meaning": "umpan, makanan hewan",
+    "level": "N3"
+  },
+  {
+    "id": 187,
+    "kanji": "不安",
+    "hiragana": "ふあん",
+    "meaning": "kecemasan, kegelisahan",
+    "level": "N3"
+  },
+  {
+    "id": 188,
+    "kanji": "縁",
+    "hiragana": "ふち",
+    "meaning": "tepi, pinggiran",
+    "level": "N3"
+  },
+  {
+    "id": 189,
+    "kanji": "普段",
+    "hiragana": "ふだん",
+    "meaning": "biasa, sehari-hari",
+    "level": "N3"
+  },
+  {
+    "id": 190,
+    "kanji": "筆",
+    "hiragana": "ふで",
+    "meaning": "kuas tulis",
+    "level": "N3"
+  },
+  {
+    "id": 191,
+    "kanji": "笛",
+    "hiragana": "ふえ",
+    "meaning": "seruling",
+    "level": "N3"
+  },
+  {
+    "id": 192,
+    "kanji": "不平",
+    "hiragana": "ふへい",
+    "meaning": "keluhan, ketidakpuasan",
+    "level": "N3"
+  },
+  {
+    "id": 193,
+    "kanji": "夫人",
+    "hiragana": "ふじん",
+    "meaning": "nyonya (istri)",
+    "level": "N3"
+  },
+  {
+    "id": 194,
+    "kanji": "婦人",
+    "hiragana": "ふじん",
+    "meaning": "wanita, perempuan dewasa",
+    "level": "N3"
+  },
+  {
+    "id": 195,
+    "kanji": "不自由",
+    "hiragana": "ふじゆう",
+    "meaning": "ketidaknyamanan, kesulitan",
+    "level": "N3"
+  },
+  {
+    "id": 196,
+    "kanji": "不可",
+    "hiragana": "ふか",
+    "meaning": "tidak mungkin, tidak boleh",
+    "level": "N3"
+  },
+  {
+    "id": 197,
+    "kanji": "不可能",
+    "hiragana": "ふかのう",
+    "meaning": "mustahil",
+    "level": "N3"
+  },
+  {
+    "id": 198,
+    "kanji": "不幸",
+    "hiragana": "ふこう",
+    "meaning": "ketidakbahagiaan, kesedihan",
+    "level": "N3"
+  },
+  {
+    "id": 199,
+    "kanji": "含む",
+    "hiragana": "ふくむ",
+    "meaning": "mengandung, termasuk",
+    "level": "N3"
+  },
+  {
+    "id": 200,
+    "kanji": "袋",
+    "hiragana": "ふくろ",
+    "meaning": "kantong, tas",
+    "level": "N3"
+  },
+  {
+    "id": 201,
+    "kanji": "服装",
+    "hiragana": "ふくそう",
+    "meaning": "pakaian, busana",
+    "level": "N3"
+  },
+  {
+    "id": 202,
+    "kanji": "不満",
+    "hiragana": "ふまん",
+    "meaning": "ketidakpuasan",
+    "level": "N3"
+  },
+  {
+    "id": 203,
+    "kanji": "雰囲気",
+    "hiragana": "ふんいき",
+    "meaning": "suasana, atmosfer",
+    "level": "N3"
+  },
+  {
+    "id": 204,
+    "kanji": "ふらふら",
+    "hiragana": "ふらふら",
+    "meaning": "goyah, tidak stabil",
+    "level": "N3"
+  },
+  {
+    "id": 205,
+    "kanji": "触れる",
+    "hiragana": "ふれる",
+    "meaning": "menyentuh, meraba",
+    "level": "N3"
+  },
+  {
+    "id": 206,
+    "kanji": "不利",
+    "hiragana": "ふり",
+    "meaning": "kerugian, tidak menguntungkan",
+    "level": "N3"
+  },
+  {
+    "id": 207,
+    "kanji": "振る",
+    "hiragana": "ふる",
+    "meaning": "menggoyang, mengocok",
+    "level": "N3"
+  },
+  {
+    "id": 208,
+    "kanji": "震える",
+    "hiragana": "ふるえる",
+    "meaning": "gemetar, bergetar",
+    "level": "N3"
+  },
+  {
+    "id": 209,
+    "kanji": "防ぐ",
+    "hiragana": "ふせぐ",
+    "meaning": "mencegah, menghalangi",
+    "level": "N3"
+  },
+  {
+    "id": 210,
+    "kanji": "不正",
+    "hiragana": "ふせい",
+    "meaning": "ketidakjujuran, kecurangan",
+    "level": "N3"
+  },
+  {
+    "id": 211,
+    "kanji": "節",
+    "hiragana": "ふし",
+    "meaning": "ruas, bagian",
+    "level": "N3"
+  },
+  {
+    "id": 212,
+    "kanji": "不思議",
+    "hiragana": "ふしぎ",
+    "meaning": "ajaib, misterius",
+    "level": "N3"
+  },
+  {
+    "id": 213,
+    "kanji": "不足",
+    "hiragana": "ふそく",
+    "meaning": "kekurangan, tidak cukup",
+    "level": "N3"
+  },
+  {
+    "id": 214,
+    "kanji": "双子",
+    "hiragana": "ふたご",
+    "meaning": "kembar",
+    "level": "N3"
+  },
+  {
+    "id": 215,
+    "kanji": "沸騰",
+    "hiragana": "ふっとう",
+    "meaning": "mendidih",
+    "level": "N3"
+  },
+  {
+    "id": 216,
+    "kanji": "夫婦",
+    "hiragana": "ふうふ",
+    "meaning": "suami istri",
+    "level": "N3"
+  },
+  {
+    "id": 217,
+    "kanji": "風景",
+    "hiragana": "ふうけい",
+    "meaning": "pemandangan",
+    "level": "N3"
+  },
+  {
+    "id": 218,
+    "kanji": "不要",
+    "hiragana": "ふよう",
+    "meaning": "tidak diperlukan",
+    "level": "N3"
+  },
+  {
+    "id": 219,
+    "kanji": "不用",
+    "hiragana": "ふよう",
+    "meaning": "tidak terpakai",
+    "level": "N3"
+  },
+  {
+    "id": 220,
+    "kanji": "不用品",
+    "hiragana": "ふようひん",
+    "meaning": "barang tidak terpakai",
+    "level": "N3"
+  },
+  {
+    "id": 221,
+    "kanji": "害",
+    "hiragana": "がい",
+    "meaning": "bahaya, kerusakan",
+    "level": "N3"
+  },
+  {
+    "id": 222,
+    "kanji": "外国語",
+    "hiragana": "がいこくご",
+    "meaning": "bahasa asing",
+    "level": "N3"
+  },
+  {
+    "id": 223,
+    "kanji": "外国産",
+    "hiragana": "がいこくさん",
+    "meaning": "produk impor",
+    "level": "N3"
+  },
+  {
+    "id": 224,
+    "kanji": "外交",
+    "hiragana": "がいこう",
+    "meaning": "diplomasi",
+    "level": "N3"
+  },
+  {
+    "id": 225,
+    "kanji": "外食",
+    "hiragana": "がいしょく",
+    "meaning": "makan di luar",
+    "level": "N3"
+  },
+  {
+    "id": 226,
+    "kanji": "外出",
+    "hiragana": "がいしゅつ",
+    "meaning": "pergi keluar",
+    "level": "N3"
+  },
+  {
+    "id": 227,
+    "kanji": "画家",
+    "hiragana": "がか",
+    "meaning": "pelukis",
+    "level": "N3"
+  },
+  {
+    "id": 228,
+    "kanji": "がっかり",
+    "hiragana": "がっかり",
+    "meaning": "kecewa",
+    "level": "N3"
+  },
+  {
+    "id": 229,
+    "kanji": "学期",
+    "hiragana": "がっき",
+    "meaning": "semester",
+    "level": "N3"
+  },
+  {
+    "id": 230,
+    "kanji": "楽器",
+    "hiragana": "がっき",
+    "meaning": "alat musik",
+    "level": "N3"
+  },
+  {
+    "id": 231,
+    "kanji": "学",
+    "hiragana": "がく",
+    "meaning": "studi, pembelajaran",
+    "level": "N3"
+  },
+  {
+    "id": 232,
+    "kanji": "学部",
+    "hiragana": "がくぶ",
+    "meaning": "fakultas (universitas)",
+    "level": "N3"
+  },
+  {
+    "id": 233,
+    "kanji": "学問",
+    "hiragana": "がくもん",
+    "meaning": "studi akademik",
+    "level": "N3"
+  },
+  {
+    "id": 234,
+    "kanji": "学者",
+    "hiragana": "がくしゃ",
+    "meaning": "sarjana, akademisi",
+    "level": "N3"
+  },
+  {
+    "id": 235,
+    "kanji": "学習",
+    "hiragana": "がくしゅう",
+    "meaning": "belajar, pembelajaran",
+    "level": "N3"
+  },
+  {
+    "id": 236,
+    "kanji": "画面",
+    "hiragana": "がめん",
+    "meaning": "layar (komputer/TV)",
+    "level": "N3"
+  },
+  {
+    "id": 237,
+    "kanji": "柄",
+    "hiragana": "がら",
+    "meaning": "pola, corak",
+    "level": "N3"
+  },
+  {
+    "id": 238,
+    "kanji": "芸術",
+    "hiragana": "げいじゅつ",
+    "meaning": "seni",
+    "level": "N3"
+  },
+  {
+    "id": 239,
+    "kanji": "外科",
+    "hiragana": "げか",
+    "meaning": "bedah (kedokteran)",
+    "level": "N3"
+  },
+  {
+    "id": 240,
+    "kanji": "劇",
+    "hiragana": "げき",
+    "meaning": "drama, sandiwara",
+    "level": "N3"
+  },
+  {
+    "id": 241,
+    "kanji": "劇場",
+    "hiragana": "げきじょう",
+    "meaning": "teater",
+    "level": "N3"
+  },
+  {
+    "id": 242,
+    "kanji": "現場",
+    "hiragana": "げんば",
+    "meaning": "lokasi kejadian",
+    "level": "N3"
+  },
+  {
+    "id": 243,
+    "kanji": "現代",
+    "hiragana": "げんだい",
+    "meaning": "era modern",
+    "level": "N3"
+  },
+  {
+    "id": 244,
+    "kanji": "言語",
+    "hiragana": "げんご",
+    "meaning": "bahasa",
+    "level": "N3"
+  },
+  {
+    "id": 245,
+    "kanji": "現実",
+    "hiragana": "げんじつ",
+    "meaning": "realitas",
+    "level": "N3"
+  },
+  {
+    "id": 246,
+    "kanji": "現状",
+    "hiragana": "げんじょう",
+    "meaning": "kondisi saat ini",
+    "level": "N3"
+  },
+  {
+    "id": 247,
+    "kanji": "限界",
+    "hiragana": "げんかい",
+    "meaning": "batas, limit",
+    "level": "N3"
+  },
+  {
+    "id": 248,
+    "kanji": "現金",
+    "hiragana": "げんきん",
+    "meaning": "uang tunai",
+    "level": "N3"
+  },
+  {
+    "id": 249,
+    "kanji": "現象",
+    "hiragana": "げんしょう",
+    "meaning": "fenomena",
+    "level": "N3"
+  },
+  {
+    "id": 250,
+    "kanji": "減少",
+    "hiragana": "げんしょう",
+    "meaning": "penurunan, pengurangan",
+    "level": "N3"
+  },
+  {
+    "id": 251,
+    "kanji": "現在",
+    "hiragana": "げんざい",
+    "meaning": "sekarang, saat ini",
+    "level": "N3"
+  },
+  {
+    "id": 252,
+    "kanji": "議長",
+    "hiragana": "ぎちょう",
+    "meaning": "ketua (rapat)",
+    "level": "N3"
+  },
+  {
+    "id": 253,
+    "kanji": "議員",
+    "hiragana": "ぎいん",
+    "meaning": "anggota parlemen",
+    "level": "N3"
+  },
+  {
+    "id": 254,
+    "kanji": "議会",
+    "hiragana": "ぎかい",
+    "meaning": "parlemen",
+    "level": "N3"
+  },
+  {
+    "id": 255,
+    "kanji": "疑問",
+    "hiragana": "ぎもん",
+    "meaning": "keraguan, pertanyaan",
+    "level": "N3"
+  },
+  {
+    "id": 256,
+    "kanji": "義務",
+    "hiragana": "ぎむ",
+    "meaning": "kewajiban",
+    "level": "N3"
+  },
+  {
+    "id": 257,
+    "kanji": "銀",
+    "hiragana": "ぎん",
+    "meaning": "perak",
+    "level": "N3"
+  },
+  {
+    "id": 258,
+    "kanji": "議論",
+    "hiragana": "ぎろん",
+    "meaning": "diskusi, debat",
+    "level": "N3"
+  },
+  {
+    "id": 259,
+    "kanji": "技師",
+    "hiragana": "ぎし",
+    "meaning": "insinyur, teknisi",
+    "level": "N3"
+  },
+  {
+    "id": 260,
+    "kanji": "語",
+    "hiragana": "ご",
+    "meaning": "bahasa, kata",
+    "level": "N3"
+  },
+  {
+    "id": 261,
+    "kanji": "語学",
+    "hiragana": "ごがく",
+    "meaning": "studi bahasa",
+    "level": "N3"
+  },
+  {
+    "id": 262,
+    "kanji": "豪華",
+    "hiragana": "ごうか",
+    "meaning": "mewah",
+    "level": "N3"
+  },
+  {
+    "id": 263,
+    "kanji": "誤解",
+    "hiragana": "ごかい",
+    "meaning": "kesalahpahaman",
+    "level": "N3"
+  },
+  {
+    "id": 264,
+    "kanji": "極",
+    "hiragana": "ごく",
+    "meaning": "sangat, ekstrem",
+    "level": "N3"
+  },
+  {
+    "id": 265,
+    "kanji": "塵",
+    "hiragana": "ごみ",
+    "meaning": "sampah",
+    "level": "N3"
+  },
+  {
+    "id": 266,
+    "kanji": "合格",
+    "hiragana": "ごうかく",
+    "meaning": "lulus (ujian)",
+    "level": "N3"
+  },
+  {
+    "id": 267,
+    "kanji": "合計",
+    "hiragana": "ごうけい",
+    "meaning": "total, jumlah",
+    "level": "N3"
+  },
+  {
+    "id": 268,
+    "kanji": "強盗",
+    "hiragana": "ごうとう",
+    "meaning": "perampokan",
+    "level": "N3"
+  },
+  {
+    "id": 269,
+    "kanji": "軍",
+    "hiragana": "ぐん",
+    "meaning": "militer, pasukan",
+    "level": "N3"
+  },
+  {
+    "id": 270,
+    "kanji": "軍隊",
+    "hiragana": "ぐんたい",
+    "meaning": "angkatan bersenjata",
+    "level": "N3"
+  },
+  {
+    "id": 271,
+    "kanji": "ぐっすり",
+    "hiragana": "ぐっすり",
+    "meaning": "tidur nyenyak",
+    "level": "N3"
+  },
+  {
+    "id": 272,
+    "kanji": "具体",
+    "hiragana": "ぐたい",
+    "meaning": "konkret, nyata",
+    "level": "N3"
+  },
+  {
+    "id": 273,
+    "kanji": "偶然",
+    "hiragana": "ぐうぜん",
+    "meaning": "kebetulan",
+    "level": "N3"
+  },
+  {
+    "id": 274,
+    "kanji": "逆",
+    "hiragana": "ぎゃく",
+    "meaning": "terbalik, sebaliknya",
+    "level": "N3"
+  },
+  {
+    "id": 275,
+    "kanji": "行儀",
+    "hiragana": "ぎょうぎ",
+    "meaning": "tata krama",
+    "level": "N3"
+  },
+  {
+    "id": 276,
+    "kanji": "幅",
+    "hiragana": "はば",
+    "meaning": "lebar",
+    "level": "N3"
+  },
+  {
+    "id": 277,
+    "kanji": "省く",
+    "hiragana": "はぶく",
+    "meaning": "menghemat, menghilangkan",
+    "level": "N3"
+  },
+  {
+    "id": 278,
+    "kanji": "肌",
+    "hiragana": "はだ",
+    "meaning": "kulit (tubuh)",
+    "level": "N3"
+  },
+  {
+    "id": 279,
+    "kanji": "裸",
+    "hiragana": "はだか",
+    "meaning": "telanjang",
+    "level": "N3"
+  },
+  {
+    "id": 280,
+    "kanji": "派手",
+    "hiragana": "はで",
+    "meaning": "mencolok, cerah (warna)",
+    "level": "N3"
+  },
+  {
+    "id": 281,
+    "kanji": "生える",
+    "hiragana": "はえる",
+    "meaning": "tumbuh (rambut, tanaman)",
+    "level": "N3"
+  },
+  {
+    "id": 282,
+    "kanji": "激しい",
+    "hiragana": "はげしい",
+    "meaning": "intens, keras",
+    "level": "N3"
+  },
+  {
+    "id": 283,
+    "kanji": "母親",
+    "hiragana": "ははおや",
+    "meaning": "ibu (orang tua)",
+    "level": "N3"
+  },
+  {
+    "id": 284,
+    "kanji": "灰",
+    "hiragana": "はい",
+    "meaning": "abu",
+    "level": "N3"
+  },
+  {
+    "id": 285,
+    "kanji": "掃く",
+    "hiragana": "はく",
+    "meaning": "menyapu",
+    "level": "N3"
+  },
+  {
+    "id": 286,
+    "kanji": "歯磨き",
+    "hiragana": "はみがき",
+    "meaning": "menggosok gigi",
+    "level": "N3"
+  },
+  {
+    "id": 287,
+    "kanji": "配送",
+    "hiragana": "はいそう",
+    "meaning": "pengiriman",
+    "level": "N3"
+  },
+  {
+    "id": 288,
+    "kanji": "配達",
+    "hiragana": "はいたつ",
+    "meaning": "pengiriman (barang)",
+    "level": "N3"
+  },
+  {
+    "id": 289,
+    "kanji": "俳優",
+    "hiragana": "はいゆう",
+    "meaning": "aktor",
+    "level": "N3"
+  },
+  {
+    "id": 290,
+    "kanji": "始まり",
+    "hiragana": "はじまり",
+    "meaning": "awal, permulaan",
+    "level": "N3"
+  },
+  {
+    "id": 291,
+    "kanji": "墓",
+    "hiragana": "はか",
+    "meaning": "makam",
+    "level": "N3"
+  },
+  {
+    "id": 292,
+    "kanji": "計る",
+    "hiragana": "はかる",
+    "meaning": "mengukur",
+    "level": "N3"
+  },
+  {
+    "id": 293,
+    "kanji": "博士",
+    "hiragana": "はかせ",
+    "meaning": "doktor (gelar)",
+    "level": "N3"
+  },
+  {
+    "id": 294,
+    "kanji": "発見",
+    "hiragana": "はっけん",
+    "meaning": "penemuan",
+    "level": "N3"
+  },
+  {
+    "id": 295,
+    "kanji": "発行",
+    "hiragana": "はっこう",
+    "meaning": "penerbitan",
+    "level": "N3"
+  },
+  {
+    "id": 296,
+    "kanji": "履く",
+    "hiragana": "はく",
+    "meaning": "memakai (celana, sepatu)",
+    "level": "N3"
+  },
+  {
+    "id": 297,
+    "kanji": "吐く",
+    "hiragana": "はく",
+    "meaning": "muntah",
+    "level": "N3"
+  },
+  {
+    "id": 298,
+    "kanji": "博物館",
+    "hiragana": "はくぶつかん",
+    "meaning": "museum",
+    "level": "N3"
+  },
+  {
+    "id": 299,
+    "kanji": "拍手",
+    "hiragana": "はくしゅ",
+    "meaning": "tepuk tangan",
+    "level": "N3"
+  },
+  {
+    "id": 300,
+    "kanji": "花火",
+    "hiragana": "はなび",
+    "meaning": "kembang api",
+    "level": "N3"
+  },
+  {
+    "id": 301,
+    "kanji": "離れる",
+    "hiragana": "はなれる",
+    "meaning": "terpisah, menjauh",
+    "level": "N3"
+  },
+  {
+    "id": 302,
+    "kanji": "話し合う",
+    "hiragana": "はなしあう",
+    "meaning": "berdiskusi",
+    "level": "N3"
+  },
+  {
+    "id": 303,
+    "kanji": "話しかける",
+    "hiragana": "はなしかける",
+    "meaning": "menyapa, memulai percakapan",
+    "level": "N3"
+  },
+  {
+    "id": 304,
+    "kanji": "離す",
+    "hiragana": "はなす",
+    "meaning": "melepaskan, memisahkan",
+    "level": "N3"
+  },
+  {
+    "id": 305,
+    "kanji": "放す",
+    "hiragana": "はなす",
+    "meaning": "melepaskan (hewan, benda)",
+    "level": "N3"
+  },
+  {
+    "id": 306,
+    "kanji": "花束",
+    "hiragana": "はなたば",
+    "meaning": "buket bunga",
+    "level": "N3"
+  },
+  {
+    "id": 307,
+    "kanji": "花屋",
+    "hiragana": "はなや",
+    "meaning": "toko bunga",
+    "level": "N3"
+  },
+  {
+    "id": 308,
+    "kanji": "羽",
+    "hiragana": "はね",
+    "meaning": "bulu, sayap",
+    "level": "N3"
+  },
+  {
+    "id": 309,
+    "kanji": "販売",
+    "hiragana": "はんばい",
+    "meaning": "penjualan",
+    "level": "N3"
+  },
+  {
+    "id": 310,
+    "kanji": "判断",
+    "hiragana": "はんだん",
+    "meaning": "penilaian, keputusan",
+    "level": "N3"
+  },
+  {
+    "id": 311,
+    "kanji": "範囲",
+    "hiragana": "はんい",
+    "meaning": "jangkauan, lingkup",
+    "level": "N3"
+  },
+  {
+    "id": 312,
+    "kanji": "反抗",
+    "hiragana": "はんこう",
+    "meaning": "pemberontakan",
+    "level": "N3"
+  },
+  {
+    "id": 313,
+    "kanji": "犯人",
+    "hiragana": "はんにん",
+    "meaning": "pelaku kejahatan",
+    "level": "N3"
+  },
+  {
+    "id": 314,
+    "kanji": "半年",
+    "hiragana": "はんとし",
+    "meaning": "setengah tahun",
+    "level": "N3"
+  },
+  {
+    "id": 315,
+    "kanji": "犯罪",
+    "hiragana": "はんざい",
+    "meaning": "kejahatan",
+    "level": "N3"
+  },
+  {
+    "id": 316,
+    "kanji": "発表",
+    "hiragana": "はっぴょう",
+    "meaning": "pengumuman",
+    "level": "N3"
+  },
+  {
+    "id": 317,
+    "kanji": "腹",
+    "hiragana": "はら",
+    "meaning": "perut",
+    "level": "N3"
+  },
+  {
+    "id": 318,
+    "kanji": "原",
+    "hiragana": "はら",
+    "meaning": "lapangan, dataran",
+    "level": "N3"
+  },
+  {
+    "id": 319,
+    "kanji": "針",
+    "hiragana": "はり",
+    "meaning": "jarum",
+    "level": "N3"
+  },
+  {
+    "id": 320,
+    "kanji": "鋏",
+    "hiragana": "はさみ",
+    "meaning": "gunting",
+    "level": "N3"
+  },
+  {
+    "id": 321,
+    "kanji": "破産",
+    "hiragana": "はさん",
+    "meaning": "kebangkrutan",
+    "level": "N3"
+  },
+  {
+    "id": 322,
+    "kanji": "端",
+    "hiragana": "はし",
+    "meaning": "ujung, pinggir",
+    "level": "N3"
+  },
+  {
+    "id": 323,
+    "kanji": "発車",
+    "hiragana": "はっしゃ",
+    "meaning": "keberangkatan (kendaraan)",
+    "level": "N3"
+  },
+  {
+    "id": 324,
+    "kanji": "発生",
+    "hiragana": "はっせい",
+    "meaning": "terjadi, muncul",
+    "level": "N3"
+  },
+  {
+    "id": 325,
+    "kanji": "旗",
+    "hiragana": "はた",
+    "meaning": "bendera",
+    "level": "N3"
+  },
+  {
+    "id": 326,
+    "kanji": "畑",
+    "hiragana": "はたけ",
+    "meaning": "ladang, kebun",
+    "level": "N3"
+  },
+  {
+    "id": 327,
+    "kanji": "働き",
+    "hiragana": "はたらき",
+    "meaning": "pekerjaan, fungsi",
+    "level": "N3"
+  },
+  {
+    "id": 328,
+    "kanji": "発達",
+    "hiragana": "はったつ",
+    "meaning": "perkembangan",
+    "level": "N3"
+  },
+  {
+    "id": 329,
+    "kanji": "発展",
+    "hiragana": "はってん",
+    "meaning": "kemajuan",
+    "level": "N3"
+  },
+  {
+    "id": 330,
+    "kanji": "発売",
+    "hiragana": "はつばい",
+    "meaning": "peluncuran (produk)",
+    "level": "N3"
+  },
+  {
+    "id": 331,
+    "kanji": "発明",
+    "hiragana": "はつめい",
+    "meaning": "penemuan, invensi",
+    "level": "N3"
+  },
+  {
+    "id": 332,
+    "kanji": "早めに",
+    "hiragana": "はやめに",
+    "meaning": "lebih awal",
+    "level": "N3"
+  },
+  {
+    "id": 333,
+    "kanji": "外す",
+    "hiragana": "はずす",
+    "meaning": "melepas, menghilangkan",
+    "level": "N3"
+  },
+  {
+    "id": 334,
+    "kanji": "塀",
+    "hiragana": "へい",
+    "meaning": "pagar, tembok",
+    "level": "N3"
+  },
+  {
+    "id": 335,
+    "kanji": "平方メートル",
+    "hiragana": "へいほうメートル",
+    "meaning": "meter persegi",
+    "level": "N3"
+  },
+  {
+    "id": 336,
+    "kanji": "平日",
+    "hiragana": "へいじつ",
+    "meaning": "hari kerja",
+    "level": "N3"
+  },
+  {
+    "id": 337,
+    "kanji": "平均",
+    "hiragana": "へいきん",
+    "meaning": "rata-rata",
+    "level": "N3"
+  },
+  {
+    "id": 338,
+    "kanji": "平和",
+    "hiragana": "へいわ",
+    "meaning": "perdamaian",
+    "level": "N3"
+  },
+  {
+    "id": 339,
+    "kanji": "変化",
+    "hiragana": "へんか",
+    "meaning": "perubahan",
+    "level": "N3"
+  },
+  {
+    "id": 340,
+    "kanji": "変更",
+    "hiragana": "へんこう",
+    "meaning": "perubahan, modifikasi",
+    "level": "N3"
+  },
+  {
+    "id": 341,
+    "kanji": "返却",
+    "hiragana": "へんきゃく",
+    "meaning": "pengembalian",
+    "level": "N3"
+  },
+  {
+    "id": 342,
+    "kanji": "減らす",
+    "hiragana": "へらす",
+    "meaning": "mengurangi",
+    "level": "N3"
+  },
+  {
+    "id": 343,
+    "kanji": "減る",
+    "hiragana": "へる",
+    "meaning": "berkurang",
+    "level": "N3"
+  },
+  {
+    "id": 344,
+    "kanji": "費",
+    "hiragana": "ひ",
+    "meaning": "biaya, pengeluaran",
+    "level": "N3"
+  },
+  {
+    "id": 345,
+    "kanji": "冷える",
+    "hiragana": "ひえる",
+    "meaning": "menjadi dingin",
+    "level": "N3"
+  },
+  {
+    "id": 346,
+    "kanji": "被害",
+    "hiragana": "ひがい",
+    "meaning": "kerusakan, kerugian",
+    "level": "N3"
+  },
+  {
+    "id": 347,
+    "kanji": "悲劇",
+    "hiragana": "ひげき",
+    "meaning": "tragedi",
+    "level": "N3"
+  },
+  {
+    "id": 348,
+    "kanji": "批判",
+    "hiragana": "ひはん",
+    "meaning": "kritik",
+    "level": "N3"
+  },
+  {
+    "id": 349,
+    "kanji": "批評",
+    "hiragana": "ひひょう",
+    "meaning": "ulasan, tinjauan",
+    "level": "N3"
+  },
+  {
+    "id": 350,
+    "kanji": "非常",
+    "hiragana": "ひじょう",
+    "meaning": "darurat, luar biasa",
+    "level": "N3"
+  },
+  {
+    "id": 351,
+    "kanji": "比較",
+    "hiragana": "ひかく",
+    "meaning": "perbandingan",
+    "level": "N3"
+  },
+  {
+    "id": 352,
+    "kanji": "引き受ける",
+    "hiragana": "ひきうける",
+    "meaning": "mengambil tanggung jawab",
+    "level": "N3"
+  },
+  {
+    "id": 353,
+    "kanji": "飛行",
+    "hiragana": "ひこう",
+    "meaning": "penerbangan",
+    "level": "N3"
+  },
+  {
+    "id": 354,
+    "kanji": "轢く",
+    "hiragana": "ひく",
+    "meaning": "menabrak (dengan kendaraan)",
+    "level": "N3"
+  },
+  {
+    "id": 355,
+    "kanji": "秘密",
+    "hiragana": "ひみつ",
+    "meaning": "rahasia",
+    "level": "N3"
+  },
+  {
+    "id": 356,
+    "kanji": "紐",
+    "hiragana": "ひも",
+    "meaning": "tali",
+    "level": "N3"
+  },
+  {
+    "id": 357,
+    "kanji": "引っ張る",
+    "hiragana": "ひっぱる",
+    "meaning": "menarik",
+    "level": "N3"
+  },
+  {
+    "id": 358,
+    "kanji": "広がる",
+    "hiragana": "ひろがる",
+    "meaning": "meluas, menyebar",
+    "level": "N3"
+  },
+  {
+    "id": 359,
+    "kanji": "昼寝",
+    "hiragana": "ひるね",
+    "meaning": "tidur siang",
+    "level": "N3"
+  },
+  {
+    "id": 360,
+    "kanji": "必死",
+    "hiragana": "ひっし",
+    "meaning": "putus asa, mati-matian",
+    "level": "N3"
+  },
+  {
+    "id": 361,
+    "kanji": "額",
+    "hiragana": "ひたい",
+    "meaning": "dahi",
+    "level": "N3"
+  },
+  {
+    "id": 362,
+    "kanji": "否定",
+    "hiragana": "ひてい",
+    "meaning": "penyangkalan",
+    "level": "N3"
+  },
+  {
+    "id": 363,
+    "kanji": "人々",
+    "hiragana": "ひとびと",
+    "meaning": "orang-orang",
+    "level": "N3"
+  },
+  {
+    "id": 364,
+    "kanji": "人込み",
+    "hiragana": "ひとごみ",
+    "meaning": "kerumunan orang",
+    "level": "N3"
+  },
+  {
+    "id": 365,
+    "kanji": "一言",
+    "hiragana": "ひとこと",
+    "meaning": "sepatah kata",
+    "level": "N3"
+  },
+  {
+    "id": 366,
+    "kanji": "一人暮らし",
+    "hiragana": "ひとりぐらし",
+    "meaning": "hidup sendirian",
+    "level": "N3"
+  },
+  {
+    "id": 367,
+    "kanji": "等しい",
+    "hiragana": "ひとしい",
+    "meaning": "sama, setara",
+    "level": "N3"
+  },
+  {
+    "id": 368,
+    "kanji": "費用",
+    "hiragana": "ひよう",
+    "meaning": "biaya",
+    "level": "N3"
+  },
+  {
+    "id": 369,
+    "kanji": "膝",
+    "hiragana": "ひざ",
+    "meaning": "lutut",
+    "level": "N3"
+  },
+  {
+    "id": 370,
+    "kanji": "日付",
+    "hiragana": "ひづけ",
+    "meaning": "tanggal",
+    "level": "N3"
+  },
+  {
+    "id": 371,
+    "kanji": "略",
+    "hiragana": "ほぼ",
+    "meaning": "kira-kira, hampir",
+    "level": "N3"
+  },
+  {
+    "id": 372,
+    "kanji": "歩道",
+    "hiragana": "ほどう",
+    "meaning": "trotoar",
+    "level": "N3"
+  },
+  {
+    "id": 373,
+    "kanji": "吠える",
+    "hiragana": "ほえる",
+    "meaning": "menggonggong",
+    "level": "N3"
+  },
+  {
+    "id": 374,
+    "kanji": "微笑む",
+    "hiragana": "ほほえむ",
+    "meaning": "tersenyum",
+    "level": "N3"
+  },
+  {
+    "id": 375,
+    "kanji": "誇り",
+    "hiragana": "ほこり",
+    "meaning": "kebanggaan",
+    "level": "N3"
+  },
+  {
+    "id": 376,
+    "kanji": "埃",
+    "hiragana": "ほこり",
+    "meaning": "debu",
+    "level": "N3"
+  },
+  {
+    "id": 377,
+    "kanji": "歩行者",
+    "hiragana": "ほこうしゃ",
+    "meaning": "pejalan kaki",
+    "level": "N3"
+  },
+  {
+    "id": 378,
+    "kanji": "骨",
+    "hiragana": "ほね",
+    "meaning": "tulang",
+    "level": "N3"
+  },
+  {
+    "id": 379,
+    "kanji": "本気",
+    "hiragana": "ほんき",
+    "meaning": "keseriusan",
+    "level": "N3"
+  },
+  {
+    "id": 380,
+    "kanji": "本物",
+    "hiragana": "ほんもの",
+    "meaning": "asli, bukan palsu",
+    "level": "N3"
+  },
+  {
+    "id": 381,
+    "kanji": "本人",
+    "hiragana": "ほんにん",
+    "meaning": "orang yang bersangkutan",
+    "level": "N3"
+  },
+  {
+    "id": 382,
+    "kanji": "炎",
+    "hiragana": "ほのお",
+    "meaning": "nyala api",
+    "level": "N3"
+  },
+  {
+    "id": 383,
+    "kanji": "本屋",
+    "hiragana": "ほんや",
+    "meaning": "toko buku",
+    "level": "N3"
+  },
+  {
+    "id": 384,
+    "kanji": "頬",
+    "hiragana": "ほお",
+    "meaning": "pipi",
+    "level": "N3"
+  },
+  {
+    "id": 385,
+    "kanji": "掘る",
+    "hiragana": "ほる",
+    "meaning": "menggali",
+    "level": "N3"
+  },
+  {
+    "id": 386,
+    "kanji": "保証",
+    "hiragana": "ほしょう",
+    "meaning": "garansi, jaminan",
+    "level": "N3"
+  },
+  {
+    "id": 387,
+    "kanji": "干す",
+    "hiragana": "ほす",
+    "meaning": "mengeringkan",
+    "level": "N3"
+  },
+  {
+    "id": 388,
+    "kanji": "ほっと",
+    "hiragana": "ほっと",
+    "meaning": "lega",
+    "level": "N3"
+  },
+  {
+    "id": 389,
+    "kanji": "保存",
+    "hiragana": "ほぞん",
+    "meaning": "penyimpanan",
+    "level": "N3"
+  },
+  {
+    "id": 390,
+    "kanji": "方",
+    "hiragana": "ほう",
+    "meaning": "arah, cara",
+    "level": "N3"
+  },
+  {
+    "id": 391,
+    "kanji": "法",
+    "hiragana": "ほう",
+    "meaning": "hukum, metode",
+    "level": "N3"
+  },
+  {
+    "id": 392,
+    "kanji": "放題",
+    "hiragana": "ほうだい",
+    "meaning": "sepuasnya (makan ~)",
+    "level": "N3"
+  },
+  {
+    "id": 393,
+    "kanji": "豊富",
+    "hiragana": "ほうふ",
+    "meaning": "melimpah",
+    "level": "N3"
+  },
+  {
+    "id": 394,
+    "kanji": "方法",
+    "hiragana": "ほうほう",
+    "meaning": "metode, cara",
+    "level": "N3"
+  },
+  {
+    "id": 395,
+    "kanji": "報告",
+    "hiragana": "ほうこく",
+    "meaning": "laporan",
+    "level": "N3"
+  },
+  {
+    "id": 396,
+    "kanji": "方向",
+    "hiragana": "ほうこう",
+    "meaning": "arah",
+    "level": "N3"
+  },
+  {
+    "id": 397,
+    "kanji": "訪問",
+    "hiragana": "ほうもん",
+    "meaning": "kunjungan",
+    "level": "N3"
+  },
+  {
+    "id": 398,
+    "kanji": "宝石",
+    "hiragana": "ほうせき",
+    "meaning": "permata",
+    "level": "N3"
+  },
+  {
+    "id": 399,
+    "kanji": "放送",
+    "hiragana": "ほうそう",
+    "meaning": "siaran",
+    "level": "N3"
+  },
+  {
+    "id": 400,
+    "kanji": "表",
+    "hiragana": "ひょう",
+    "meaning": "tabel, daftar",
+    "level": "N3"
+  },
+  {
+    "id": 401,
+    "kanji": "評判",
+    "hiragana": "ひょうばん",
+    "meaning": "reputasi",
+    "level": "N3"
+  },
+  {
+    "id": 402,
+    "kanji": "表現",
+    "hiragana": "ひょうげん",
+    "meaning": "ekspresi",
+    "level": "N3"
+  },
+  {
+    "id": 403,
+    "kanji": "表情",
+    "hiragana": "ひょうじょう",
+    "meaning": "ekspresi wajah",
+    "level": "N3"
+  },
+  {
+    "id": 404,
+    "kanji": "評価",
+    "hiragana": "ひょうか",
+    "meaning": "penilaian",
+    "level": "N3"
+  },
+  {
+    "id": 405,
+    "kanji": "表面",
+    "hiragana": "ひょうめん",
+    "meaning": "permukaan",
+    "level": "N3"
+  },
+  {
+    "id": 406,
+    "kanji": "胃",
+    "hiragana": "い",
+    "meaning": "lambung",
+    "level": "N3"
+  },
+  {
+    "id": 407,
+    "kanji": "一致",
+    "hiragana": "いっち",
+    "meaning": "kesesuaian",
+    "level": "N3"
+  },
+  {
+    "id": 408,
+    "kanji": "位置",
+    "hiragana": "いち",
+    "meaning": "posisi",
+    "level": "N3"
+  },
+  {
+    "id": 409,
+    "kanji": "市場",
+    "hiragana": "いちば",
+    "meaning": "pasar",
+    "level": "N3"
+  },
+  {
+    "id": 410,
+    "kanji": "一部",
+    "hiragana": "いちぶ",
+    "meaning": "sebagian",
+    "level": "N3"
+  },
+  {
+    "id": 411,
+    "kanji": "一度に",
+    "hiragana": "いちどに",
+    "meaning": "sekali gus",
+    "level": "N3"
+  },
+  {
+    "id": 412,
+    "kanji": "一時",
+    "hiragana": "いちじ",
+    "meaning": "sementara",
+    "level": "N3"
+  },
+  {
+    "id": 413,
+    "kanji": "一応",
+    "hiragana": "いちおう",
+    "meaning": "sebagai langkah awal",
+    "level": "N3"
+  },
+  {
+    "id": 414,
+    "kanji": "一流",
+    "hiragana": "いちりゅう",
+    "meaning": "kelas satu",
+    "level": "N3"
+  },
+  {
+    "id": 415,
+    "kanji": "偉大",
+    "hiragana": "いだい",
+    "meaning": "agung",
+    "level": "N3"
+  },
+  {
+    "id": 416,
+    "kanji": "抱く",
+    "hiragana": "いだく",
+    "meaning": "memeluk",
+    "level": "N3"
+  },
+  {
+    "id": 417,
+    "kanji": "移動",
+    "hiragana": "いどう",
+    "meaning": "perpindahan",
+    "level": "N3"
+  },
+  {
+    "id": 418,
+    "kanji": "衣服",
+    "hiragana": "いふく",
+    "meaning": "pakaian",
+    "level": "N3"
+  },
+  {
+    "id": 419,
+    "kanji": "意外",
+    "hiragana": "いがい",
+    "meaning": "tak terduga",
+    "level": "N3"
+  },
+  {
+    "id": 420,
+    "kanji": "違反",
+    "hiragana": "いはん",
+    "meaning": "pelanggaran",
+    "level": "N3"
+  },
+  {
+    "id": 421,
+    "kanji": "委員",
+    "hiragana": "いいん",
+    "meaning": "komite",
+    "level": "N3"
+  },
+  {
+    "id": 422,
+    "kanji": "維持",
+    "hiragana": "いじ",
+    "meaning": "pemeliharaan",
+    "level": "N3"
+  },
+  {
+    "id": 423,
+    "kanji": "異常",
+    "hiragana": "いじょう",
+    "meaning": "tidak normal",
+    "level": "N3"
+  },
+  {
+    "id": 424,
+    "kanji": "一家",
+    "hiragana": "いっか",
+    "meaning": "seluruh keluarga",
+    "level": "N3"
+  },
+  {
+    "id": 425,
+    "kanji": "息",
+    "hiragana": "いき",
+    "meaning": "nafas",
+    "level": "N3"
+  },
+  {
+    "id": 426,
+    "kanji": "生き物",
+    "hiragana": "いきもの",
+    "meaning": "makhluk hidup",
+    "level": "N3"
+  },
+  {
+    "id": 427,
+    "kanji": "勢い",
+    "hiragana": "いきおい",
+    "meaning": "semangat",
+    "level": "N3"
+  },
+  {
+    "id": 428,
+    "kanji": "以降",
+    "hiragana": "いこう",
+    "meaning": "setelah ini",
+    "level": "N3"
+  },
+  {
+    "id": 429,
+    "kanji": "居間",
+    "hiragana": "いま",
+    "meaning": "ruang tamu",
+    "level": "N3"
+  },
+  {
+    "id": 430,
+    "kanji": "今に",
+    "hiragana": "いまに",
+    "meaning": "segera",
+    "level": "N3"
+  },
+  {
+    "id": 431,
+    "kanji": "今にも",
+    "hiragana": "いまにも",
+    "meaning": "hampir",
+    "level": "N3"
+  },
+  {
+    "id": 432,
+    "kanji": "稲",
+    "hiragana": "いね",
+    "meaning": "padi",
+    "level": "N3"
+  },
+  {
+    "id": 433,
+    "kanji": "居眠り",
+    "hiragana": "いねむり",
+    "meaning": "tidur sebentar",
+    "level": "N3"
+  },
+  {
+    "id": 434,
+    "kanji": "命",
+    "hiragana": "いのち",
+    "meaning": "nyawa",
+    "level": "N3"
+  },
+  {
+    "id": 435,
+    "kanji": "飲料",
+    "hiragana": "いんりょう",
+    "meaning": "minuman",
+    "level": "N3"
+  },
+  {
+    "id": 436,
+    "kanji": "印刷",
+    "hiragana": "いんさつ",
+    "meaning": "cetak",
+    "level": "N3"
+  },
+  {
+    "id": 437,
+    "kanji": "飲食",
+    "hiragana": "いんしょく",
+    "meaning": "makan dan minum",
+    "level": "N3"
+  },
+  {
+    "id": 438,
+    "kanji": "印象",
+    "hiragana": "いんしょう",
+    "meaning": "kesan",
+    "level": "N3"
+  },
+  {
+    "id": 439,
+    "kanji": "引退",
+    "hiragana": "いんたい",
+    "meaning": "pensiun",
+    "level": "N3"
+  },
+  {
+    "id": 440,
+    "kanji": "引用",
+    "hiragana": "いんよう",
+    "meaning": "kutipan",
+    "level": "N3"
+  },
+  {
+    "id": 441,
+    "kanji": "一般",
+    "hiragana": "いっぱん",
+    "meaning": "umum",
+    "level": "N3"
+  },
+  {
+    "id": 442,
+    "kanji": "一方",
+    "hiragana": "いっぽう",
+    "meaning": "di sisi lain",
+    "level": "N3"
+  },
+  {
+    "id": 443,
+    "kanji": "以来",
+    "hiragana": "いらい",
+    "meaning": "sejak",
+    "level": "N3"
+  },
+  {
+    "id": 444,
+    "kanji": "依頼",
+    "hiragana": "いらい",
+    "meaning": "permintaan",
+    "level": "N3"
+  },
+  {
+    "id": 445,
+    "kanji": "苛々",
+    "hiragana": "いらいら",
+    "meaning": "jengkel",
+    "level": "N3"
+  },
+  {
+    "id": 446,
+    "kanji": "衣類",
+    "hiragana": "いるい",
+    "meaning": "pakaian",
+    "level": "N3"
+  },
+  {
+    "id": 447,
+    "kanji": "医療",
+    "hiragana": "いりょう",
+    "meaning": "pengobatan",
+    "level": "N3"
+  },
+  {
+    "id": 448,
+    "kanji": "医師",
+    "hiragana": "いし",
+    "meaning": "dokter",
+    "level": "N3"
+  },
+  {
+    "id": 449,
+    "kanji": "意思",
+    "hiragana": "いし",
+    "meaning": "kehendak",
+    "level": "N3"
+  },
+  {
+    "id": 450,
+    "kanji": "意志",
+    "hiragana": "いし",
+    "meaning": "kemauan",
+    "level": "N3"
+  },
+  {
+    "id": 451,
+    "kanji": "意識",
+    "hiragana": "いしき",
+    "meaning": "kesadaran",
+    "level": "N3"
+  },
+  {
+    "id": 452,
+    "kanji": "一生",
+    "hiragana": "いっしょう",
+    "meaning": "seumur hidup",
+    "level": "N3"
+  },
+  {
+    "id": 453,
+    "kanji": "一種",
+    "hiragana": "いっしゅ",
+    "meaning": "sejenis",
+    "level": "N3"
+  },
+  {
+    "id": 454,
+    "kanji": "一瞬",
+    "hiragana": "いっしゅん",
+    "meaning": "sekejap",
+    "level": "N3"
+  },
+  {
+    "id": 455,
+    "kanji": "一層",
+    "hiragana": "いっそう",
+    "meaning": "lebih lagi",
+    "level": "N3"
+  },
+  {
+    "id": 456,
+    "kanji": "板",
+    "hiragana": "いた",
+    "meaning": "papan",
+    "level": "N3"
+  },
+  {
+    "id": 457,
+    "kanji": "痛み",
+    "hiragana": "いたみ",
+    "meaning": "rasa sakit",
+    "level": "N3"
+  },
+  {
+    "id": 458,
+    "kanji": "痛む",
+    "hiragana": "いたむ",
+    "meaning": "merasa sakit",
+    "level": "N3"
+  },
+  {
+    "id": 459,
+    "kanji": "至る",
+    "hiragana": "いたる",
+    "meaning": "sampai",
+    "level": "N3"
+  },
+  {
+    "id": 460,
+    "kanji": "悪戯",
+    "hiragana": "いたずら",
+    "meaning": "kenakalan",
+    "level": "N3"
+  },
+  {
+    "id": 461,
+    "kanji": "従兄弟",
+    "hiragana": "いとこ",
+    "meaning": "sepupu",
+    "level": "N3"
+  },
+  {
+    "id": 462,
+    "kanji": "一体",
+    "hiragana": "いったい",
+    "meaning": "sebenarnya",
+    "level": "N3"
+  },
+  {
+    "id": 463,
+    "kanji": "いつの間にか",
+    "hiragana": "いつのまにか",
+    "meaning": "tanpa disadari",
+    "level": "N3"
+  },
+  {
+    "id": 464,
+    "kanji": "岩",
+    "hiragana": "いわ",
+    "meaning": "batu besar",
+    "level": "N3"
+  },
+  {
+    "id": 465,
+    "kanji": "言わば",
+    "hiragana": "いわば",
+    "meaning": "bisa dikatakan",
+    "level": "N3"
+  },
+  {
+    "id": 466,
+    "kanji": "祝う",
+    "hiragana": "いわう",
+    "meaning": "merayakan",
+    "level": "N3"
+  },
+  {
+    "id": 467,
+    "kanji": "嫌がる",
+    "hiragana": "いやがる",
+    "meaning": "tidak suka",
+    "level": "N3"
+  },
+  {
+    "id": 468,
+    "kanji": "以前",
+    "hiragana": "いぜん",
+    "meaning": "sebelumnya",
+    "level": "N3"
+  },
+  {
+    "id": 469,
+    "kanji": "泉",
+    "hiragana": "いずみ",
+    "meaning": "mata air",
+    "level": "N3"
+  },
+  {
+    "id": 470,
+    "kanji": "自動",
+    "hiragana": "じどう",
+    "meaning": "otomatis",
+    "level": "N3"
+  },
+  {
+    "id": 471,
+    "kanji": "自動販売機",
+    "hiragana": "じどうはんばいき",
+    "meaning": "mesin penjual otomatis",
+    "level": "N3"
+  },
+  {
+    "id": 472,
+    "kanji": "自動車",
+    "hiragana": "じどうしゃ",
+    "meaning": "mobil",
+    "level": "N3"
+  },
+  {
+    "id": 473,
+    "kanji": "事実",
+    "hiragana": "じじつ",
+    "meaning": "fakta",
+    "level": "N3"
+  },
+  {
+    "id": 474,
+    "kanji": "事情",
+    "hiragana": "じじょう",
+    "meaning": "keadaan",
+    "level": "N3"
+  },
+  {
+    "id": 475,
+    "kanji": "直に",
+    "hiragana": "じかに",
+    "meaning": "langsung",
+    "level": "N3"
+  },
+  {
+    "id": 476,
+    "kanji": "事件",
+    "hiragana": "じけん",
+    "meaning": "kasus",
+    "level": "N3"
+  },
+  {
+    "id": 477,
+    "kanji": "時期",
+    "hiragana": "じき",
+    "meaning": "periode",
+    "level": "N3"
+  },
+  {
+    "id": 478,
+    "kanji": "実家",
+    "hiragana": "じっか",
+    "meaning": "rumah orang tua",
+    "level": "N3"
+  },
+  {
+    "id": 479,
+    "kanji": "実験",
+    "hiragana": "じっけん",
+    "meaning": "percobaan",
+    "level": "N3"
+  },
+  {
+    "id": 480,
+    "kanji": "実行",
+    "hiragana": "じっこう",
+    "meaning": "pelaksanaan",
+    "level": "N3"
+  },
+  {
+    "id": 481,
+    "kanji": "時刻",
+    "hiragana": "じこく",
+    "meaning": "waktu",
+    "level": "N3"
+  },
+  {
+    "id": 482,
+    "kanji": "自慢",
+    "hiragana": "じまん",
+    "meaning": "sombong",
+    "level": "N3"
+  },
+  {
+    "id": 483,
+    "kanji": "地面",
+    "hiragana": "じめん",
+    "meaning": "permukaan tanah",
+    "level": "N3"
+  },
+  {
+    "id": 484,
+    "kanji": "事務",
+    "hiragana": "じむ",
+    "meaning": "administrasi",
+    "level": "N3"
+  },
+  {
+    "id": 485,
+    "kanji": "事務室",
+    "hiragana": "じむしつ",
+    "meaning": "kantor",
+    "level": "N3"
+  },
+  {
+    "id": 486,
+    "kanji": "人物",
+    "hiragana": "じんぶつ",
+    "meaning": "tokoh",
+    "level": "N3"
+  },
+  {
+    "id": 487,
+    "kanji": "人工",
+    "hiragana": "じんこう",
+    "meaning": "buatan",
+    "level": "N3"
+  },
+  {
+    "id": 488,
+    "kanji": "人類",
+    "hiragana": "じんるい",
+    "meaning": "manusia",
+    "level": "N3"
+  },
+  {
+    "id": 489,
+    "kanji": "生",
+    "hiragana": "じんせい",
+    "meaning": "kehidupan",
+    "level": "N3"
+  },
+  {
+    "id": 490,
+    "kanji": "人種",
+    "hiragana": "じんしゅ",
+    "meaning": "ras",
+    "level": "N3"
+  },
+  {
+    "id": 491,
+    "kanji": "時差",
+    "hiragana": "じさ",
+    "meaning": "perbedaan waktu",
+    "level": "N3"
+  },
+  {
+    "id": 492,
+    "kanji": "自殺",
+    "hiragana": "じさつ",
+    "meaning": "bunuh diri",
+    "level": "N3"
+  },
+  {
+    "id": 493,
+    "kanji": "自身",
+    "hiragana": "じしん",
+    "meaning": "diri sendiri",
+    "level": "N3"
+  },
+  {
+    "id": 494,
+    "kanji": "自信",
+    "hiragana": "じしん",
+    "meaning": "percaya diri",
+    "level": "N3"
+  },
+  {
+    "id": 495,
+    "kanji": "実際",
+    "hiragana": "じっさい",
+    "meaning": "kenyataan",
+    "level": "N3"
+  },
+  {
+    "id": 496,
+    "kanji": "実施",
+    "hiragana": "じっし",
+    "meaning": "implementasi",
+    "level": "N3"
+  },
+  {
+    "id": 497,
+    "kanji": "実習",
+    "hiragana": "じっしゅう",
+    "meaning": "pelatihan",
+    "level": "N3"
+  },
+  {
+    "id": 498,
+    "kanji": "事態",
+    "hiragana": "じたい",
+    "meaning": "situasi",
+    "level": "N3"
+  },
+  {
+    "id": 499,
+    "kanji": "自宅",
+    "hiragana": "じたく",
+    "meaning": "rumah sendiri",
+    "level": "N3"
+  },
+  {
+    "id": 500,
+    "kanji": "実現",
+    "hiragana": "じつげん",
+    "meaning": "realisasi",
+    "level": "N3"
+  },
+  {
+    "id": 501,
+    "kanji": "実力",
+    "hiragana": "じつりょく",
+    "meaning": "kemampuan sebenarnya",
+    "level": "N3"
+  },
+  {
+    "id": 502,
+    "kanji": "実は",
+    "hiragana": "じつは",
+    "meaning": "sebenarnya",
+    "level": "N3"
+  },
+  {
+    "id": 503,
+    "kanji": "実用",
+    "hiragana": "じつよう",
+    "meaning": "kegunaan praktis",
+    "level": "N3"
+  },
+  {
+    "id": 504,
+    "kanji": "徐々",
+    "hiragana": "じょじょ",
+    "meaning": "perlahan-lahan",
+    "level": "N3"
+  },
+  {
+    "id": 505,
+    "kanji": "女子",
+    "hiragana": "じょし",
+    "meaning": "perempuan",
+    "level": "N3"
+  },
+  {
+    "id": 506,
+    "kanji": "助手",
+    "hiragana": "じょしゅ",
+    "meaning": "asisten",
+    "level": "N3"
+  },
+  {
+    "id": 507,
+    "kanji": "女王",
+    "hiragana": "じょおう",
+    "meaning": "ratu",
+    "level": "N3"
+  },
+  {
+    "id": 508,
+    "kanji": "丈夫",
+    "hiragana": "じょうぶ",
+    "meaning": "kuat",
+    "level": "N3"
+  },
+  {
+    "id": 509,
+    "kanji": "冗談",
+    "hiragana": "じょうだん",
+    "meaning": "candaan",
+    "level": "N3"
+  },
+  {
+    "id": 510,
+    "kanji": "上下",
+    "hiragana": "じょうげ",
+    "meaning": "atas bawah",
+    "level": "N3"
+  },
+  {
+    "id": 511,
+    "kanji": "上品",
+    "hiragana": "じょうひん",
+    "meaning": "anggun",
+    "level": "N3"
+  },
+  {
+    "id": 512,
+    "kanji": "情報",
+    "hiragana": "じょうほう",
+    "meaning": "informasi",
+    "level": "N3"
+  },
+  {
+    "id": 513,
+    "kanji": "条件",
+    "hiragana": "じょうけん",
+    "meaning": "syarat",
+    "level": "N3"
+  },
+  {
+    "id": 514,
+    "kanji": "上空",
+    "hiragana": "じょうくう",
+    "meaning": "langit",
+    "level": "N3"
+  },
+  {
+    "id": 515,
+    "kanji": "乗客",
+    "hiragana": "じょうきゃく",
+    "meaning": "penumpang",
+    "level": "N3"
+  },
+  {
+    "id": 516,
+    "kanji": "上京",
+    "hiragana": "じょうきょう",
+    "meaning": "pergi ke Tokyo",
+    "level": "N3"
+  },
+  {
+    "id": 517,
+    "kanji": "状況",
+    "hiragana": "じょうきょう",
+    "meaning": "situasi",
+    "level": "N3"
+  },
+  {
+    "id": 518,
+    "kanji": "常識",
+    "hiragana": "じょうしき",
+    "meaning": "akal sehat",
+    "level": "N3"
+  },
+  {
+    "id": 519,
+    "kanji": "状態",
+    "hiragana": "じょうたい",
+    "meaning": "kondisi",
+    "level": "N3"
+  },
+  {
+    "id": 520,
+    "kanji": "上達",
+    "hiragana": "じょうたつ",
+    "meaning": "kemajuan",
+    "level": "N3"
+  },
+  {
+    "id": 521,
+    "kanji": "上等",
+    "hiragana": "じょうとう",
+    "meaning": "kelas satu",
+    "level": "N3"
+  },
+  {
+    "id": 522,
+    "kanji": "女優",
+    "hiragana": "じょゆう",
+    "meaning": "aktris",
+    "level": "N3"
+  },
+  {
+    "id": 523,
+    "kanji": "受験",
+    "hiragana": "じゅけん",
+    "meaning": "mengikuti ujian",
+    "level": "N3"
+  },
+  {
+    "id": 524,
+    "kanji": "順",
+    "hiragana": "じゅん",
+    "meaning": "urutan",
+    "level": "N3"
+  },
+  {
+    "id": 525,
+    "kanji": "順番",
+    "hiragana": "じゅんばん",
+    "meaning": "giliran",
+    "level": "N3"
+  },
+  {
+    "id": 526,
+    "kanji": "順調",
+    "hiragana": "じゅんちょう",
+    "meaning": "lancar",
+    "level": "N3"
+  },
+  {
+    "id": 527,
+    "kanji": "銃",
+    "hiragana": "じゅう",
+    "meaning": "senjata",
+    "level": "N3"
+  },
+  {
+    "id": 528,
+    "kanji": "重大",
+    "hiragana": "じゅうだい",
+    "meaning": "penting",
+    "level": "N3"
+  },
+  {
+    "id": 529,
+    "kanji": "柔道",
+    "hiragana": "じゅうどう",
+    "meaning": "judo",
+    "level": "N3"
+  },
+  {
+    "id": 530,
+    "kanji": "住民",
+    "hiragana": "じゅうみん",
+    "meaning": "penduduk",
+    "level": "N3"
+  },
+  {
+    "id": 531,
+    "kanji": "重視",
+    "hiragana": "じゅうし",
+    "meaning": "penekanan",
+    "level": "N3"
+  },
+  {
+    "id": 532,
+    "kanji": "渋滞",
+    "hiragana": "じゅうたい",
+    "meaning": "kemacetan",
+    "level": "N3"
+  },
+  {
+    "id": 533,
+    "kanji": "住宅",
+    "hiragana": "じゅうたく",
+    "meaning": "perumahan",
+    "level": "N3"
+  },
+  {
+    "id": 534,
+    "kanji": "重要",
+    "hiragana": "じゅうよう",
+    "meaning": "penting",
+    "level": "N3"
+  },
+  {
+    "id": 535,
+    "kanji": "需要",
+    "hiragana": "じゅよう",
+    "meaning": "permintaan",
+    "level": "N3"
+  },
+  {
+    "id": 536,
+    "kanji": "株",
+    "hiragana": "かぶ",
+    "meaning": "saham",
+    "level": "N3"
+  },
+  {
+    "id": 537,
+    "kanji": "被る",
+    "hiragana": "かぶる",
+    "meaning": "memakai (topi)",
+    "level": "N3"
+  },
+  {
+    "id": 538,
+    "kanji": "勝ち",
+    "hiragana": "かち",
+    "meaning": "kemenangan",
+    "level": "N3"
+  },
+  {
+    "id": 539,
+    "kanji": "価値",
+    "hiragana": "かち",
+    "meaning": "nilai",
+    "level": "N3"
+  },
+  {
+    "id": 540,
+    "kanji": "替える",
+    "hiragana": "かえる",
+    "meaning": "mengganti",
+    "level": "N3"
+  },
+  {
+    "id": 541,
+    "kanji": "会",
+    "hiragana": "かい",
+    "meaning": "pertemuan",
+    "level": "N3"
+  },
+  {
+    "id": 542,
+    "kanji": "回",
+    "hiragana": "かい",
+    "meaning": "kali",
+    "level": "N3"
+  },
+  {
+    "id": 543,
+    "kanji": "回復",
+    "hiragana": "かいふく",
+    "meaning": "pemulihan",
+    "level": "N3"
+  },
+  {
+    "id": 544,
+    "kanji": "絵画",
+    "hiragana": "かいが",
+    "meaning": "lukisan",
+    "level": "N3"
+  },
+  {
+    "id": 545,
+    "kanji": "会合",
+    "hiragana": "かいごう",
+    "meaning": "pertemuan",
+    "level": "N3"
+  },
+  {
+    "id": 546,
+    "kanji": "海外",
+    "hiragana": "かいがい",
+    "meaning": "luar negeri",
+    "level": "N3"
+  },
+  {
+    "id": 547,
+    "kanji": "会員",
+    "hiragana": "かいいん",
+    "meaning": "anggota",
+    "level": "N3"
+  },
+  {
+    "id": 548,
+    "kanji": "会計",
+    "hiragana": "かいけい",
+    "meaning": "akuntansi",
+    "level": "N3"
+  },
+  {
+    "id": 549,
+    "kanji": "改札",
+    "hiragana": "かいさつ",
+    "meaning": "pintu tiket",
+    "level": "N3"
+  },
+  {
+    "id": 550,
+    "kanji": "解決",
+    "hiragana": "かいけつ",
+    "meaning": "penyelesaian",
+    "level": "N3"
+  },
+  {
+    "id": 551,
+    "kanji": "快晴",
+    "hiragana": "かいせい",
+    "meaning": "cerah",
+    "level": "N3"
+  },
+  {
+    "id": 552,
+    "kanji": "会社員",
+    "hiragana": "かいしゃいん",
+    "meaning": "karyawan perusahaan",
+    "level": "N3"
+  },
+  {
+    "id": 553,
+    "kanji": "解釈",
+    "hiragana": "かいしゃく",
+    "meaning": "interpretasi",
+    "level": "N3"
+  },
+  {
+    "id": 554,
+    "kanji": "開始",
+    "hiragana": "かいし",
+    "meaning": "mulai",
+    "level": "N3"
+  },
+  {
+    "id": 555,
+    "kanji": "回収",
+    "hiragana": "かいしゅう",
+    "meaning": "pengumpulan",
+    "level": "N3"
+  },
+  {
+    "id": 556,
+    "kanji": "回数",
+    "hiragana": "かいすう",
+    "meaning": "frekuensi",
+    "level": "N3"
+  },
+  {
+    "id": 557,
+    "kanji": "快適",
+    "hiragana": "かいてき",
+    "meaning": "nyaman",
+    "level": "N3"
+  },
+  {
+    "id": 558,
+    "kanji": "改善",
+    "hiragana": "かいぜん",
+    "meaning": "perbaikan",
+    "level": "N3"
+  },
+  {
+    "id": 559,
+    "kanji": "化学",
+    "hiragana": "かがく",
+    "meaning": "kimia",
+    "level": "N3"
+  },
+  {
+    "id": 560,
+    "kanji": "輝く",
+    "hiragana": "かがやく",
+    "meaning": "bersinar",
+    "level": "N3"
+  },
+  {
+    "id": 561,
+    "kanji": "影",
+    "hiragana": "かげ",
+    "meaning": "bayangan",
+    "level": "N3"
+  },
+  {
+    "id": 562,
+    "kanji": "加減",
+    "hiragana": "かげん",
+    "meaning": "penyesuaian",
+    "level": "N3"
+  },
+  {
+    "id": 563,
+    "kanji": "鍵",
+    "hiragana": "かぎ",
+    "meaning": "kunci",
+    "level": "N3"
+  },
+  {
+    "id": 564,
+    "kanji": "限る",
+    "hiragana": "かぎる",
+    "meaning": "membatasi",
+    "level": "N3"
+  },
+  {
+    "id": 565,
+    "kanji": "籠",
+    "hiragana": "かご",
+    "meaning": "keranjang",
+    "level": "N3"
+  },
+  {
+    "id": 566,
+    "kanji": "家具",
+    "hiragana": "かぐ",
+    "meaning": "perabot",
+    "level": "N3"
+  },
+  {
+    "id": 567,
+    "kanji": "家事",
+    "hiragana": "かじ",
+    "meaning": "pekerjaan rumah",
+    "level": "N3"
+  },
+  {
+    "id": 568,
+    "kanji": "抱える",
+    "hiragana": "かかえる",
+    "meaning": "memegang",
+    "level": "N3"
+  },
+  {
+    "id": 569,
+    "kanji": "価格",
+    "hiragana": "かかく",
+    "meaning": "harga",
+    "level": "N3"
+  },
+  {
+    "id": 570,
+    "kanji": "かかる",
+    "hiragana": "かかる",
+    "meaning": "memakan waktu",
+    "level": "N3"
+  },
+  {
+    "id": 571,
+    "kanji": "関わる",
+    "hiragana": "かかわる",
+    "meaning": "terkait",
+    "level": "N3"
+  },
+  {
+    "id": 572,
+    "kanji": "欠ける",
+    "hiragana": "かける",
+    "meaning": "kurang",
+    "level": "N3"
+  },
+  {
+    "id": 573,
+    "kanji": "書き直す",
+    "hiragana": "かきなおす",
+    "meaning": "menulis ulang",
+    "level": "N3"
+  },
+  {
+    "id": 574,
+    "kanji": "活気",
+    "hiragana": "かっき",
+    "meaning": "semangat",
+    "level": "N3"
+  },
+  {
+    "id": 575,
+    "kanji": "過去",
+    "hiragana": "かこ",
+    "meaning": "masa lalu",
+    "level": "N3"
+  },
+  {
+    "id": 576,
+    "kanji": "囲む",
+    "hiragana": "かこむ",
+    "meaning": "mengelilingi",
+    "level": "N3"
+  },
+  {
+    "id": 577,
+    "kanji": "各地",
+    "hiragana": "かくち",
+    "meaning": "berbagai daerah",
+    "level": "N3"
+  },
+  {
+    "id": 578,
+    "kanji": "拡大",
+    "hiragana": "かくだい",
+    "meaning": "perluasan",
+    "level": "N3"
+  },
+  {
+    "id": 579,
+    "kanji": "覚悟",
+    "hiragana": "かくご",
+    "meaning": "kesiapan mental",
+    "level": "N3"
+  },
+  {
+    "id": 580,
+    "kanji": "確実",
+    "hiragana": "かくじつ",
+    "meaning": "pasti",
+    "level": "N3"
+  },
+  {
+    "id": 581,
+    "kanji": "確認",
+    "hiragana": "かくにん",
+    "meaning": "konfirmasi",
+    "level": "N3"
+  },
+  {
+    "id": 582,
+    "kanji": "隠れる",
+    "hiragana": "かくれる",
+    "meaning": "bersembunyi",
+    "level": "N3"
+  },
+  {
+    "id": 583,
+    "kanji": "隠す",
+    "hiragana": "かくす",
+    "meaning": "menyembunyikan",
+    "level": "N3"
+  },
+  {
+    "id": 584,
+    "kanji": "我慢",
+    "hiragana": "がまん",
+    "meaning": "kesabaran",
+    "level": "N3"
+  },
+  {
+    "id": 585,
+    "kanji": "構う",
+    "hiragana": "かまう",
+    "meaning": "peduli",
+    "level": "N3"
+  },
+  {
+    "id": 586,
+    "kanji": "神",
+    "hiragana": "かみ",
+    "meaning": "dewa",
+    "level": "N3"
+  },
+  {
+    "id": 587,
+    "kanji": "上",
+    "hiragana": "かみ",
+    "meaning": "atas",
+    "level": "N3"
+  },
+  {
+    "id": 588,
+    "kanji": "雷",
+    "hiragana": "かみなり",
+    "meaning": "petir",
+    "level": "N3"
+  },
+  {
+    "id": 589,
+    "kanji": "髪の毛",
+    "hiragana": "かみのけ",
+    "meaning": "rambut",
+    "level": "N3"
+  },
+  {
+    "id": 590,
+    "kanji": "科目",
+    "hiragana": "かもく",
+    "meaning": "mata pelajaran",
+    "level": "N3"
+  },
+  {
+    "id": 591,
+    "kanji": "缶",
+    "hiragana": "かん",
+    "meaning": "kaleng",
+    "level": "N3"
+  },
+  {
+    "id": 592,
+    "kanji": "管",
+    "hiragana": "かん",
+    "meaning": "pipa",
+    "level": "N3"
+  },
+  {
+    "id": 593,
+    "kanji": "勘",
+    "hiragana": "かん",
+    "meaning": "intuisi",
+    "level": "N3"
+  },
+  {
+    "id": 594,
+    "kanji": "看板",
+    "hiragana": "かんばん",
+    "meaning": "papan tanda",
+    "level": "N3"
+  },
+  {
+    "id": 595,
+    "kanji": "必ずしも",
+    "hiragana": "かならずしも",
+    "meaning": "tidak selalu",
+    "level": "N3"
+  },
+  {
+    "id": 596,
+    "kanji": "可也",
+    "hiragana": "かなり",
+    "meaning": "cukup",
+    "level": "N3"
+  },
+  {
+    "id": 597,
+    "kanji": "悲しむ",
+    "hiragana": "かなしむ",
+    "meaning": "bersedih",
+    "level": "N3"
+  },
+  {
+    "id": 598,
+    "kanji": "感動",
+    "hiragana": "かんどう",
+    "meaning": "terharu",
+    "level": "N3"
+  },
+  {
+    "id": 599,
+    "kanji": "考え",
+    "hiragana": "かんがえ",
+    "meaning": "pikiran",
+    "level": "N3"
+  },
+  {
+    "id": 600,
+    "kanji": "歓迎",
+    "hiragana": "かんげい",
+    "meaning": "sambutan",
+    "level": "N3"
+  },
+  {
+    "id": 601,
+    "kanji": "感激",
+    "hiragana": "かんげき",
+    "meaning": "terkesan (karena emosi kuat)",
+    "level": "N3",
+    "contoh": "彼の優しさに感激した (Aku terkesan dengan kebaikannya)"
+  },
+  {
+    "id": 602,
+    "kanji": "患者",
+    "hiragana": "かんじゃ",
+    "meaning": "pasien (medis)",
+    "level": "N3",
+    "note": "Digunakan untuk pasien rumah sakit"
+  },
+  {
+    "id": 603,
+    "kanji": "感じ",
+    "hiragana": "かんじ",
+    "meaning": "perasaan/kesan",
+    "level": "N3",
+    "contoh": "暖かい感じがする (Memberi kesan hangat)"
+  },
+  {
+    "id": 604,
+    "kanji": "感じる",
+    "hiragana": "かんじる",
+    "meaning": "merasakan",
+    "level": "N3",
+    "grammar": "Ichidan verb"
+  },
+  {
+    "id": 605,
+    "kanji": "勘定",
+    "hiragana": "かんじょう",
+    "meaning": "perhitungan (uang)",
+    "level": "N3",
+    "konteks": "Digunakan saat membayar di restoran/toko"
+  },
+  {
+    "id": 606,
+    "kanji": "感情",
+    "hiragana": "かんじょう",
+    "meaning": "emosi",
+    "level": "N3",
+    "sinonim": "気持ち"
+  },
+  {
+    "id": 607,
+    "kanji": "感覚",
+    "hiragana": "かんかく",
+    "meaning": "indra/perasaan fisik",
+    "level": "N3",
+    "contoh": "感覚が鈍る (Indra menjadi tumpul)"
+  },
+  {
+    "id": 608,
+    "kanji": "間隔",
+    "hiragana": "かんかく",
+    "meaning": "jarak/interval",
+    "level": "N3",
+    "konteks": "Waktu atau ruang"
+  },
+  {
+    "id": 609,
+    "kanji": "観光",
+    "hiragana": "かんこう",
+    "meaning": "wisata",
+    "level": "N3",
+    "compound": "観光地 (tempat wisata)"
+  },
+  {
+    "id": 610,
+    "kanji": "観光客",
+    "hiragana": "かんこうきゃく",
+    "meaning": "wisatawan",
+    "level": "N3",
+    "note": "Lebih formal dari 旅行者"
+  },
+  {
+    "id": 611,
+    "kanji": "観客",
+    "hiragana": "かんきゃく",
+    "meaning": "penonton",
+    "level": "N3",
+    "konteks": "Di teater/pertunjukan"
+  },
+  {
+    "id": 612,
+    "kanji": "環境",
+    "hiragana": "かんきょう",
+    "meaning": "lingkungan",
+    "level": "N3",
+    "topik": "Sering dibahas dalam isu ekologi"
+  },
+  {
+    "id": 613,
+    "kanji": "可能",
+    "hiragana": "かのう",
+    "meaning": "mungkin",
+    "level": "N3",
+    "grammar": "Na-adjective"
+  },
+  {
+    "id": 614,
+    "kanji": "管理人",
+    "hiragana": "かんりにん",
+    "meaning": "pengelola",
+    "level": "N3",
+    "konteks": "Apartemen/gedung"
+  },
+  {
+    "id": 615,
+    "kanji": "観察",
+    "hiragana": "かんさつ",
+    "meaning": "observasi",
+    "level": "N3",
+    "contoh": "自然を観察する (Mengamati alam)"
+  },
+  {
+    "id": 616,
+    "kanji": "感謝",
+    "hiragana": "かんしゃ",
+    "meaning": "rasa terima kasih",
+    "level": "N3",
+    "penggunaan": "感謝します (Ungkapan formal)"
+  },
+  {
+    "id": 617,
+    "kanji": "感想",
+    "hiragana": "かんそう",
+    "meaning": "kesan/opini",
+    "level": "N3",
+    "konteks": "Setelah menonton/membaca sesuatu"
+  },
+  {
+    "id": 618,
+    "kanji": "乾燥",
+    "hiragana": "かんそう",
+    "meaning": "kering",
+    "level": "N3",
+    "compound": "乾燥機 (mesin pengering)"
+  },
+  {
+    "id": 619,
+    "kanji": "香り",
+    "hiragana": "かおり",
+    "meaning": "aroma",
+    "level": "N3",
+    "nuansa": "Biasanya untuk aroma harum"
+  },
+  {
+    "id": 620,
+    "kanji": "空",
+    "hiragana": "から",
+    "meaning": "kosong",
+    "level": "N3",
+    "contoh": "箱が空だ (Kotaknya kosong)"
+  },
+  {
+    "id": 621,
+    "kanji": "彼ら",
+    "hiragana": "かれら",
+    "meaning": "mereka (laki-laki)",
+    "level": "N3",
+    "catatan": "Bentuk jamak dari 彼"
+  },
+  {
+    "id": 622,
+    "kanji": "枯れる",
+    "hiragana": "かれる",
+    "meaning": "layu/mati (tumbuhan)",
+    "level": "N3",
+    "contoh": "花が枯れた (Bunga itu layu)"
+  },
+  {
+    "id": 623,
+    "kanji": "刈る",
+    "hiragana": "かる",
+    "meaning": "memotong (rumput/rambut)",
+    "level": "N3",
+    "compound": "散髪する (lebih spesifik untuk rambut)"
+  },
+  {
+    "id": 624,
+    "kanji": "火災",
+    "hiragana": "かさい",
+    "meaning": "kebakaran",
+    "level": "N3",
+    "konteks": "Bencana alam"
+  },
+  {
+    "id": 625,
+    "kanji": "重ねる",
+    "hiragana": "かさねる",
+    "meaning": "menumpuk",
+    "level": "N3",
+    "contoh": "服を重ねて着る (Memakai baju berlapis)"
+  },
+  {
+    "id": 626,
+    "kanji": "稼ぐ",
+    "hiragana": "かせぐ",
+    "meaning": "mencari nafkah",
+    "level": "N3",
+    "nuansa": "Berbisnis/mendapatkan uang"
+  },
+  {
+    "id": 627,
+    "kanji": "完成",
+    "hiragana": "かんせい",
+    "meaning": "penyelesaian",
+    "level": "N3",
+    "konteks": "Proyek/karya"
+  },
+  {
+    "id": 628,
+    "kanji": "貸出",
+    "hiragana": "かしだし",
+    "meaning": "peminjaman",
+    "level": "N3",
+    "konteks": "Perpustakaan/sistem peminjaman"
+  },
+  {
+    "id": 629,
+    "kanji": "賢い",
+    "hiragana": "かしこい",
+    "meaning": "pintar (secara praktis)",
+    "level": "N3",
+    "nuansa": "Kecerdasan praktis, bukan akademis"
+  },
+  {
+    "id": 630,
+    "kanji": "感心",
+    "hiragana": "かんしん",
+    "meaning": "kagum",
+    "level": "N3",
+    "contoh": "彼の努力に感心した (Kagum dengan usahanya)"
+  },
+  {
+    "id": 631,
+    "kanji": "関心",
+    "hiragana": "かんしん",
+    "meaning": "ketertarikan",
+    "level": "N3",
+    "penggunaan": "関心がある (Tertarik pada)"
+  },
+  {
+    "id": 632,
+    "kanji": "関連",
+    "hiragana": "かんれん",
+    "meaning": "hubungan",
+    "level": "N3",
+    "compound": "関連性 (relevansi)"
+  },
+  {
+    "id": 633,
+    "kanji": "管理",
+    "hiragana": "かんり",
+    "meaning": "manajemen",
+    "level": "N3",
+    "konteks": "Bisnis/sistem"
+  },
+  {
+    "id": 634,
+    "kanji": "完了",
+    "hiragana": "かんりょう",
+    "meaning": "penyelesaian",
+    "level": "N3",
+    "konteks": "Tugas/proses"
+  },
+  {
+    "id": 635,
+    "kanji": "関する",
+    "hiragana": "かんする",
+    "meaning": "berkaitan dengan",
+    "level": "N3",
+    "grammar": "Suru verb + に"
+  },
+  {
+    "id": 636,
+    "kanji": "監督",
+    "hiragana": "かんとく",
+    "meaning": "sutradara/pengawas",
+    "level": "N3",
+    "konteks": "Film/tim olahraga"
+  },
+  {
+    "id": 637,
+    "kanji": "歌手",
+    "hiragana": "かしゅ",
+    "meaning": "penyanyi",
+    "level": "N3",
+    "jenis": "Penyanyi profesional"
+  },
+  {
+    "id": 638,
+    "kanji": "型",
+    "hiragana": "かた",
+    "meaning": "pola/tipe",
+    "level": "N3",
+    "contoh": "新しい型のスマホ (Tipe baru smartphone)"
+  },
+  {
+    "id": 639,
+    "kanji": "肩",
+    "hiragana": "かた",
+    "meaning": "bahu",
+    "level": "N3",
+    "idiom": "肩がこる (Bahu kaku)"
+  },
+  {
+    "id": 640,
+    "kanji": "方々",
+    "hiragana": "かたがた",
+    "meaning": "mereka (hormat)",
+    "level": "N3",
+    "nuansa": "Bentuk sangat sopan"
+  },
+  {
+    "id": 641,
+    "kanji": "片方",
+    "hiragana": "かたほう",
+    "meaning": "satu sisi",
+    "level": "N3",
+    "contoh": "片方の靴 (Satu sepatu dari pasangannya)"
+  },
+  {
+    "id": 642,
+    "kanji": "固まる",
+    "hiragana": "かたまる",
+    "meaning": "mengeras",
+    "level": "N3",
+    "konteks": "Cairan menjadi padat"
+  },
+  {
+    "id": 643,
+    "kanji": "刀",
+    "hiragana": "かたな",
+    "meaning": "pedang",
+    "level": "N3",
+    "budaya": "Senjata tradisional Jepang"
+  },
+  {
+    "id": 644,
+    "kanji": "語り合う",
+    "hiragana": "かたりあう",
+    "meaning": "berdiskusi",
+    "level": "N3",
+    "nuansa": "Percakapan mendalam"
+  },
+  {
+    "id": 645,
+    "kanji": "語る",
+    "hiragana": "かたる",
+    "meaning": "berbicara (pengalaman)",
+    "level": "N3",
+    "konteks": "Bercerita pengalaman pribadi"
+  },
+  {
+    "id": 646,
+    "kanji": "仮定",
+    "hiragana": "かてい",
+    "meaning": "asumsi",
+    "level": "N3",
+    "grammar": "仮定形 (bentuk pengandaian)"
+  },
+  {
+    "id": 647,
+    "kanji": "家庭",
+    "hiragana": "かてい",
+    "meaning": "rumah tangga",
+    "level": "N3",
+    "compound": "家庭科 (pelajaran rumah tangga)"
+  },
+  {
+    "id": 648,
+    "kanji": "動",
+    "hiragana": "どう",
+    "meaning": "gerakan",
+    "level": "N3",
+    "compound": "動物 (hewan)"
+  },
+  {
+    "id": 649,
+    "kanji": "活用",
+    "hiragana": "かつよう",
+    "meaning": "pemanfaatan",
+    "level": "N3",
+    "konteks": "Sumber daya/kemampuan"
+  },
+  {
+    "id": 650,
+    "kanji": "勝手",
+    "hiragana": "かって",
+    "meaning": "seenaknya",
+    "level": "N3",
+    "idiom": "勝手にしろ! (Lakukan sesukamu!)"
+  },
+  {
+    "id": 651,
+    "kanji": "飼う",
+    "hiragana": "かう",
+    "meaning": "memelihara (hewan)",
+    "level": "N3",
+    "contoh": "犬を飼っている (Memelihara anjing)"
+  },
+  {
+    "id": 652,
+    "kanji": "皮",
+    "hiragana": "かわ",
+    "meaning": "kulit (buah/benda)",
+    "level": "N3",
+    "beda": "皮膚 = kulit manusia"
+  },
+  {
+    "id": 653,
+    "kanji": "革",
+    "hiragana": "かわ",
+    "meaning": "kulit (material)",
+    "level": "N3",
+    "compound": "革製品 (produk kulit)"
+  },
+  {
+    "id": 654,
+    "kanji": "可愛らしい",
+    "hiragana": "かわいらしい",
+    "meaning": "imut",
+    "level": "N3",
+    "nuansa": "Lebih dewasa dari かわいい"
+  },
+  {
+    "id": 655,
+    "kanji": "可哀そう",
+    "hiragana": "かわいそう",
+    "meaning": "menyedihkan",
+    "level": "N3",
+    "penggunaan": "同情を表す (Ekspresi simpati)"
+  },
+  {
+    "id": 656,
+    "kanji": "川沿い",
+    "hiragana": "かわぞい",
+    "meaning": "tepi sungai",
+    "level": "N3",
+    "konteks": "Lokasi geografis"
+  },
+  {
+    "id": 657,
+    "kanji": "完全",
+    "hiragana": "かんぜん",
+    "meaning": "sempurna",
+    "level": "N3",
+    "sinonim": "完璧"
+  },
+  {
+    "id": 658,
+    "kanji": "飾り",
+    "hiragana": "かざり",
+    "meaning": "hiasan",
+    "level": "N3",
+    "compound": "飾り物 (barang dekorasi)"
+  },
+  {
+    "id": 659,
+    "kanji": "数える",
+    "hiragana": "かぞえる",
+    "meaning": "menghitung",
+    "level": "N3",
+    "contoh": "人数を数える (Menghitung jumlah orang)"
+  },
+  {
+    "id": 660,
+    "kanji": "数",
+    "hiragana": "かず",
+    "meaning": "jumlah",
+    "level": "N3",
+    "penggunaan": "数の多い (Jumlahnya banyak)"
+  },
+  {
+    "id": 661,
+    "kanji": "けち",
+    "hiragana": "けち",
+    "meaning": "pelit",
+    "level": "N3",
+    "nuansa": "Konotasi negatif"
+  },
+  {
+    "id": 662,
+    "kanji": "経営",
+    "hiragana": "けいえい",
+    "meaning": "manajemen bisnis",
+    "level": "N3",
+    "compound": "経営者 (pengusaha)"
+  },
+  {
+    "id": 663,
+    "kanji": "敬意",
+    "hiragana": "けいい",
+    "meaning": "rasa hormat",
+    "level": "N3",
+    "penggunaan": "敬意を表する (Menunjukkan hormat)"
+  },
+  {
+    "id": 664,
+    "kanji": "掲示",
+    "hiragana": "けいじ",
+    "meaning": "pengumuman",
+    "level": "N3",
+    "compound": "掲示板 (papan pengumuman)"
+  },
+  {
+    "id": 665,
+    "kanji": "刑事",
+    "hiragana": "けいじ",
+    "meaning": "detektif",
+    "level": "N3",
+    "konteks": "Penegak hukum"
+  },
+  {
+    "id": 666,
+    "kanji": "掲示板",
+    "hiragana": "けいじばん",
+    "meaning": "papan pengumuman",
+    "level": "N3",
+    "modern": "Forum online"
+  },
+  {
+    "id": 667,
+    "kanji": "景気",
+    "hiragana": "けいき",
+    "meaning": "kondisi ekonomi",
+    "level": "N3",
+    "idiom": "景気がいい (Ekonomi bagus)"
+  },
+  {
+    "id": 668,
+    "kanji": "警告",
+    "hiragana": "けいこく",
+    "meaning": "peringatan",
+    "level": "N3",
+    "konteks": "Resmi/serius"
+  },
+  {
+    "id": 669,
+    "kanji": "傾向",
+    "hiragana": "けいこう",
+    "meaning": "kecenderungan",
+    "level": "N3",
+    "konteks": "Analisis data/perilaku"
+  },
+  {
+    "id": 670,
+    "kanji": "計算",
+    "hiragana": "けいさん",
+    "meaning": "perhitungan",
+    "level": "N3",
+    "compound": "計算機 (kalkulator)"
+  },
+  {
+    "id": 671,
+    "kanji": "契約",
+    "hiragana": "けいやく",
+    "meaning": "kontrak",
+    "level": "N3",
+    "proses": "契約を結ぶ (Mengikat kontrak)"
+  },
+  {
+    "id": 672,
+    "kanji": "経由",
+    "hiragana": "けいゆ",
+    "meaning": "via/melalui",
+    "level": "N3",
+    "konteks": "Rute perjalanan"
+  },
+  {
+    "id": 673,
+    "kanji": "結果",
+    "hiragana": "けっか",
+    "meaning": "hasil",
+    "level": "N3",
+    "grammar": "～た結果 (Setelah.../Hasilnya...)"
+  },
+  {
+    "id": 674,
+    "kanji": "欠陥",
+    "hiragana": "けっかん",
+    "meaning": "cacat",
+    "level": "N3",
+    "konteks": "Produk/sistem"
+  },
+  {
+    "id": 675,
+    "kanji": "結局",
+    "hiragana": "けっきょく",
+    "meaning": "pada akhirnya",
+    "level": "N3",
+    "penggunaan": "Kesimpulan pembicaraan"
+  },
+  {
+    "id": 676,
+    "kanji": "煙",
+    "hiragana": "けむり",
+    "meaning": "asap",
+    "level": "N3",
+    "konteks": "Kebakaran/rokok"
+  },
+  {
+    "id": 677,
+    "kanji": "券",
+    "hiragana": "けん",
+    "meaning": "tiket",
+    "level": "N3",
+    "compound": "切符券 (karcis)"
+  },
+  {
+    "id": 678,
+    "kanji": "県",
+    "hiragana": "けん",
+    "meaning": "prefektur",
+    "level": "N3",
+    "konteks": "Pembagian wilayah Jepang"
+  },
+  {
+    "id": 679,
+    "kanji": "建築",
+    "hiragana": "けんちく",
+    "meaning": "konstruksi bangunan",
+    "level": "N3",
+    "profesi": "建築家 (arsitek)"
+  },
+  {
+    "id": 680,
+    "kanji": "見学",
+    "hiragana": "けんがく",
+    "meaning": "studi tur",
+    "level": "N3",
+    "konteks": "Kunjungan pendidikan"
+  },
+  {
+    "id": 681,
+    "kanji": "見解",
+    "hiragana": "けんかい",
+    "meaning": "pandangan",
+    "level": "N3",
+    "konteks": "Pendapat resmi"
+  },
+  {
+    "id": 682,
+    "kanji": "健康",
+    "hiragana": "けんこう",
+    "meaning": "kesehatan",
+    "level": "N3",
+    "compound": "健康診断 (medical check-up)"
+  },
+  {
+    "id": 683,
+    "kanji": "研究者",
+    "hiragana": "けんきゅうしゃ",
+    "meaning": "peneliti",
+    "level": "N3",
+    "profesi": "Akademik/laboratorium"
+  },
+  {
+    "id": 684,
+    "kanji": "研究所",
+    "hiragana": "けんきゅうじょ",
+    "meaning": "lembaga penelitian",
+    "level": "N3",
+    "konteks": "Instansi ilmiah"
+  },
+  {
+    "id": 685,
+    "kanji": "憲法",
+    "hiragana": "けんぽう",
+    "meaning": "konstitusi",
+    "level": "N3",
+    "konteks": "Hukum dasar negara"
+  },
+  {
+    "id": 686,
+    "kanji": "権利",
+    "hiragana": "けんり",
+    "meaning": "hak",
+    "level": "N3",
+    "lawan": "義務 (kewajiban)"
+  },
+  {
+    "id": 687,
+    "kanji": "検査",
+    "hiragana": "けんさ",
+    "meaning": "inspeksi",
+    "level": "N3",
+    "konteks": "Medis/teknis"
+  },
+  {
+    "id": 688,
+    "kanji": "建設",
+    "hiragana": "けんせつ",
+    "meaning": "konstruksi",
+    "level": "N3",
+    "industri": "Sektor pembangunan"
+  },
+  {
+    "id": 689,
+    "kanji": "見当",
+    "hiragana": "けんとう",
+    "meaning": "perkiraan",
+    "level": "N3",
+    "contoh": "見当がつかない (Tidak bisa memperkirakan)"
+  },
+  {
+    "id": 690,
+    "kanji": "検討",
+    "hiragana": "けんとう",
+    "meaning": "pertimbangan",
+    "level": "N3",
+    "proses": "検討中 (Sedang dipertimbangkan)"
+  },
+  {
+    "id": 691,
+    "kanji": "欠席",
+    "hiragana": "けっせき",
+    "meaning": "ketidakhadiran",
+    "level": "N3",
+    "konteks": "Sekolah/rapat"
+  },
+  {
+    "id": 692,
+    "kanji": "決心",
+    "hiragana": "けっしん",
+    "meaning": "tekad",
+    "level": "N3",
+    "contoh": "決心がつく (Bulat hati)"
+  },
+  {
+    "id": 693,
+    "kanji": "化粧",
+    "hiragana": "けしょう",
+    "meaning": "make-up",
+    "level": "N3",
+    "compound": "化粧品 (kosmetik)"
+  },
+  {
+    "id": 694,
+    "kanji": "決定",
+    "hiragana": "けってい",
+    "meaning": "keputusan",
+    "level": "N3",
+    "konteks": "Resmi/final"
+  },
+  {
+    "id": 695,
+    "kanji": "欠点",
+    "hiragana": "けってん",
+    "meaning": "kelemahan",
+    "level": "N3",
+    "sinonim": "短所"
+  },
+  {
+    "id": 696,
+    "kanji": "血圧",
+    "hiragana": "けつあつ",
+    "meaning": "tekanan darah",
+    "level": "N3",
+    "medis": "健康診断項目"
+  },
+  {
+    "id": 697,
+    "kanji": "血液",
+    "hiragana": "けつえき",
+    "meaning": "darah",
+    "level": "N3",
+    "compound": "血液型 (golongan darah)"
+  },
+  {
+    "id": 698,
+    "kanji": "血液型",
+    "hiragana": "けつえきがた",
+    "meaning": "golongan darah",
+    "level": "N3",
+    "budaya": "Penting dalam horoskop Jepang"
+  },
+  {
+    "id": 699,
+    "kanji": "結論",
+    "hiragana": "けつろん",
+    "meaning": "kesimpulan",
+    "level": "N3",
+    "konteks": "Diskusi/laporan"
+  },
+  {
+    "id": 700,
+    "kanji": "気に入る",
+    "hiragana": "きにいる",
+    "meaning": "menyukai",
+    "level": "N3",
+    "nuansa": "Sesuatu yang sesuai selera"
+  }
+]
