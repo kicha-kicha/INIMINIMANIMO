@@ -1,4 +1,4 @@
-/*=============================
+i/*=============================
 =         THEME COLORS        =
 =============================*/
 :root {
@@ -300,7 +300,24 @@ body {
 
 @media (orientation: landscape) and (max-width: 768px) {
   .fullscreen-mode .kanji {
-    font-size: 9rem; /* Larger for phone landscape */
+    font-size: 9rem;
+   font-weight: lighter;
+   text-transform: uppercase;
+   background: linear-gradient(to right, var(--accent), var(--highlight));
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+  text-shadow: 
+    3px 3px 5px rgba(0,0,0,0.2),
+    -1px -1px 2px rgba(255,255,255,0.5);
+  animation: wave 3s infinite ease-in-out;
+}
+
+@keyframes wave {
+  0%, 100% { transform: translateY(0); }
+  50% { transform: translateY(-5px); }
+}
+ /* Larger for phone landscape */
   }
 
   .fullscreen-mode .hiragana {
