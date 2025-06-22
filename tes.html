@@ -8,4 +8,46 @@
             try {
                 const response = await fetch(`data/${level}.json`);
                 
-                console.log("Status Response:", response
+                console.log("Status Response:", response.status);
+                
+                if (!response.ok) {
+                    throw new Error(`File tidak ditemukan (404)`);
+                }
+                
+                const data = await response.json();
+                console.log("Isi File JSON:", data);
+                
+                document.getElementById("result").innerHTML = `
+                    <h3>Data ${level}:</h3>
+                    <pre>${JSON.stringify(data, null, 2)}</pre>
+                    <p>✅ File berhasil dibaca!</p>
+                `;
+                
+            } catch (error) {
+                console.error("Error:", error);
+                document.getElementById("result").innerHTML = `
+                    <h3 style="color:red">Gagal baca ${level}.json!</h3>
+                    <p>Error: ${error.message}</p>
+                    <p>🛠 Cek:</p>
+                    <ul>
+                        <li>File ada di folder <code>data/</code>?</li>
+                        <li>Nama file <code>${level}.json</code> (huruf besar/kecil harus sama)</li>
+                        <li>Format JSON valid?</li>
+                    </ul>
+                `;
+            }
+        }
+    </script>
+</head>
+<body onload="testJSON()">
+    <h1>Test Baca File JSON</h1>
+    <div id="result">Loading...</div>
+    
+    <h3>Cara Pakai:</h3>
+    <ol>
+        <li>Letakkan file ini di <strong>folder root repo</strong> (sejajar dengan index.html)</li>
+        <li>Buka via browser: <code>http://localhost/test_json.html</code></li>
+        <li>Buka <strong>Developer Tools (F12)</strong> untuk lihat log</li>
+    </ol>
+</body>
+</html>
