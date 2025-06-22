@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Test Baca JSON</title>
+    <script>
+        async function testJSON() {
+            const level = "N5"; // Ganti ke level yang mau di-test
+            try {
+                const response = await fetch(`data/${level}.json`);
+                
+                console.log("Status Response:", response
