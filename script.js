@@ -111,7 +111,7 @@ async function loadAllData() {
   const levels = ['N5', 'N4', 'N3', 'N2', 'N1'];
   const promises = levels.map(async level => {
     try {
-      const response = await fetch(`data/${level}.json`);
+      const response = await fetch(`/data/${level}.json`);
       if (!response.ok) throw new Error(`Failed to load ${level} data`);
       wordData[level] = await response.json();
     } catch (error) {
