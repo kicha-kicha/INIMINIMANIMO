@@ -1,0 +1,302 @@
+[
+  {
+    "id": 1,
+    "kanji": "一",
+    "hiragana": "いち",
+    "meaning": "satu"
+  },
+  {
+    "id": 2,
+    "kanji": "二",
+    "hiragana": "に",
+    "meaning": "dua"
+  },
+  {
+    "id": 3,
+    "kanji": "三",
+    "hiragana": "さん",
+    "meaning": "tiga"
+  },
+  {
+    "id": 4,
+    "kanji": "四",
+    "hiragana": "し／よん",
+    "meaning": "empat"
+  },
+  {
+    "id": 5,
+    "kanji": "五",
+    "hiragana": "ご",
+    "meaning": "lima"
+  },
+  {
+    "id": 6,
+    "kanji": "六",
+    "hiragana": "ろく",
+    "meaning": "enam"
+  },
+  {
+    "id": 7,
+    "kanji": "七",
+    "hiragana": "しち／なな",
+    "meaning": "tujuh"
+  },
+  {
+    "id": 8,
+    "kanji": "八",
+    "hiragana": "はち",
+    "meaning": "delapan"
+  },
+  {
+    "id": 9,
+    "kanji": "九",
+    "hiragana": "く／きゅう",
+    "meaning": "sembilan"
+  },
+  {
+    "id": 10,
+    "kanji": "十",
+    "hiragana": "じゅう",
+    "meaning": "sepuluh"
+  },
+  {
+    "id": 11,
+    "kanji": "百",
+    "hiragana": "ひゃく",
+    "meaning": "seratus"
+  },
+  {
+    "id": 12,
+    "kanji": "千",
+    "hiragana": "せん",
+    "meaning": "seribu"
+  },
+  {
+    "id": 13,
+    "kanji": "万",
+    "hiragana": "まん",
+    "meaning": "sepuluh ribu"
+  },
+  {
+    "id": 14,
+    "kanji": "円",
+    "hiragana": "えん",
+    "meaning": "yen (mata uang)"
+  },
+  {
+    "id": 15,
+    "kanji": "時",
+    "hiragana": "じ",
+    "meaning": "jam (waktu)"
+  },
+  {
+    "id": 16,
+    "kanji": "分",
+    "hiragana": "ふん／ぷん",
+    "meaning": "menit"
+  },
+  {
+    "id": 17,
+    "kanji": "日",
+    "hiragana": "にち／ひ",
+    "meaning": "hari/matahari"
+  },
+  {
+    "id": 18,
+    "kanji": "月",
+    "hiragana": "げつ／がつ／つき",
+    "meaning": "bulan/bulan (kalender)"
+  },
+  {
+    "id": 19,
+    "kanji": "年",
+    "hiragana": "ねん",
+    "meaning": "tahun"
+  },
+  {
+    "id": 20,
+    "kanji": "今",
+    "hiragana": "いま",
+    "meaning": "sekarang"
+  },
+  {
+    "id": 21,
+    "kanji": "前",
+    "hiragana": "まえ",
+    "meaning": "sebelum/depan"
+  },
+  {
+    "id": 22,
+    "kanji": "後",
+    "hiragana": "あと／うしろ",
+    "meaning": "setelah/belakang"
+  },
+  {
+    "id": 23,
+    "kanji": "上",
+    "hiragana": "うえ",
+    "meaning": "atas"
+  },
+  {
+    "id": 24,
+    "kanji": "下",
+    "hiragana": "した",
+    "meaning": "bawah"
+  },
+  {
+    "id": 25,
+    "kanji": "中",
+    "hiragana": "なか",
+    "meaning": "tengah/dalam"
+  },
+  {
+    "id": 26,
+    "kanji": "大",
+    "hiragana": "おお",
+    "meaning": "besar"
+  },
+  {
+    "id": 27,
+    "kanji": "小",
+    "hiragana": "ちい",
+    "meaning": "kecil"
+  },
+  {
+    "id": 28,
+    "kanji": "人",
+    "hiragana": "ひと",
+    "meaning": "orang"
+  },
+  {
+    "id": 29,
+    "kanji": "子",
+    "hiragana": "こ",
+    "meaning": "anak"
+  },
+  {
+    "id": 30,
+    "kanji": "女",
+    "hiragana": "おんな",
+    "meaning": "perempuan"
+  },
+  {
+    "id": 31,
+    "kanji": "男",
+    "hiragana": "おとこ",
+    "meaning": "laki-laki"
+  },
+  {
+    "id": 32,
+    "kanji": "母",
+    "hiragana": "はは",
+    "meaning": "ibu (sendiri)"
+  },
+  {
+    "id": 33,
+    "kanji": "父",
+    "hiragana": "ちち",
+    "meaning": "ayah (sendiri)"
+  },
+  {
+    "id": 34,
+    "kanji": "友",
+    "hiragana": "とも",
+    "meaning": "teman"
+  },
+  {
+    "id": 35,
+    "kanji": "口",
+    "hiragana": "くち",
+    "meaning": "mulut"
+  },
+  {
+    "id": 36,
+    "kanji": "目",
+    "hiragana": "め",
+    "meaning": "mata"
+  },
+  {
+    "id": 37,
+    "kanji": "耳",
+    "hiragana": "みみ",
+    "meaning": "telinga"
+  },
+  {
+    "id": 38,
+    "kanji": "手",
+    "hiragana": "て",
+    "meaning": "tangan"
+  },
+  {
+    "id": 39,
+    "kanji": "足",
+    "hiragana": "あし",
+    "meaning": "kaki/tungkai"
+  },
+  {
+    "id": 40,
+    "kanji": "山",
+    "hiragana": "やま",
+    "meaning": "gunung"
+  },
+  {
+    "id": 41,
+    "kanji": "川",
+    "hiragana": "かわ",
+    "meaning": "sungai"
+  },
+  {
+    "id": 42,
+    "kanji": "天",
+    "hiragana": "てん",
+    "meaning": "langit/surga"
+  },
+  {
+    "id": 43,
+    "kanji": "気",
+    "hiragana": "き",
+    "meaning": "semangat/udara"
+  },
+  {
+    "id": 44,
+    "kanji": "水",
+    "hiragana": "みず",
+    "meaning": "air"
+  },
+  {
+    "id": 45,
+    "kanji": "火",
+    "hiragana": "ひ",
+    "meaning": "api"
+  },
+  {
+    "id": 46,
+    "kanji": "木",
+    "hiragana": "き",
+    "meaning": "pohon/kayu"
+  },
+  {
+    "id": 47,
+    "kanji": "金",
+    "hiragana": "かね／きん",
+    "meaning": "uang/emas"
+  },
+  {
+    "id": 48,
+    "kanji": "土",
+    "hiragana": "つち",
+    "meaning": "tanah"
+  },
+  {
+    "id": 49,
+    "kanji": "車",
+    "hiragana": "くるま",
+    "meaning": "mobil/kendaraan"
+  },
+  {
+    "id": 50,
+    "kanji": "電",
+    "hiragana": "でん",
+    "meaning": "listrik"
+  }
+]

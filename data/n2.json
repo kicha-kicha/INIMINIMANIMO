@@ -1,0 +1,302 @@
+[
+  {
+    "id": 101,
+    "kanji": "見",
+    "hiragana": "み",
+    "meaning": "lihat"
+  },
+  {
+    "id": 102,
+    "kanji": "聞",
+    "hiragana": "き",
+    "meaning": "dengar"
+  },
+  {
+    "id": 103,
+    "kanji": "書",
+    "hiragana": "か",
+    "meaning": "tulis"
+  },
+  {
+    "id": 104,
+    "kanji": "読",
+    "hiragana": "よ",
+    "meaning": "baca"
+  },
+  {
+    "id": 105,
+    "kanji": "話",
+    "hiragana": "はな",
+    "meaning": "bicara"
+  },
+  {
+    "id": 106,
+    "kanji": "立",
+    "hiragana": "た",
+    "meaning": "berdiri"
+  },
+  {
+    "id": 107,
+    "kanji": "休",
+    "hiragana": "やす",
+    "meaning": "istirahat"
+  },
+  {
+    "id": 108,
+    "kanji": "働",
+    "hiragana": "はたら",
+    "meaning": "bekerja"
+  },
+  {
+    "id": 109,
+    "kanji": "言",
+    "hiragana": "い",
+    "meaning": "katakan"
+  },
+  {
+    "id": 110,
+    "kanji": "思",
+    "hiragana": "おも",
+    "meaning": "pikir"
+  },
+  {
+    "id": 111,
+    "kanji": "知",
+    "hiragana": "し",
+    "meaning": "tahu"
+  },
+  {
+    "id": 112,
+    "kanji": "好",
+    "hiragana": "す",
+    "meaning": "suka"
+  },
+  {
+    "id": 113,
+    "kanji": "悪",
+    "hiragana": "わる",
+    "meaning": "buruk"
+  },
+  {
+    "id": 114,
+    "kanji": "有",
+    "hiragana": "あ",
+    "meaning": "ada/memiliki"
+  },
+  {
+    "id": 115,
+    "kanji": "雨",
+    "hiragana": "あめ",
+    "meaning": "hujan"
+  },
+  {
+    "id": 116,
+    "kanji": "花",
+    "hiragana": "はな",
+    "meaning": "bunga"
+  },
+  {
+    "id": 117,
+    "kanji": "本",
+    "hiragana": "ほん",
+    "meaning": "buku/asal"
+  },
+  {
+    "id": 118,
+    "kanji": "紙",
+    "hiragana": "かみ",
+    "meaning": "kertas"
+  },
+  {
+    "id": 119,
+    "kanji": "音",
+    "hiragana": "おと",
+    "meaning": "suara"
+  },
+  {
+    "id": 120,
+    "kanji": "車",
+    "hiragana": "くるま",
+    "meaning": "mobil"
+  },
+  {
+    "id": 121,
+    "kanji": "電車",
+    "hiragana": "でんしゃ",
+    "meaning": "kereta listrik"
+  },
+  {
+    "id": 122,
+    "kanji": "飛行機",
+    "hiragana": "ひこうき",
+    "meaning": "pesawat"
+  },
+  {
+    "id": 123,
+    "kanji": "切符",
+    "hiragana": "きっぷ",
+    "meaning": "tiket"
+  },
+  {
+    "id": 124,
+    "kanji": "病気",
+    "hiragana": "びょうき",
+    "meaning": "sakit (penyakit)"
+  },
+  {
+    "id": 125,
+    "kanji": "薬",
+    "hiragana": "くすり",
+    "meaning": "obat"
+  },
+  {
+    "id": 126,
+    "kanji": "病院",
+    "hiragana": "びょういん",
+    "meaning": "rumah sakit"
+  },
+  {
+    "id": 127,
+    "kanji": "熱",
+    "hiragana": "ねつ",
+    "meaning": "demam"
+  },
+  {
+    "id": 128,
+    "kanji": "痛",
+    "hiragana": "いた",
+    "meaning": "sakit (nyeri)"
+  },
+  {
+    "id": 129,
+    "kanji": "元気",
+    "hiragana": "げんき",
+    "meaning": "sehat/bersemangat"
+  },
+  {
+    "id": 130,
+    "kanji": "午前",
+    "hiragana": "ごぜん",
+    "meaning": "pagi (AM)"
+  },
+  {
+    "id": 131,
+    "kanji": "午後",
+    "hiragana": "ごご",
+    "meaning": "sore (PM)"
+  },
+  {
+    "id": 132,
+    "kanji": "毎日",
+    "hiragana": "まいにち",
+    "meaning": "setiap hari"
+  },
+  {
+    "id": 133,
+    "kanji": "週間",
+    "hiragana": "しゅうかん",
+    "meaning": "minggu (periode)"
+  },
+  {
+    "id": 134,
+    "kanji": "今年",
+    "hiragana": "ことし",
+    "meaning": "tahun ini"
+  },
+  {
+    "id": 135,
+    "kanji": "去年",
+    "hiragana": "きょねん",
+    "meaning": "tahun lalu"
+  },
+  {
+    "id": 136,
+    "kanji": "明日",
+    "hiragana": "あした",
+    "meaning": "besok"
+  },
+  {
+    "id": 137,
+    "kanji": "昨日",
+    "hiragana": "きのう",
+    "meaning": "kemarin"
+  },
+  {
+    "id": 138,
+    "kanji": "今日",
+    "hiragana": "きょう",
+    "meaning": "hari ini"
+  },
+  {
+    "id": 139,
+    "kanji": "何",
+    "hiragana": "なに／なん",
+    "meaning": "apa"
+  },
+  {
+    "id": 140,
+    "kanji": "誰",
+    "hiragana": "だれ",
+    "meaning": "siapa"
+  },
+  {
+    "id": 141,
+    "kanji": "何時",
+    "hiragana": "なんじ",
+    "meaning": "jam berapa"
+  },
+  {
+    "id": 142,
+    "kanji": "何年",
+    "hiragana": "なんねん",
+    "meaning": "tahun berapa"
+  },
+  {
+    "id": 143,
+    "kanji": "何月",
+    "hiragana": "なんがつ",
+    "meaning": "bulan berapa"
+  },
+  {
+    "id": 144,
+    "kanji": "何日",
+    "hiragana": "なんにち",
+    "meaning": "tanggal berapa"
+  },
+  {
+    "id": 145,
+    "kanji": "何人",
+    "hiragana": "なんにん",
+    "meaning": "berapa orang"
+  },
+  {
+    "id": 146,
+    "kanji": "幾つ",
+    "hiragana": "いくつ",
+    "meaning": "berapa (untuk benda)"
+  },
+  {
+    "id": 147,
+    "kanji": "幾ら",
+    "hiragana": "いくら",
+    "meaning": "berapa harga"
+  },
+  {
+    "id": 148,
+    "kanji": "どうして",
+    "hiragana": "どうして",
+    "meaning": "mengapa"
+  },
+  {
+    "id": 149,
+    "kanji": "どの",
+    "hiragana": "どの",
+    "meaning": "yang mana"
+  },
+  {
+    "id": 150,
+    "kanji": "どこ",
+    "hiragana": "どこ",
+    "meaning": "di mana"
+  }
+]
