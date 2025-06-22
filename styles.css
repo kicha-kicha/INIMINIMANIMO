@@ -1,0 +1,407 @@
+/*=============================
+=         THEME COLORS        =
+=============================*/
+:root {
+  --primary: #5a67d8;
+  --primary-light: #7f9cf5;
+  --primary-lighter: #c3dafe;
+  --primary-dark: #434190;
+  --text: #2d3748;
+  --text-light: #4a5568;
+  --bg: #f7fafc;
+  --card-bg: #ffffff;
+  --shadow: 0 4px 6px rgba(0, 0, 0, 0.05), 0 1px 3px rgba(0, 0, 0, 0.1);
+  --border-color: rgba(0, 0, 0, 0.06);
+  --success: #48bb78;
+  --warning: #ed8936;
+  --error: #f56565;
+}
+
+[data-theme="dark"] {
+  --primary: #8b9af7;
+  --primary-light: #a5b4fc;
+  --primary-lighter: #6366f1;
+  --primary-dark: #6b7ce0;
+  --text: #e2e8f0;
+  --text-light: #cbd5e0;
+  --bg: #0f172a;
+  --card-bg: #1e293b;
+  --shadow: 0 4px 6px rgba(0, 0, 0, 0.25), 0 1px 3px rgba(0, 0, 0, 0.4);
+  --border-color: rgba(255, 255, 255, 0.08);
+  --success: #68d391;
+  --warning: #f6ad55;
+  --error: #fc8181;
+}
+
+/*=============================
+=        GLOBAL RESET         =
+=============================*/
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  transition: background-color 0.3s ease, color 0.3s ease, border-color 0.3s ease;
+}
+
+body {
+  font-family: 'Noto Sans JP', system-ui, -apple-system, sans-serif;
+  background-color: var(--bg);
+  color: var(--text);
+  height: 100vh;
+  overflow: hidden;
+  line-height: 1.6;
+}
+
+/*=============================
+=         MAIN LAYOUT         =
+=============================*/
+.app-container {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+}
+
+.app-header {
+  font-size: 1rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem 1.5rem;
+  background-color: var(--card-bg);
+  border-bottom: 1px solid var(--border-color);
+  z-index: 10;
+}
+
+.header-controls {
+  display: flex;
+  gap: 0.75rem;
+}
+
+.app-footer {
+  padding: 1rem 1.5rem;
+  background-color: var(--card-bg);
+  border-top: 1px solid var(--border-color);
+  text-align: center;
+  font-size: 0.875rem;
+  color: var(--text-light);
+}
+
+/*=============================
+=         FLASHCARDS          =
+=============================*/
+.flashcard-viewport {
+  flex: 1;
+  overflow-y: auto;
+  scroll-snap-type: y mandatory;
+  scroll-behavior: smooth;
+  padding: 1.5rem;
+}
+
+#card-container {
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+  max-width: 800px;
+  margin: 0 auto;
+  width: 100%;
+  min-height: 100%;
+}
+
+.flashcard {
+  scroll-snap-align: center;
+  min-height: 70vh;
+  background-color: var(--card-bg);
+  border-radius: 1rem;
+  padding: 2.5rem;
+  box-shadow: var(--shadow);
+  border: 1px solid var(--border-color);
+  transform-style: preserve-3d;
+  transition: transform 0.6s cubic-bezier(0.4, 0, 0.2, 1);
+  cursor: pointer;
+  position: relative;
+}
+
+.flashcard:hover {
+  box-shadow: 0 10px 15px rgba(0, 0, 0, 0.1);
+}
+
+[data-theme="dark"] .flashcard:hover {
+  box-shadow: 0 10px 15px rgba(0, 0, 0, 0.3);
+}
+
+.flashcard.flipped {
+  transform: rotateY(180deg);
+}
+
+.flashcard-front,
+.flashcard-back {
+  position: absolute;
+  top: 2.5rem;
+  left: 2.5rem;
+  right: 2.5rem;
+  bottom: 2.5rem;
+  backface-visibility: hidden;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.flashcard-back {
+  transform: rotateY(180deg);
+}
+
+/*=============================
+=         TYPOGRAPHY          =
+=============================*/
+.kanji {
+  font-size: 5rem;
+  line-height: 1;
+  margin-bottom: 1rem;
+}
+
+.hiragana {
+  font-size: 1.75rem;
+  margin-bottom: 1rem;
+}
+
+.meaning {
+  font-size: 1rem;
+  max-width: 80%;
+}
+
+.example {
+  font-size: 0.9rem;
+  margin-top: 1rem;
+  color: var(--text-light);
+}
+
+/*=============================
+=          BUTTONS           =
+=============================*/
+.level-tabs {
+  display: flex;
+  justify-content: center;
+  gap: 0.75rem;
+  flex-wrap: wrap;
+  padding: 0.5rem 0;
+}
+
+.level-btn {
+  padding: 0.6rem 1.25rem;
+  border: none;
+  border-radius: 2rem;
+  background-color: var(--primary-lighter);
+  color: var(--primary-dark);
+  cursor: pointer;
+  font-weight: 600;
+  font-size: 0.9rem;
+  transition: all 0.2s ease;
+}
+
+.level-btn:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.level-btn.active {
+  background-color: var(--primary);
+  color: white;
+  box-shadow: 0 2px 10px rgba(90, 103, 216, 0.3);
+}
+
+#theme-toggle,
+#fullscreen-toggle {
+  background: none;
+  border: none;
+  color: var(--primary);
+  font-size: 1.4rem;
+  cursor: pointer;
+  padding: 0.5rem;
+  border-radius: 50%;
+  width: 2.5rem;
+  height: 2.5rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: all 0.2s ease;
+}
+
+#theme-toggle:hover,
+#fullscreen-toggle:hover {
+  background-color: rgba(79, 70, 229, 0.1);
+  transform: scale(1.1);
+}
+
+/*=============================
+=        LEVEL BADGE         =
+=============================*/
+.level-badge {
+  position: absolute;
+  top: 1.25rem;
+  right: 1.25rem;
+  background-color: var(--primary);
+  color: white;
+  padding: 0.35rem 1rem;
+  border-radius: 1rem;
+  font-size: 0.85rem;
+  font-weight: 600;
+  z-index: 2;
+}
+
+/*=============================
+=      FULLSCREEN MODE       =
+=============================*/
+.fullscreen-mode .app-header,
+.fullscreen-mode .app-footer {
+  display: none;
+}
+
+.fullscreen-mode .flashcard-viewport {
+  height: 100vh;
+  padding: 0;
+}
+
+.fullscreen-mode .flashcard {
+  min-height: 100vh;
+  border-radius: 0;
+  padding: 2rem;
+}
+
+.fullscreen-mode .flashcard-front,
+.fullscreen-mode .flashcard-back {
+  top: 2rem;
+  left: 2rem;
+  right: 2rem;
+  bottom: 2rem;
+}
+
+@media (orientation: landscape) and (max-width: 768px) {
+  .fullscreen-mode .kanji {
+    font-size: 9rem; /* Larger for phone landscape */
+  }
+
+  .fullscreen-mode .hiragana {
+    font-size: 2.5rem; /* Larger and proportional */
+  }
+
+  .fullscreen-mode .flashcard {
+    padding: 2.5rem; /* More padding for balance */
+  }
+
+  .fullscreen-mode .flashcard-front,
+  .fullscreen-mode .flashcard-back {
+    top: 2.5rem;
+    left: 2.5rem;
+    right: 2.5rem;
+    bottom: 2.5rem;
+  }
+
+  .fullscreen-mode .meaning {
+    font-size: 1.2rem; /* Slightly larger */
+  }
+
+  .fullscreen-mode .example {
+    font-size: 1rem; /* Larger example text */
+  }
+}
+
+.fullscreen-close-btn {
+  position: fixed;
+  top: 20px;
+  right: 20px;
+  z-index: 1000;
+  background: rgba(0, 0, 0, 0.5);
+  backdrop-filter: blur(5px);
+  color: white;
+  border: none;
+  border-radius: 50%;
+  width: 50px;
+  height: 50px;
+  font-size: 1.5rem;
+  cursor: pointer;
+  display: none;
+  transition: all 0.2s ease;
+}
+
+.fullscreen-mode .fullscreen-close-btn {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.fullscreen-close-btn:hover {
+  background: rgba(0, 0, 0, 0.7);
+  transform: scale(1.1);
+}
+
+/*=============================
+=      PROGRESS BAR          =
+=============================*/
+.progress-container {
+  position: sticky;
+  top: 0;
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 0 1.5rem;
+  z-index: 5;
+  background-color: var(--card-bg);
+}
+
+.progress-bar {
+  height: 6px;
+  background-color: var(--border-color);
+  border-radius: 3px;
+  overflow: hidden;
+}
+
+.progress-fill {
+  height: 100%;
+  background-color: var(--primary);
+  border-radius: 3px;
+  transition: width 0.3s ease;
+}
+
+/*=============================
+=      RESPONSIVE DESIGN      =
+=============================*/
+@media (max-width: 768px) {
+  .kanji {
+    font-size: 3.5rem;
+  }
+
+  .hiragana {
+    font-size: 1.5rem;
+  }
+
+  .meaning {
+    font-size: 0.9rem;
+  }
+
+  .example {
+    font-size: 0.8rem;
+  }
+
+  .flashcard {
+    min-height: 60vh;
+    padding: 1.5rem;
+  }
+
+  .flashcard-front,
+  .flashcard-back {
+    top: 1.5rem;
+    left: 1.5rem;
+    right: 1.5rem;
+    bottom: 1.5rem;
+  }
+
+  .level-btn {
+    padding: 0.5rem 1rem;
+    font-size: 0.8rem;
+  }
+
+  .progress-container {
+    padding: 0 1rem;
+  }
+}
