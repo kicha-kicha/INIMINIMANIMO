@@ -111,12 +111,14 @@ async function loadAllData() {
   const levels = ['N5', 'N4', 'N3', 'N2', 'N1'];
   const promises = levels.map(async level => {
     try {
-      const response = await fetch(`/data/${level}.json`);
-      if (!response.ok) throw new Error(`Failed to load ${level} data`);
+      const response = await fetch(`/data/${level}.json`); // Changed to absolute path
+      if (!response.ok) throw new Error(`Failed to load ${level} data: ${response.status} ${response.statusText}`);
       wordData[level] = await response.json();
+      console.log(`Successfully loaded ${level} with ${wordData[level].length} items`);
     } catch (error) {
-      console.warn(`Failed to load ${level}:`, error);
+      console.error(`Failed to load ${level}:`, error);
       wordData[level] = [];
+      showErrorState(new Error(`Failed to load ${level} data: ${error.message}`));
     }
   });
   await Promise.all(promises);
