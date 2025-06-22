@@ -318,7 +318,7 @@ body {
   50% { transform: translateY(-5px); }
 }
  /* Larger for phone landscape */
-  }
+  
 
   .fullscreen-mode .hiragana {
     font-size: 2.5rem; /* Larger and proportional */
