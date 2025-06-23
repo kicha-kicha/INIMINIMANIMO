@@ -6,17 +6,19 @@ const wordData = {
 // DOM Elements
 const elements = {
   cardContainer: document.getElementById('card-container'),
-  levelButtons: document.querySelectorAll('.level-btn'),
+  levelSelect: document.getElementById('level-select'),
+  categorySelect: document.getElementById('category-select'),
   themeToggle: document.getElementById('theme-toggle'),
   fullscreenToggle: document.getElementById('fullscreen-toggle'),
   fullscreenClose: document.getElementById('fullscreen-close'),
   progressFill: document.querySelector('.progress-fill'),
-  flashcardViewport: document.querySelector('.flashcard-viewport') // Added for scroll reset
+  flashcardViewport: document.querySelector('.flashcard-viewport')
 };
 
 // App State
 const state = {
   currentLevel: 'N5',
+  currentCategory: 'all',
   currentCardIndex: 0,
   isFlipped: false
 };
@@ -27,7 +29,12 @@ async function init() {
     showLoadingState();
     await loadAllData();
     initTheme();
-    renderCards(state.currentLevel);
+    loadPreferences();
+    updateCategoryOptions();
+    // Set default value to remove placeholder
+    elements.levelSelect.value = state.currentLevel;
+    elements.categorySelect.value = state.currentCategory;
+    renderCards(state.currentLevel, state.currentCategory);
     setupEventListeners();
     updateProgress();
   } catch (error) {
@@ -57,25 +64,31 @@ function showErrorState(error) {
   document.querySelector('.retry-btn')?.addEventListener('click', init);
 }
 
-function renderCards(level) {
-  console.log('Rendering level:', level, 'Data:', wordData[level]);
-  if (!wordData[level] || wordData[level].length === 0) {
-    elements.cardContainer.innerHTML = `
-      <div class="empty-state">
-        <i class="fas fa-book-open" aria-hidden="true"></i>
-        <p>No cards available for ${level} level</p>
-      </div>
-    `;
-    elements.progressFill.style.width = '0%'; // Reset progress bar
-    return;
-  }
-
+function renderCards(level, category = 'all') {
+  console.log('Rendering level:', level, 'Category:', category, 'Data:', wordData[level]);
   state.currentLevel = level;
-  state.currentCardIndex = 0; // Reset to first card
+  state.currentCategory = category;
+  state.currentCardIndex = 0;
   state.isFlipped = false;
   elements.cardContainer.innerHTML = '';
 
-  wordData[level].forEach((word, index) => {
+  let filteredWords = wordData[level] || [];
+  if (category !== 'all') {
+    filteredWords = filteredWords.filter(word => word.category === category);
+  }
+
+  if (filteredWords.length === 0) {
+    elements.cardContainer.innerHTML = `
+      <div class="empty-state">
+        <i class="fas fa-book-open" aria-hidden="true"></i>
+        <p>No cards available for ${level} level${category !== 'all' ? ` in ${category} category` : ''}</p>
+      </div>
+    `;
+    elements.progressFill.style.width = '0%';
+    return;
+  }
+
+  filteredWords.forEach((word, index) => {
     const card = document.createElement('div');
     card.className = 'flashcard';
     card.dataset.index = index;
@@ -88,21 +101,29 @@ function renderCards(level) {
         <div class="hiragana">${word.hiragana || ''}</div>
         <div class="meaning">${word.meaning}</div>
         ${word.example ? `<div class="example">例: ${word.example}</div>` : ''}
+        <div class="category">Category: ${word.category.charAt(0).toUpperCase() + word.category.slice(1)}</div>
       </div>
     `;
     setupCardInteractions(card);
     elements.cardContainer.appendChild(card);
   });
 
-  // Reset scroll position to top
+  elements.levelSelect.value = level;
+  elements.categorySelect.value = category;
   elements.flashcardViewport.scrollTo({ top: 0, behavior: 'smooth' });
   updateProgress();
+  savePreferences();
+  updateMetaDescription(level, category);
 }
 
 function updateProgress() {
-  const totalCards = wordData[state.currentLevel]?.length || 0;
+  let filteredWords = wordData[state.currentLevel] || [];
+  if (state.currentCategory !== 'all') {
+    filteredWords = filteredWords.filter(word => word.category === state.currentCategory);
+  }
+  const totalCards = filteredWords.length;
   const progress = totalCards ? ((state.currentCardIndex + 1) / totalCards) * 100 : 0;
-  console.log('Updating progress:', { level: state.currentLevel, index: state.currentCardIndex, progress: progress });
+  console.log('Updating progress:', { level: state.currentLevel, category: state.currentCategory, index: state.currentCardIndex, progress });
   elements.progressFill.style.width = `${progress}%`;
 }
 
@@ -111,7 +132,7 @@ async function loadAllData() {
   const levels = ['N5', 'N4', 'N3', 'N2', 'N1'];
   const promises = levels.map(async level => {
     try {
-      const response = await fetch(`data/${level}.json`); // Changed to absolute path
+      const response = await fetch(`./data/${level}.json`);
       if (!response.ok) throw new Error(`Failed to load ${level} data: ${response.status} ${response.statusText}`);
       wordData[level] = await response.json();
       console.log(`Successfully loaded ${level} with ${wordData[level].length} items`);
@@ -127,6 +148,13 @@ async function loadAllData() {
 // Interaction Functions
 function setupCardInteractions(card) {
   let isAnimating = false;
+  const observer = new IntersectionObserver(entries => {
+    if (entries[0].isIntersecting && !isAnimating) {
+      state.currentCardIndex = parseInt(card.dataset.index);
+      updateProgress();
+    }
+  }, { threshold: 0.7 });
+  observer.observe(card);
 
   const flipCard = () => {
     if (isAnimating) return;
@@ -158,26 +186,29 @@ function setupCardInteractions(card) {
 
 // Event Listeners
 function setupEventListeners() {
-  elements.levelButtons.forEach(button => {
-    button.addEventListener('click', () => {
-      if (state.currentLevel === button.dataset.level) return;
-      console.log('Switching to level:', button.dataset.level);
-      elements.levelButtons.forEach(btn => {
-        btn.classList.remove('active');
-        btn.setAttribute('aria-selected', 'false');
-      });
-      button.classList.add('active');
-      button.setAttribute('aria-selected', 'true');
-      renderCards(button.dataset.level);
-    });
+  elements.levelSelect.addEventListener('change', () => {
+    const level = elements.levelSelect.value;
+    if (level) { // Ignore if still on placeholder
+      console.log('Switching to level:', level);
+      updateCategoryOptions();
+      renderCards(level, state.currentCategory);
+    }
+  });
+
+  elements.categorySelect.addEventListener('change', () => {
+    const category = elements.categorySelect.value;
+    if (category) { // Ignore if still on placeholder
+      console.log('Switching to category:', category);
+      renderCards(state.currentLevel, category);
+    }
   });
 
   elements.themeToggle.addEventListener('click', () => {
     const isDark = document.body.getAttribute('data-theme') === 'dark';
     document.body.setAttribute('data-theme', isDark ? '' : 'dark');
     const icon = elements.themeToggle.querySelector('i');
-    icon.classList.toggle('fa-moon', isDark);
-    icon.classList.toggle('fa-sun', !isDark);
+    icon.classList.toggle('fa-sun', isDark);
+    icon.classList.toggle('fa-moon', !isDark);
     localStorage.setItem('theme', isDark ? 'light' : 'dark');
   });
 
@@ -195,6 +226,22 @@ function setupEventListeners() {
         currentCard.classList.toggle('flipped');
         state.isFlipped = !state.isFlipped;
         updateProgress();
+      }
+    }
+    if (e.key === 'ArrowRight' || e.key === 'ArrowDown') {
+      e.preventDefault();
+      const nextIndex = state.currentCardIndex + 1;
+      const nextCard = document.querySelector(`.flashcard[data-index="${nextIndex}"]`);
+      if (nextCard) {
+        nextCard.scrollIntoView({ behavior: 'smooth' });
+      }
+    }
+    if (e.key === 'ArrowLeft' || e.key === 'ArrowUp') {
+      e.preventDefault();
+      const prevIndex = state.currentCardIndex - 1;
+      const prevCard = document.querySelector(`.flashcard[data-index="${prevIndex}"]`);
+      if (prevCard) {
+        prevCard.scrollIntoView({ behavior: 'smooth' });
       }
     }
   });
@@ -215,6 +262,33 @@ function initTheme() {
     const icon = elements.themeToggle.querySelector('i');
     icon.classList.replace('fa-moon', 'fa-sun');
   }
+}
+
+function updateCategoryOptions() {
+  const categories = ['all', ...new Set(wordData[state.currentLevel].map(word => word.category))];
+  elements.categorySelect.innerHTML = `
+    <option value="" disabled ${state.currentCategory === '' ? 'selected' : ''}>Select Category</option>
+    ${categories.map(cat => `
+      <option value="${cat}" ${cat === state.currentCategory ? 'selected' : ''}>
+        ${cat === 'all' ? 'All' : cat.charAt(0).toUpperCase() + cat.slice(1)}
+      </option>
+    `).join('')}
+  `;
+}
+
+function savePreferences() {
+  localStorage.setItem('level', state.currentLevel);
+  localStorage.setItem('category', state.currentCategory);
+}
+
+function loadPreferences() {
+  state.currentLevel = localStorage.getItem('level') || 'N5';
+  state.currentCategory = localStorage.getItem('category') || 'all';
+}
+
+function updateMetaDescription(level, category) {
+  const description = `Belajar kosakata Jepang JLPT ${level}${category !== 'all' ? ` (${category})` : ''} dengan flashcard interaktif. Cocok untuk pemula dan lanjutan.`;
+  document.querySelector('meta[name="description"]').setAttribute('content', description);
 }
 
 // Start the application
