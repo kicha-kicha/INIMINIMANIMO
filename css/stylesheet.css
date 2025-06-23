@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'honoka';
+    src: url('Honoka-Shin-Antique-Maru_R.woff2') format('woff2'),
+        url('Honoka-Shin-Antique-Maru_R.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
