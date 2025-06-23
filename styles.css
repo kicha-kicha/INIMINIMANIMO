@@ -1,43 +1,50 @@
-i/*=============================
-=         THEME COLORS        =
-=============================*/
+/* =============================
+   ======== VARIABLES ==========
+   ============================= */
 :root {
-  --primary: #5a67d8;
-  --primary-light: #7f9cf5;
-  --primary-lighter: #c3dafe;
-  --primary-dark: #434190;
-  --text: #2d3748;
-  --text-light: #4a5568;
-  --bg: #f7fafc;
-  --card-bg: #ffffff;
+  /* Modern Light Theme Colors */
+  --primary: #4338Cc;
+  --primary-light: #818CF8;
+  --primary-lighter: #C7D2FE;
+  --primary-dark: #4338CA;
+  
+  --text: #1F2937;
+  --text-light: #4B5563;  
+  
+  --bg: #F9FAFB; 
+  --card-bg: #FFFFFF;
+  
   --shadow: 0 4px 6px rgba(0, 0, 0, 0.05), 0 1px 3px rgba(0, 0, 0, 0.1);
   --border-color: rgba(0, 0, 0, 0.06);
-  --success: #48bb78;
-  --warning: #ed8936;
-  --error: #f56565;
-  --accent: #ff0080;
-  --highlight: #7928ca;
+  
+  --success: #10B981;  /* Emerald-500 */
+  --warning: #F59E0B;  /* Amber-500 */
+  --error: #EF4444;  /* Red-500 */
 }
 
 [data-theme="dark"] {
-  --primary: #8b9af7;
-  --primary-light: #a5b4fc;
-  --primary-lighter: #6366f1;
-  --primary-dark: #6b7ce0;
-  --text: #e2e8f0;
-  --text-light: #cbd5e0;
-  --bg: #0f172a;
-  --card-bg: #1e293b;
-  --shadow: 0 4px 6px rgba(0, 0, 0, 0.25), 0 1px 3px rgba(0, 0, 0, 0.4);
+  --primary: #ccff00; 
+  --primary-light: #ccff00;
+  --primary-lighter: gold;
+  --primary-dark: #6D28; 
+  
+  --text: #E5E7EB; 
+  --text-light: #D1D5DB; 
+  
+  --bg: #111827;  /* Gray-900 */
+  --card-bg: #1F2937;  /* Gray-800 */
+  
+  --shadow: 0 0 5px 1px #ccff00;/*rgba(0, 0, 0, 0.25), 0 1px 3px rgba(0, 0, 0, 0.4);*/
   --border-color: rgba(255, 255, 255, 0.08);
-  --success: #68d391;
-  --warning: #f6ad55;
-  --error: #fc8181;
+  
+  --success: #34D399;  /* Emerald-400 */
+  --warning: #FBBF24;  /* Amber-400 */
+  --error: #ccff00;  /* Red-400 */
 }
 
-/*=============================
-=        GLOBAL RESET         =
-=============================*/
+/* =============================
+   ======== BASE STYLES ========
+   ============================= */
 * {
   margin: 0;
   padding: 0;
@@ -46,7 +53,7 @@ i/*=============================
 }
 
 body {
-  font-family: 'Noto Sans JP', system-ui, -apple-system, sans-serif;
+  font-family: 'honoka', system-ui, -apple-system, sans-serif;
   background-color: var(--bg);
   color: var(--text);
   height: 100vh;
@@ -54,9 +61,29 @@ body {
   line-height: 1.6;
 }
 
-/*=============================
-=         MAIN LAYOUT         =
-=============================*/
+[data-theme="dark"] .glow {
+      color: var(--card-bg);
+      text-shadow: 0 0 5px #ccff00;
+      animation: glow 1.5s ease-in-out infinite;
+      }
+    
+    @keyframes glow {
+      0%, 100% {
+        text-shadow: 0 0 5px var(--card-bg);
+      }
+      20% {
+        text-shadow: 0 0 15px #ccff00;
+      }
+    }
+[data-theme="dark"] hr {
+  border: none;
+  height: 1px;
+  background-color: #ccff00; /* warna kuning-hijau neon */
+}
+
+/* =============================
+   ======== LAYOUT =============
+   ============================= */
 .app-container {
   display: flex;
   flex-direction: column;
@@ -68,76 +95,64 @@ body {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding: 1rem 1.5rem;
+  padding: 1rem 2rem;
   background-color: var(--card-bg);
   border-bottom: 1px solid var(--border-color);
   z-index: 10;
+  flex-wrap: wrap;
+  gap: 1rem;
 }
-
-.header-title {
-  font-size: 1.8rem;
-  font-weight: lighter;
-  text-transform: uppercase;
-  background: linear-gradient(to right, var(--accent), var(--highlight));
-  -webkit-background-clip: text;
-  background-clip: text;
-  color: transparent;
-  text-shadow: 
-    3px 3px 5px rgba(0,0,0,0.2),
-    -1px -1px 2px rgba(255,255,255,0.5);
-  animation: wave 3s infinite ease-in-out;
-}
-
-@keyframes wave {
-  0%, 100% { transform: translateY(0); }
-  50% { transform: translateY(-5px); }
-}
-
+    
 .header-controls {
   display: flex;
-  gap: 0.75rem;
+  align-items: center;
+  gap: 1.5rem;
+  flex-wrap: wrap;
 }
 
 .app-footer {
-  padding: 1rem 1.5rem;
+  padding: 0.5rem 1.5rem 1rem;
   background-color: var(--card-bg);
   border-top: 1px solid var(--border-color);
   text-align: center;
-  font-size: 0.875rem;
+  font-size: 0.5rem;
   color: var(--text-light);
 }
 
-/*=============================
-=         FLASHCARDS          =
-=============================*/
+hr {
+  margin: 0.5rem;
+}
+
+/* =============================
+   ======== FLASHCARDS =========
+   ============================= */
 .flashcard-viewport {
   flex: 1;
   overflow-y: auto;
   scroll-snap-type: y mandatory;
   scroll-behavior: smooth;
-  padding: 1.5rem;
+  padding: 1rem;
 }
 
 #card-container {
   display: flex;
   flex-direction: column;
-  gap: 1.5rem;
-  max-width: 800px;
-  margin: 0 auto;
+  gap: 1rem;
   width: 100%;
-  min-height: 100%;
+  max-height: 100%;
+  margin: 0 auto;
 }
 
 .flashcard {
   scroll-snap-align: center;
-  min-height: 70vh;
+  min-height: 100vh;
   background-color: var(--card-bg);
   border-radius: 1rem;
-  padding: 2.5rem;
+  padding: 1rem;
   box-shadow: var(--shadow);
   border: 1px solid var(--border-color);
   transform-style: preserve-3d;
-  transition: transform 0.6s cubic-bezier(0.4, 0, 0.2, 1);
+  transition: transform 1s cubic-bezier(0.4, 0, 0.2, 1);
   cursor: pointer;
   position: relative;
 }
@@ -160,7 +175,7 @@ body {
   top: 2.5rem;
   left: 2.5rem;
   right: 2.5rem;
-  bottom: 2.5rem;
+  bottom: 2.5rem; 
   backface-visibility: hidden;
   display: flex;
   flex-direction: column;
@@ -173,63 +188,70 @@ body {
   transform: rotateY(180deg);
 }
 
-/*=============================
-=         TYPOGRAPHY          =
-=============================*/
+/* =============================
+   ======== TYPOGRAPHY =========
+   ============================= */
 .kanji {
   font-size: 5rem;
   line-height: 1;
   margin-bottom: 1rem;
+  color: var(--text);
 }
 
 .hiragana {
   font-size: 1.75rem;
   margin-bottom: 1rem;
+  color: var(--text-light);
 }
 
 .meaning {
   font-size: 1rem;
   max-width: 80%;
+  color: var(--text-light);
 }
 
-.example {
-  font-size: 0.9rem;
+.example, 
+.category {
+  font-size: 0.5rem;
   margin-top: 1rem;
   color: var(--text-light);
 }
 
-/*=============================
-=          BUTTONS           =
-=============================*/
-.level-tabs {
+/* =============================
+   ======== CONTROLS ===========
+   ============================= */
+.level-toggle, 
+.category-toggle {
   display: flex;
-  justify-content: center;
-  gap: 0.75rem;
-  flex-wrap: wrap;
-  padding: 0.5rem 0;
+  align-items: center;
+  position: relative;
 }
 
-.level-btn {
-  padding: 0.6rem 1.25rem;
-  border: none;
-  border-radius: 2rem;
-  background-color: var(--primary-lighter);
-  color: var(--primary-dark);
+#level-select, 
+#category-select {
+  text-align: center;
+  padding: 0.5rem 1rem;
+  border: 2px solid var(--primary-light);
+  border-radius: 20px;
+  background-color: var(--card-bg);
+  color: var(--text);
+  font-size: 0.5rem;
+  font-weight: 500;
   cursor: pointer;
-  font-weight: 600;
-  font-size: 0.9rem;
-  transition: all 0.2s ease;
+  appearance: none;
+  background-image: url('data:image/svg+xml;charset=US-ASCII,%3Csvg%20width%3D%2212%22%20height%3D%2212%22%20viewBox%3D%220%200%2012%2012%22%20fill%3D%22none%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3Cpath%20d%3D%22M6%209L2%205H10L6%209Z%22%20fill%3D%22%23%5Bvar(--text)%5D%22%2F%3E%3C%2Fsvg%3E');
+  background-repeat: no-repeat;
+  background-position: right 0.75rem center;
+  padding-right: 2.5rem;
+  max-width: 90px;
+  outline: none;
+  transition: border-color 0.3s ease, box-shadow 0.3s ease;
 }
 
-.level-btn:hover {
-  transform: translateY(-2px);
-  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
-}
-
-.level-btn.active {
-  background-color: var(--primary);
-  color: white;
-  box-shadow: 0 2px 10px rgba(90, 103, 216, 0.3);
+#level-select:focus, 
+#category-select:focus {
+ /* border-color: var(--primary); */
+  box-shadow: 0 0 5px 1px var(--primary-lighter);
 }
 
 #theme-toggle,
@@ -237,12 +259,12 @@ body {
   background: none;
   border: none;
   color: var(--primary);
-  font-size: 1.4rem;
+  font-size: 1.5rem;
   cursor: pointer;
   padding: 0.5rem;
   border-radius: 50%;
-  width: 2.5rem;
-  height: 2.5rem;
+  width: 2rem;
+  height: 2rem;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -251,29 +273,41 @@ body {
 
 #theme-toggle:hover,
 #fullscreen-toggle:hover {
-  background-color: rgba(79, 70, 229, 0.1);
+  background-color: var(--primary-lighter);
+  opacity: 0.8;
   transform: scale(1.1);
 }
 
-/*=============================
-=        LEVEL BADGE         =
-=============================*/
+/* =============================
+   ======== UTILITIES ==========
+   ============================= */
+.sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  border: 0;
+}
+
 .level-badge {
   position: absolute;
-  top: 1.25rem;
-  right: 1.25rem;
-  background-color: var(--primary);
+  top: -0.5rem;
+  right: -0.5rem;
+  background-color: var(--error);
   color: white;
   padding: 0.35rem 1rem;
-  border-radius: 1rem;
+  border-radius: 0.5rem;
   font-size: 0.85rem;
   font-weight: 600;
   z-index: 2;
 }
 
-/*=============================
-=      FULLSCREEN MODE       =
-=============================*/
+/* =============================
+   ===== FULLSCREEN MODE =======
+   ============================= */
 .fullscreen-mode .app-header,
 .fullscreen-mode .app-footer {
   display: none;
@@ -298,66 +332,19 @@ body {
   bottom: 2rem;
 }
 
-@media (orientation: landscape) and (max-width: 768px) {
-  .fullscreen-mode .kanji {
-    font-size: 9rem;
-   font-weight: lighter;
-   text-transform: uppercase;
-   background: linear-gradient(to right, var(--accent), var(--highlight));
-  -webkit-background-clip: text;
-  background-clip: text;
-  color: transparent;
-  text-shadow: 
-    3px 3px 5px rgba(0,0,0,0.2),
-    -1px -1px 2px rgba(255,255,255,0.5);
-  animation: wave 3s infinite ease-in-out;
-}
-
-@keyframes wave {
-  0%, 100% { transform: translateY(0); }
-  50% { transform: translateY(-5px); }
-}
- /* Larger for phone landscape */
-  
-
-  .fullscreen-mode .hiragana {
-    font-size: 2.5rem; /* Larger and proportional */
-  }
-
-  .fullscreen-mode .flashcard {
-    padding: 2.5rem; /* More padding for balance */
-  }
-
-  .fullscreen-mode .flashcard-front,
-  .fullscreen-mode .flashcard-back {
-    top: 2.5rem;
-    left: 2.5rem;
-    right: 2.5rem;
-    bottom: 2.5rem;
-  }
-
-  .fullscreen-mode .meaning {
-    font-size: 1.2rem; /* Slightly larger */
-  }
-
-  .fullscreen-mode .example {
-    font-size: 1rem; /* Larger example text */
-  }
-}
-
 .fullscreen-close-btn {
   position: fixed;
   top: 20px;
-  right: 20px;
+  left: 20px;
   z-index: 1000;
-  background: rgba(0, 0, 0, 0.5);
-  backdrop-filter: blur(5px);
+  background: rgba(0, 0, 0, 0.1);
+  backdrop-filter: blur(1px);
   color: white;
   border: none;
   border-radius: 50%;
-  width: 50px;
-  height: 50px;
-  font-size: 1.5rem;
+  width: 30px;
+  height: 30px;
+  font-size: 1rem;
   cursor: pointer;
   display: none;
   transition: all 0.2s ease;
@@ -374,9 +361,9 @@ body {
   transform: scale(1.1);
 }
 
-/*=============================
-=      PROGRESS BAR          =
-=============================*/
+/* =============================
+   ======== PROGRESS ===========
+   ============================= */
 .progress-container {
   position: sticky;
   top: 0;
@@ -384,11 +371,10 @@ body {
   margin: 0 auto;
   padding: 0 1.5rem;
   z-index: 5;
-  background-color: var(--card-bg);
 }
 
 .progress-bar {
-  height: 6px;
+  height: 4px;
   background-color: var(--border-color);
   border-radius: 3px;
   overflow: hidden;
@@ -398,13 +384,38 @@ body {
   height: 100%;
   background-color: var(--primary);
   border-radius: 3px;
-  transition: width 0.3s ease;
+  transition: width 0.8s ease;
 }
 
-/*=============================
-=      RESPONSIVE DESIGN      =
-=============================*/
+/* =============================
+   ======== RESPONSIVE ==========
+   ============================= */
 @media (max-width: 768px) {
+  .app-header {
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 1rem;
+  }
+
+  .header-controls {
+    width: 100%;
+    justify-content: space-between;
+  }
+
+  #level-select, 
+  #category-select {
+    font-size: 0.8rem;
+    padding: 0.4rem 1rem;
+    min-width: 90px;
+  }
+
+  #theme-toggle, 
+  #fullscreen-toggle {
+    font-size: 1.5rem;
+    width: 1.8rem;
+    height: 1.8rem;
+  }
+
   .kanji {
     font-size: 3.5rem;
   }
@@ -417,12 +428,13 @@ body {
     font-size: 0.9rem;
   }
 
-  .example {
+  .example, 
+  .category {
     font-size: 0.8rem;
   }
 
   .flashcard {
-    min-height: 60vh;
+    min-height: 68vh;
     padding: 1.5rem;
   }
 
@@ -434,12 +446,44 @@ body {
     bottom: 1.5rem;
   }
 
-  .level-btn {
-    padding: 0.5rem 1rem;
-    font-size: 0.8rem;
-  }
-
   .progress-container {
     padding: 0 1rem;
   }
+}
+
+@media (orientation: landscape) and (max-width: 768px) {
+  .fullscreen-mode .kanji {
+    font-size: 8rem;
+  }
+
+  .fullscreen-mode .hiragana {
+    font-size: 3.5rem;
+  }
+
+  .fullscreen-mode .flashcard {
+    padding: 2.5rem;
+  }
+
+  .fullscreen-mode .flashcard-front,
+  .fullscreen-mode .flashcard-back {
+    top: 2.5rem;
+    left: 2.5rem;
+    right: 2.5rem;
+    bottom: 2.5rem;
+  }
+
+  .fullscreen-mode .meaning {
+    font-size: 1.2rem;
+  }
+
+  .fullscreen-mode .example,
+  .fullscreen-mode .category {
+    font-size: 1rem;
+  }
+}
+
+.loading-state
+.error-state 
+.empty-state {
+   text-align: center;
 }
