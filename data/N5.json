@@ -1,1 +1,4329 @@
-[{"id":1,"kanji":"危ない","hiragana":"あぶない","meaning":"berbahaya, berisiko"},{"id":2,"kanji":"赤/赤い","hiragana":"あか/あかい","meaning":"merah"},{"id":3,"kanji":"明るい","hiragana":"あかるい","meaning":"cerah, berwarna-warni"},{"id":4,"kanji":"開ける","hiragana":"あける","meaning":"untuk membuka"},{"id":5,"kanji":"秋","hiragana":"あき","meaning":"musim gugur"},{"id":6,"kanji":"開く","hiragana":"あく","meaning":"untuk membuka"},{"id":7,"kanji":"甘い","hiragana":"あまい","meaning":"manis"},{"id":8,"kanji":"雨","hiragana":"あめ","meaning":"hujan"},{"id":9,"kanji":"あなた","hiragana":"あなた","meaning":"Anda"},{"id":10,"kanji":"兄","hiragana":"あに","meaning":"kakak laki-laki"},{"id":11,"kanji":"姉","hiragana":"あね","meaning":"kakak perempuan"},{"id":12,"kanji":"青い","hiragana":"あおい","meaning":"biru"},{"id":13,"kanji":"洗う","hiragana":"あらう","meaning":"untuk mencuci"},{"id":14,"kanji":"有る","hiragana":"ある","meaning":"menjadi, ada"},{"id":15,"kanji":"歩く","hiragana":"あるく","meaning":"berjalan kaki"},{"id":16,"kanji":"朝","hiragana":"あさ","meaning":"pagi hari"},{"id":17,"kanji":"朝ご飯","hiragana":"あさごはん","meaning":"sarapan pagi"},{"id":18,"kanji":"明後日","hiragana":"あさって","meaning":"lusa"},{"id":19,"kanji":"足","hiragana":"あし","meaning":"kaki, kaki"},{"id":20,"kanji":"明日","hiragana":"あした","meaning":"besok"},{"id":21,"kanji":"遊ぶ","hiragana":"あそぶ","meaning":"untuk bermain"},{"id":22,"kanji":"頭","hiragana":"あたま","meaning":"kepala"},{"id":23,"kanji":"暖かい","hiragana":"あたたかい","meaning":"hangat, ringan"},{"id":24,"kanji":"新しい","hiragana":"あたらしい","meaning":"baru, segar"},{"id":25,"kanji":"後","hiragana":"あと","meaning":"di belakang setelah, nanti"},{"id":26,"kanji":"暑い","hiragana":"あつい","meaning":"panas (cuaca)"},{"id":27,"kanji":"熱い","hiragana":"あつい","meaning":"panas (benda)"},{"id":28,"kanji":"厚い","hiragana":"あつい","meaning":"tebal"},{"id":29,"kanji":"会う","hiragana":"あう","meaning":"untuk bertemu"},{"id":30,"kanji":"晩ご飯","hiragana":"ばんごはん","meaning":"makan malam"},{"id":31,"kanji":"番号","hiragana":"ばんごう","meaning":"nomor"},{"id":32,"kanji":"勉強","hiragana":"べんきょう","meaning":"belajar, ketekunan"},{"id":33,"kanji":"便利","hiragana":"べんり","meaning":"nyaman, praktis"},{"id":34,"kanji":"帽子","hiragana":"ぼうし","meaning":"topi, topi"},{"id":35,"kanji":"病院","hiragana":"びょういん","meaning":"rumah sakit"},{"id":36,"kanji":"病気","hiragana":"びょうき","meaning":"penyakit, penyakit"},{"id":37,"kanji":"豚肉","hiragana":"ぶたにく","meaning":"daging babi"},{"id":38,"kanji":"茶色","hiragana":"ちゃいろ","meaning":"coklat muda"},{"id":39,"kanji":"茶碗","hiragana":"ちゃわん","meaning":"mangkuk nasi, cangkir teh"},{"id":40,"kanji":"父","hiragana":"ちち","meaning":"ayah"},{"id":41,"kanji":"違う","hiragana":"ちがう","meaning":"berbeda (dari)"},{"id":42,"kanji":"小さい","hiragana":"ちいさい","meaning":"kecil, kecil, kecil"},{"id":43,"kanji":"近い","hiragana":"ちかい","meaning":"dekat, tutup"},{"id":44,"kanji":"近く","hiragana":"ちかく","meaning":"dekat, lingkungan"},{"id":45,"kanji":"地下鉄","hiragana":"ちかてつ","meaning":"kereta bawah tanah, metro"},{"id":46,"kanji":"ちょっと","hiragana":"ちょっと","meaning":"sedikit"},{"id":47,"kanji":"ちょうど","hiragana":"ちょうど","meaning":"tepat, tepat, hanya"},{"id":48,"kanji":"地図","hiragana":"ちず","meaning":"peta"},{"id":49,"kanji":"台所","hiragana":"だいどころ","meaning":"dapur"},{"id":50,"kanji":"大学","hiragana":"だいがく","meaning":"universitas"},{"id":51,"kanji":"大丈夫","hiragana":"だいじょうぶ","meaning":"Aman, baiklah, oke"},{"id":52,"kanji":"段々","hiragana":"だんだん","meaning":"secara bertahap, sedikit demi sedikit"},{"id":53,"kanji":"誰","hiragana":"だれ","meaning":"siapa"},{"id":54,"kanji":"誰か","hiragana":"だれか","meaning":"seseorang, seseorang"},{"id":55,"kanji":"出す","hiragana":"だす","meaning":"untuk mengeluarkan"},{"id":56,"kanji":"出口","hiragana":"でぐち","meaning":"keluar, gerbang"},{"id":57,"kanji":"出かける","hiragana":"でかける","meaning":"untuk keluar"},{"id":58,"kanji":"電気","hiragana":"でんき","meaning":"listrik, cahaya"},{"id":59,"kanji":"電車","hiragana":"でんしゃ","meaning":"kereta api, kereta listrik"},{"id":60,"kanji":"電話","hiragana":"でんわ","meaning":"panggilan telepon, telepon"},{"id":61,"kanji":"出る","hiragana":"でる","meaning":"pergi, keluar"},{"id":62,"kanji":"どちら","hiragana":"どちら","meaning":"yang mana"},{"id":63,"kanji":"どこ","hiragana":"どこ","meaning":"di mana"},{"id":64,"kanji":"どう","hiragana":"どう","meaning":"bagaimana, dengan cara apa, bagaimana dengan"},{"id":65,"kanji":"動物","hiragana":"どうぶつ","meaning":"hewan"},{"id":66,"kanji":"どうも","hiragana":"どうも","meaning":"terima kasih"},{"id":67,"kanji":"どうして","hiragana":"どうして","meaning":"mengapa, untuk alasan apa"},{"id":68,"kanji":"どうぞ","hiragana":"どうぞ","meaning":"tolong, jangan ragu"},{"id":69,"kanji":"土曜日","hiragana":"どようび","meaning":"Sabtu"},{"id":70,"kanji":"絵","hiragana":"え","meaning":"gambar, gambar, lukisan"},{"id":71,"kanji":"映画","hiragana":"えいが","meaning":"film, film"},{"id":72,"kanji":"映画館","hiragana":"えいがかん","meaning":"bioskop, bioskop"},{"id":73,"kanji":"英語","hiragana":"えいご","meaning":"Bahasa Inggris (bahasa)"},{"id":74,"kanji":"駅","hiragana":"えき","meaning":"stasiun"},{"id":75,"kanji":"鉛筆","hiragana":"えんぴつ","meaning":"pensil"},{"id":76,"kanji":"服","hiragana":"ふく","meaning":"pakaian"},{"id":77,"kanji":"吹く","hiragana":"ふく","meaning":"meniup (angin)"},{"id":78,"kanji":"二人","hiragana":"ふたり","meaning":"dua orang, pasangan"},{"id":79,"kanji":"二日","hiragana":"ふつか","meaning":"hari kedua dalam sebulan, dua hari"},{"id":80,"kanji":"降る","hiragana":"ふる","meaning":"jatuh (hujan)"},{"id":81,"kanji":"古い","hiragana":"ふるい","meaning":"tua (bukan orang)"},{"id":82,"kanji":"封筒","hiragana":"ふうとう","meaning":"amplop"},{"id":83,"kanji":"冬","hiragana":"ふゆ","meaning":"musim dingin"},{"id":84,"kanji":"学校","hiragana":"がっこう","meaning":"sekolah"},{"id":85,"kanji":"学生","hiragana":"がくせい","meaning":"siswa"},{"id":86,"kanji":"外国","hiragana":"がいこく","meaning":"negara asing"},{"id":87,"kanji":"外国人","hiragana":"がいこくじん","meaning":"Orang Asing"},{"id":88,"kanji":"元気","hiragana":"げんき","meaning":"hidup, penuh semangat"},{"id":89,"kanji":"玄関","hiragana":"げんかん","meaning":"pintu masuk, aula masuk"},{"id":90,"kanji":"月曜日","hiragana":"げつようび","meaning":"Senin"},{"id":91,"kanji":"銀行","hiragana":"ぎんこう","meaning":"bank"},{"id":92,"kanji":"牛肉","hiragana":"ぎゅうにく","meaning":"daging sapi"},{"id":93,"kanji":"牛乳","hiragana":"ぎゅうにゅう","meaning":"susu"},{"id":94,"kanji":"五","hiragana":"ご","meaning":"lima"},{"id":95,"kanji":"午後","hiragana":"ごご","meaning":"sore, sore"},{"id":96,"kanji":"ご飯","hiragana":"ごはん","meaning":"nasi matang, makanan"},{"id":97,"kanji":"午前","hiragana":"ごぜん","meaning":"pagi, pagi"},{"id":98,"kanji":"歯","hiragana":"は","meaning":"gigi"},{"id":99,"kanji":"八","hiragana":"はち","meaning":"delapan"},{"id":100,"kanji":"葉書","hiragana":"はがき","meaning":"kartu pos"},{"id":101,"kanji":"母","hiragana":"はは","meaning":"ibu"},{"id":102,"kanji":"入る","hiragana":"はいる","meaning":"masuk, masuk"},{"id":103,"kanji":"灰皿","hiragana":"はいざら","meaning":"asbak"},{"id":104,"kanji":"始め","hiragana":"はじめ","meaning":"awal, mulai"},{"id":105,"kanji":"初めて","hiragana":"はじめて","meaning":"untuk pertama kalinya"},{"id":106,"kanji":"始まる","hiragana":"はじまる","meaning":"memulai, memulai"},{"id":107,"kanji":"箱","hiragana":"はこ","meaning":"kotak, peti"},{"id":108,"kanji":"半分","hiragana":"はんぶん","meaning":"setengah"},{"id":109,"kanji":"花","hiragana":"はな","meaning":"bunga, bunga"},{"id":110,"kanji":"鼻","hiragana":"はな","meaning":"hidung"},{"id":111,"kanji":"話","hiragana":"はなし","meaning":"bicara, pidato, obrolan"},{"id":112,"kanji":"話す","hiragana":"はなす","meaning":"berbicara, berbicara"},{"id":113,"kanji":"晴れる","hiragana":"はれる","meaning":"untuk menjernihkan"},{"id":114,"kanji":"春","hiragana":"はる","meaning":"musim semi, musim semi"},{"id":115,"kanji":"貼る","hiragana":"はる","meaning":"menempelkan, menempelkan"},{"id":116,"kanji":"箸","hiragana":"はし","meaning":"sumpit"},{"id":117,"kanji":"橋","hiragana":"はし","meaning":"jembatan"},{"id":118,"kanji":"走る","hiragana":"はしる","meaning":"untuk menjalankan"},{"id":119,"kanji":"二十歳","hiragana":"はたち","meaning":"dua puluh tahun"},{"id":120,"kanji":"働く","hiragana":"はたらく","meaning":"untuk bekerja"},{"id":121,"kanji":"二十日","hiragana":"はつか","meaning":"hari kedua puluh dalam sebulan, dua puluh hari"},{"id":122,"kanji":"早い","hiragana":"はやい","meaning":"awal"},{"id":123,"kanji":"早く","hiragana":"はやく","meaning":"awal, segera, cepat"},{"id":124,"kanji":"速い","hiragana":"はやい","meaning":"cepat, cepat"},{"id":125,"kanji":"辺","hiragana":"へん","meaning":"area, sekitarnya"},{"id":126,"kanji":"下手","hiragana":"へた","meaning":"tidak terampil"},{"id":127,"kanji":"部屋","hiragana":"へや","meaning":"ruangan, ruangan"},{"id":128,"kanji":"日","hiragana":"ひ","meaning":"hari, matahari"},{"id":129,"kanji":"火","hiragana":"ひ","meaning":"api, api"},{"id":130,"kanji":"左","hiragana":"ひだり","meaning":"kiri, sisi kiri"},{"id":131,"kanji":"東","hiragana":"ひがし","meaning":"timur"},{"id":132,"kanji":"弾く","hiragana":"ひく","meaning":"bermain (piano, gitar)"},{"id":133,"kanji":"引く","hiragana":"ひく","meaning":"menarik, menggambar"},{"id":134,"kanji":"低い","hiragana":"ひくい","meaning":"rendah (peringkat), pendek (tinggi)"},{"id":135,"kanji":"飛行機","hiragana":"ひこうき","meaning":"pesawat terbang, pesawat terbang"},{"id":136,"kanji":"暇","hiragana":"ひま","meaning":"waktu luang, waktu luang"},{"id":137,"kanji":"広い","hiragana":"ひろい","meaning":"luas, luas, lebar"},{"id":138,"kanji":"昼","hiragana":"ひる","meaning":"siang, siang hari"},{"id":139,"kanji":"昼ご飯","hiragana":"ひるごはん","meaning":"makan siang, makan siang"},{"id":140,"kanji":"人","hiragana":"ひと","meaning":"orang"},{"id":141,"kanji":"一人","hiragana":"ひとり","meaning":"satu orang, sendirian"},{"id":142,"kanji":"一つ","hiragana":"ひとつ","meaning":"satu"},{"id":143,"kanji":"本","hiragana":"ほん","meaning":"buku"},{"id":144,"kanji":"本棚","hiragana":"ほんだな","meaning":"rak buku, rak buku"},{"id":145,"kanji":"本当","hiragana":"ほんとう","meaning":"kebenaran, realitas"},{"id":146,"kanji":"他","hiragana":"ほか","meaning":"lainnya, sisanya"},{"id":147,"kanji":"百","hiragana":"ひゃく","meaning":"seratus"},{"id":148,"kanji":"一","hiragana":"いち","meaning":"satu"},{"id":149,"kanji":"一番","hiragana":"いちばん","meaning":"Nomor satu, Pertama, Pertama"},{"id":150,"kanji":"一日","hiragana":"いちにち","meaning":"suatu hari"},{"id":151,"kanji":"家","hiragana":"いえ","meaning":"rumah, tempat tinggal"},{"id":152,"kanji":"いい","hiragana":"いい","meaning":"baik"},{"id":153,"kanji":"否","hiragana":"いいえ","meaning":"Tidak, tidak"},{"id":154,"kanji":"池","hiragana":"いけ","meaning":"kolam"},{"id":155,"kanji":"行く","hiragana":"いく","meaning":"pergi"},{"id":156,"kanji":"幾ら","hiragana":"いくら","meaning":"berapa banyak, berapa banyak"},{"id":157,"kanji":"幾つ","hiragana":"いくつ","meaning":"berapa banyak, berapa umur"},{"id":158,"kanji":"今","hiragana":"いま","meaning":"sekarang, saat ini"},{"id":159,"kanji":"意味","hiragana":"いみ","meaning":"arti, signifikansi"},{"id":160,"kanji":"妹","hiragana":"いもうと","meaning":"adik perempuan"},{"id":161,"kanji":"犬","hiragana":"いぬ","meaning":"anjing"},{"id":162,"kanji":"入れる","hiragana":"いれる","meaning":"memasukkan, membiarkan masuk"},{"id":163,"kanji":"入口","hiragana":"いりぐち","meaning":"pintu masuk, gerbang"},{"id":164,"kanji":"色","hiragana":"いろ","meaning":"warna, kulit"},{"id":165,"kanji":"色々","hiragana":"いろいろ","meaning":"berbagai"},{"id":166,"kanji":"要る","hiragana":"いる","meaning":"membutuhkan, menginginkan"},{"id":167,"kanji":"医者","hiragana":"いしゃ","meaning":"(medis) dokter, dokter"},{"id":168,"kanji":"忙しい","hiragana":"いそがしい","meaning":"sibuk, ditempati"},{"id":169,"kanji":"一緒","hiragana":"いっしょ","meaning":"bersama-sama"},{"id":170,"kanji":"椅子","hiragana":"いす","meaning":"kursi, bangku"},{"id":171,"kanji":"痛い","hiragana":"いたい","meaning":"menyakitkan, sakit"},{"id":172,"kanji":"五日","hiragana":"いつか","meaning":"hari kelima dalam sebulan, lima hari"},{"id":173,"kanji":"いつも","hiragana":"いつも","meaning":"selalu, biasanya"},{"id":174,"kanji":"五つ","hiragana":"いつつ","meaning":"lima"},{"id":175,"kanji":"言う","hiragana":"いう","meaning":"mengatakan, mengucapkan"},{"id":176,"kanji":"嫌","hiragana":"いや","meaning":"tidak menyenangkan, menjijikkan"},{"id":177,"kanji":"字引","hiragana":"じびき","meaning":"kamus"},{"id":178,"kanji":"自分","hiragana":"じぶん","meaning":"diriku sendiri, dirimu sendiri, diri sendiri"},{"id":179,"kanji":"自動車","hiragana":"じどうしゃ","meaning":"mobil"},{"id":180,"kanji":"時間","hiragana":"じかん","meaning":"waktu, jam"},{"id":181,"kanji":"辞書","hiragana":"じしょ","meaning":"kamus"},{"id":182,"kanji":"自転車","hiragana":"じてんしゃ","meaning":"sepeda"},{"id":183,"kanji":"上手","hiragana":"じょうず","meaning":"keterampilan, terampil"},{"id":184,"kanji":"授業","hiragana":"じゅぎょう","meaning":"pelajaran, tugas kelas"},{"id":185,"kanji":"鞄","hiragana":"かばん","meaning":"tas"},{"id":186,"kanji":"花瓶","hiragana":"かびん","meaning":"vas (bunga)"},{"id":187,"kanji":"角","hiragana":"かど","meaning":"sudut, tepi"},{"id":188,"kanji":"帰る","hiragana":"かえる","meaning":"kembali, pulang"},{"id":189,"kanji":"返す","hiragana":"かえす","meaning":"untuk mengembalikan (sesuatu)"},{"id":190,"kanji":"鍵","hiragana":"かぎ","meaning":"kunci, kunci"},{"id":191,"kanji":"階段","hiragana":"かいだん","meaning":"tangga, tangga"},{"id":192,"kanji":"買物","hiragana":"かいもの","meaning":"berbelanja"},{"id":193,"kanji":"会社","hiragana":"かいしゃ","meaning":"perusahaan, perusahaan"},{"id":194,"kanji":"書く","hiragana":"かく","meaning":"menulis, menulis"},{"id":195,"kanji":"紙","hiragana":"かみ","meaning":"kertas"},{"id":196,"kanji":"漢字","hiragana":"かんじ","meaning":"Karakter Cina"},{"id":197,"kanji":"体","hiragana":"からだ","meaning":"tubuh, batang tubuh"},{"id":198,"kanji":"辛い","hiragana":"からい","meaning":"pedas, panas"},{"id":199,"kanji":"借りる","hiragana":"かりる","meaning":"meminjam"},{"id":200,"kanji":"軽い","hiragana":"かるい","meaning":"ringan (tidak berat)"},{"id":201,"kanji":"傘","hiragana":"かさ","meaning":"payung"},{"id":202,"kanji":"貸す","hiragana":"かす","meaning":"meminjamkan, meminjamkan"},{"id":203,"kanji":"方","hiragana":"かた","meaning":"orang"},{"id":204,"kanji":"家庭","hiragana":"かてい","meaning":"rumah, keluarga, rumah tangga"},{"id":205,"kanji":"買う","hiragana":"かう","meaning":"membeli, membeli"},{"id":206,"kanji":"可愛い","hiragana":"かわいい","meaning":"imut, menggemaskan"},{"id":207,"kanji":"家族","hiragana":"かぞく","meaning":"keluarga, anggota keluarga"},{"id":208,"kanji":"風","hiragana":"かぜ","meaning":"angin, angin sepoi-sepoi"},{"id":209,"kanji":"風邪","hiragana":"かぜ","meaning":"pilek, influenza"},{"id":210,"kanji":"川","hiragana":"かわ","meaning":"sungai, sungai"},{"id":211,"kanji":"警官","hiragana":"けいかん","meaning":"petugas polisi, polisi"},{"id":212,"kanji":"結婚","hiragana":"けっこん","meaning":"pernikahan"},{"id":213,"kanji":"結構","hiragana":"けっこう","meaning":"spenlid, bagus, oke"},{"id":214,"kanji":"今朝","hiragana":"けさ","meaning":"pagi ini"},{"id":215,"kanji":"消す","hiragana":"けす","meaning":"menghapus, menghapus"},{"id":216,"kanji":"木","hiragana":"き","meaning":"pohon"},{"id":217,"kanji":"消える","hiragana":"きえる","meaning":"keluar, menghilang"},{"id":218,"kanji":"黄色い","hiragana":"きいろい","meaning":"kuning"},{"id":219,"kanji":"昨日","hiragana":"きのう","meaning":"kemarin"},{"id":220,"kanji":"金曜日","hiragana":"きんようび","meaning":"Jumat"},{"id":221,"kanji":"切符","hiragana":"きっぷ","meaning":"tiket"},{"id":222,"kanji":"嫌い","hiragana":"きらい","meaning":"tidak suka, benci"},{"id":223,"kanji":"切る","hiragana":"きる","meaning":"untuk memotong"},{"id":224,"kanji":"着る","hiragana":"きる","meaning":"memakai, memakai"},{"id":225,"kanji":"喫茶店","hiragana":"きっさてん","meaning":"kedai kopi"},{"id":226,"kanji":"北","hiragana":"きた","meaning":"utara"},{"id":227,"kanji":"汚い","hiragana":"きたない","meaning":"kotor, kotor"},{"id":228,"kanji":"切手","hiragana":"きって","meaning":"perangko (ongkos kirim)"},{"id":229,"kanji":"九","hiragana":"きゅう","meaning":"sembilan"},{"id":230,"kanji":"声","hiragana":"こえ","meaning":"suara"},{"id":231,"kanji":"ここ","hiragana":"ここ","meaning":"di sini"},{"id":232,"kanji":"九日","hiragana":"ここのか","meaning":"hari kesembilan dalam sebulan, sembilan hari"},{"id":233,"kanji":"困る","hiragana":"こまる","meaning":"bermasalah, khawatir"},{"id":234,"kanji":"今晩","hiragana":"こんばん","meaning":"malam ini, malam ini"},{"id":235,"kanji":"今週","hiragana":"こんしゅう","meaning":"minggu ini"},{"id":236,"kanji":"交番","hiragana":"こうばん","meaning":"kotak polisi"},{"id":237,"kanji":"紅茶","hiragana":"こうちゃ","meaning":"teh hitam"},{"id":238,"kanji":"公園","hiragana":"こうえん","meaning":"taman (umum)"},{"id":239,"kanji":"子供","hiragana":"こども","meaning":"anak, anak-anak"},{"id":240,"kanji":"答える","hiragana":"こたえる","meaning":"menjawab, membalas"},{"id":241,"kanji":"言葉","hiragana":"ことば","meaning":"bahasa, dialek"},{"id":242,"kanji":"今年","hiragana":"ことし","meaning":"tahun ini"},{"id":243,"kanji":"交差点","hiragana":"こうさてん","meaning":"penyeberangan, persimpangan"},{"id":244,"kanji":"聞く","hiragana":"きく","meaning":"mendengar, mendengarkan"},{"id":245,"kanji":"奇麗","hiragana":"きれい","meaning":"cantik, cantik, cantik"},{"id":246,"kanji":"去年","hiragana":"きょねん","meaning":"tahun lalu"},{"id":247,"kanji":"今日","hiragana":"きょう","meaning":"hari ini, hari ini"},{"id":248,"kanji":"兄弟","hiragana":"きょうだい","meaning":"saudara kandung, saudara laki-laki dan perempuan"},{"id":249,"kanji":"教室","hiragana":"きょうしつ","meaning":"ruang kelas, departemen"},{"id":250,"kanji":"口","hiragana":"くち","meaning":"mulut, bukaan, lubang"},{"id":251,"kanji":"果物","hiragana":"くだもの","meaning":"buah"},{"id":252,"kanji":"曇り","hiragana":"くもり","meaning":"keawan, cuaca mendung"},{"id":253,"kanji":"国","hiragana":"くに","meaning":"negara, negara bagian, wilayah"},{"id":254,"kanji":"暗い","hiragana":"くらい","meaning":"gelap, suram"},{"id":255,"kanji":"黒い","hiragana":"くろい","meaning":"hitam, gelap"},{"id":256,"kanji":"来る","hiragana":"くる","meaning":"akan datang"},{"id":257,"kanji":"車","hiragana":"くるま","meaning":"mobil, mobil"},{"id":258,"kanji":"薬","hiragana":"くすり","meaning":"obat-obatan"},{"id":259,"kanji":"靴","hiragana":"くつ","meaning":"sepatu, sepatu bot"},{"id":260,"kanji":"靴下","hiragana":"くつした","meaning":"kaus kaki"},{"id":261,"kanji":"町","hiragana":"まち","meaning":"kota, blok"},{"id":262,"kanji":"まだ","hiragana":"まだ","meaning":"masih, belum"},{"id":263,"kanji":"前","hiragana":"まえ","meaning":"depan, depan, sebelumnya"},{"id":264,"kanji":"毎朝","hiragana":"まいあさ","meaning":"setiap pagi"},{"id":265,"kanji":"毎晩","hiragana":"まいばん","meaning":"setiap malam"},{"id":266,"kanji":"毎月","hiragana":"まいつき/まいげつ","meaning":"setiap bulan"},{"id":267,"kanji":"毎日","hiragana":"まいにち","meaning":"setiap hari"},{"id":268,"kanji":"毎週","hiragana":"まいしゅう","meaning":"setiap minggu"},{"id":269,"kanji":"毎年","hiragana":"まいとし","meaning":"every year, yearly"},{"id":270,"kanji":"窓","hiragana":"まど","meaning":"window"},{"id":271,"kanji":"曲がる","hiragana":"まがる","meaning":"to bend, to curve"},{"id":272,"kanji":"万","hiragana":"まん","meaning":"ten thousand"},{"id":273,"kanji":"丸い","hiragana":"まるい","meaning":"round, circular"},{"id":274,"kanji":"また","hiragana":"また","meaning":"again, also"},{"id":275,"kanji":"待つ","hiragana":"まつ","meaning":"to wait, to look forward to"},{"id":276,"kanji":"不味い","hiragana":"まずい","meaning":"unappetizing, unsavory"},{"id":277,"kanji":"目","hiragana":"め","meaning":"eye, eyeball"},{"id":278,"kanji":"眼鏡","hiragana":"めがね","meaning":"spectacles, glasses"},{"id":279,"kanji":"道","hiragana":"みち","meaning":"road, street, way"},{"id":280,"kanji":"緑","hiragana":"みどり","meaning":"hijau"},{"id":281,"kanji":"磨く","hiragana":"みがく","meaning":"memoles, bersinar"},{"id":282,"kanji":"右","hiragana":"みぎ","meaning":"kanan, sisi kanan"},{"id":283,"kanji":"短い","hiragana":"みじかい","meaning":"pendek"},{"id":284,"kanji":"耳","hiragana":"みみ","meaning":"telinga"},{"id":285,"kanji":"南","hiragana":"みなみ","meaning":"selatan"},{"id":286,"kanji":"皆","hiragana":"みんな","meaning":"Semua, semuanya"},{"id":287,"kanji":"見る","hiragana":"みる","meaning":"melihat, melihat, menonton"},{"id":288,"kanji":"店","hiragana":"みせ","meaning":"toko, toko"},{"id":289,"kanji":"見せる","hiragana":"みせる","meaning":"untuk menunjukkan, untuk menampilkan"},{"id":290,"kanji":"水","hiragana":"みず","meaning":"air"},{"id":291,"kanji":"門","hiragana":"もん","meaning":"Gerbang"},{"id":292,"kanji":"問題","hiragana":"もんだい","meaning":"pertanyaan, masalah"},{"id":293,"kanji":"持つ","hiragana":"もつ","meaning":"memegang (di tangan seseorang)"},{"id":294,"kanji":"木曜日","hiragana":"もくようび","meaning":"Kamis"},{"id":295,"kanji":"六日","hiragana":"むいか","meaning":"hari keenam dalam sebulan, enam hari"},{"id":296,"kanji":"向こう","hiragana":"むこう","meaning":"sisi berlawanan, sisi lain"},{"id":297,"kanji":"村","hiragana":"むら","meaning":"desa"},{"id":298,"kanji":"難しい","hiragana":"むずかしい","meaning":"sulit, sulit"},{"id":299,"kanji":"長い","hiragana":"ながい","meaning":"panjang, panjang"},{"id":300,"kanji":"中","hiragana":"なか","meaning":"dalam, dalam, di antara"},{"id":301,"kanji":"鳴く","hiragana":"なく","meaning":"bernyanyi (burung)"},{"id":302,"kanji":"無くす","hiragana":"なくす","meaning":"kehilangan sesuatu"},{"id":303,"kanji":"名前","hiragana":"なまえ","meaning":"nama, nama lengkap"},{"id":304,"kanji":"何","hiragana":"なに","meaning":"apa"},{"id":305,"kanji":"七日","hiragana":"なのか","meaning":"hari ketujuh dalam sebulan, tujuh hari"},{"id":306,"kanji":"並ぶ","hiragana":"ならぶ","meaning":"berdiri dalam antrean"},{"id":307,"kanji":"並べる","hiragana":"ならべる","meaning":"untuk berbaris"},{"id":308,"kanji":"習う","hiragana":"ならう","meaning":"diajar, belajar (dari seorang guru)"},{"id":309,"kanji":"なる","hiragana":"なる","meaning":"menjadi"},{"id":310,"kanji":"夏","hiragana":"なつ","meaning":"musim panas"},{"id":311,"kanji":"猫","hiragana":"ねこ","meaning":"kucing"},{"id":312,"kanji":"寝る","hiragana":"ねる","meaning":"pergi tidur"},{"id":313,"kanji":"二","hiragana":"に","meaning":"dua"},{"id":314,"kanji":"日曜日","hiragana":"にちようび","meaning":"Minggu"},{"id":315,"kanji":"賑やか","hiragana":"にぎやか","meaning":"ramai, sibuk, semarak"},{"id":316,"kanji":"肉","hiragana":"にく","meaning":"daging, daging"},{"id":317,"kanji":"荷物","hiragana":"にもつ","meaning":"bagasi, bagasi"},{"id":318,"kanji":"西","hiragana":"にし","meaning":"barat"},{"id":319,"kanji":"庭","hiragana":"にわ","meaning":"taman, halaman"},{"id":320,"kanji":"登る","hiragana":"のぼる","meaning":"naik, naik"},{"id":321,"kanji":"飲物","hiragana":"のみもの","meaning":"minuman, minuman"},{"id":322,"kanji":"飲む","hiragana":"のむ","meaning":"minum, menelan"},{"id":323,"kanji":"乗る","hiragana":"のる","meaning":"untuk naik (kereta api, pesawat, bus, kapal)"},{"id":324,"kanji":"脱ぐ","hiragana":"ぬぐ","meaning":"melepas (pakaian, sepatu)"},{"id":325,"kanji":"伯母さん","hiragana":"おばさん","meaning":"bibi"},{"id":326,"kanji":"お祖母さん","hiragana":"おばあさん","meaning":"nenek"},{"id":327,"kanji":"お弁当","hiragana":"おべんとう","meaning":"Kotak makan siang Jepang"},{"id":328,"kanji":"覚える","hiragana":"おぼえる","meaning":"menghafal, mengingat"},{"id":329,"kanji":"お茶","hiragana":"おちゃ","meaning":"teh"},{"id":330,"kanji":"お風呂","hiragana":"おふろ","meaning":"mandi"},{"id":331,"kanji":"美味しい","hiragana":"おいしい","meaning":"lezat, enak"},{"id":332,"kanji":"お母さん","hiragana":"おかあさん","meaning":"ibu"},{"id":333,"kanji":"お金","hiragana":"おかね","meaning":"uang"},{"id":334,"kanji":"お菓子","hiragana":"おかし","meaning":"permen, permen"},{"id":335,"kanji":"起きる","hiragana":"おきる","meaning":"bangun, bangun"},{"id":336,"kanji":"置く","hiragana":"おく","meaning":"meletakkan, menempatkan"},{"id":337,"kanji":"奥さん","hiragana":"おくさん","meaning":"istri, istrimu, istrinya"},{"id":338,"kanji":"お巡りさん","hiragana":"おまわりさん","meaning":"petugas polisi"},{"id":339,"kanji":"重い","hiragana":"おもい","meaning":"berat, berat"},{"id":340,"kanji":"面白い","hiragana":"おもしろい","meaning":"menarik, menarik"},{"id":341,"kanji":"お腹","hiragana":"おなか","meaning":"perut"},{"id":342,"kanji":"音楽","hiragana":"おんがく","meaning":"musik"},{"id":343,"kanji":"女","hiragana":"おんな","meaning":"perempuan, wanita"},{"id":344,"kanji":"同じ","hiragana":"おなじ","meaning":"sama, identik"},{"id":345,"kanji":"お姉さん","hiragana":"おねえさん","meaning":"kakak perempuan"},{"id":346,"kanji":"お兄さん","hiragana":"おにいさん","meaning":"kakak laki-laki"},{"id":347,"kanji":"女の子","hiragana":"おんなのこ","meaning":"gadis"},{"id":348,"kanji":"多い","hiragana":"おおい","meaning":"banyak, banyak, banyak"},{"id":349,"kanji":"大きい","hiragana":"おおきい","meaning":"besar, besar, hebat"},{"id":350,"kanji":"大勢","hiragana":"おおぜい","meaning":"banyak, kerumunan, banyak orang"},{"id":351,"kanji":"降りる","hiragana":"おりる","meaning":"turun, turun"},{"id":352,"kanji":"お皿","hiragana":"おさら","meaning":"piring, hidangan"},{"id":353,"kanji":"教える","hiragana":"おしえる","meaning":"mengajar, mengajar"},{"id":354,"kanji":"遅い","hiragana":"おそい","meaning":"lambat, terlambat"},{"id":355,"kanji":"押す","hiragana":"おす","meaning":"mendorong, menekan"},{"id":356,"kanji":"お手洗い","hiragana":"おてあらい","meaning":"toilet, toilet"},{"id":357,"kanji":"男","hiragana":"おとこ","meaning":"pria, laki-laki"},{"id":358,"kanji":"男の子","hiragana":"おとこのこ","meaning":"anak laki-laki"},{"id":359,"kanji":"大人","hiragana":"おとな","meaning":"dewasa"},{"id":360,"kanji":"一昨日","hiragana":"おととい","meaning":"sehari sebelum kemarin"},{"id":361,"kanji":"お父さん","hiragana":"おとうさん","meaning":"father, dad"},{"id":362,"kanji":"一昨年","hiragana":"おととし","meaning":"year before last"},{"id":363,"kanji":"弟","hiragana":"おとうと","meaning":"younger brother"},{"id":364,"kanji":"終わる","hiragana":"おわる","meaning":"to finish, to end"},{"id":365,"kanji":"泳ぐ","hiragana":"およぐ","meaning":"to swim"},{"id":366,"kanji":"来月","hiragana":"らいげつ","meaning":"next month"},{"id":367,"kanji":"来年","hiragana":"らいねん","meaning":"next year"},{"id":368,"kanji":"来週","hiragana":"らいしゅう","meaning":"next week"},{"id":369,"kanji":"冷蔵庫","hiragana":"れいぞうこ","meaning":"refrigerator"},{"id":370,"kanji":"練習","hiragana":"れんしゅう","meaning":"practice"},{"id":371,"kanji":"六","hiragana":"ろく","meaning":"six"},{"id":372,"kanji":"廊下","hiragana":"ろうか","meaning":"corridor, hallway"},{"id":373,"kanji":"旅行","hiragana":"りょこう","meaning":"travel, trip"},{"id":374,"kanji":"料理","hiragana":"りょうり","meaning":"cooking, cuisine"},{"id":375,"kanji":"両親","hiragana":"りょうしん","meaning":"parents, both parents"},{"id":376,"kanji":"留学生","hiragana":"りゅうがくせい","meaning":"overseas student"},{"id":377,"kanji":"歳","hiragana":"さい","meaning":"years old"},{"id":378,"kanji":"財布","hiragana":"さいふ","meaning":"purse, wallet"},{"id":379,"kanji":"魚","hiragana":"さかな","meaning":"fish"},{"id":380,"kanji":"酒","hiragana":"さけ","meaning":"alcohol, sake"},{"id":381,"kanji":"先","hiragana":"さき","meaning":"previous, prior, former"},{"id":382,"kanji":"咲く","hiragana":"さく","meaning":"to bloom"},{"id":383,"kanji":"作文","hiragana":"さくぶん","meaning":"writing (an essay), composition"},{"id":384,"kanji":"寒い","hiragana":"さむい","meaning":"cold"},{"id":385,"kanji":"三","hiragana":"さん","meaning":"three"},{"id":386,"kanji":"散歩","hiragana":"さんぽ","meaning":"walk, stroll"},{"id":387,"kanji":"再来年","hiragana":"さらいねん","meaning":"year after next"},{"id":388,"kanji":"砂糖","hiragana":"さとう","meaning":"sugar"},{"id":389,"kanji":"背","hiragana":"せ","meaning":"height, stature"},{"id":390,"kanji":"背広","hiragana":"せびろ","meaning":"business suit"},{"id":391,"kanji":"生徒","hiragana":"せいと","meaning":"pupil"},{"id":392,"kanji":"石鹸","hiragana":"せっけん","meaning":"soap"},{"id":393,"kanji":"狭い","hiragana":"せまい","meaning":"narrow, confined"},{"id":394,"kanji":"千","hiragana":"せん","meaning":"thousand"},{"id":395,"kanji":"先月","hiragana":"せんげつ","meaning":"last month"},{"id":396,"kanji":"先生","hiragana":"せんせい","meaning":"teacher, master, doctor"},{"id":397,"kanji":"先週","hiragana":"せんしゅう","meaning":"last week"},{"id":398,"kanji":"洗濯","hiragana":"せんたく","meaning":"washing, laundry"},{"id":399,"kanji":"四","hiragana":"し/よん","meaning":"four"},{"id":400,"kanji":"七","hiragana":"しち/なな","meaning":"seven"},{"id":401,"kanji":"写真","hiragana":"しゃしん","meaning":"photograph, photo, picture"},{"id":402,"kanji":"仕事","hiragana":"しごと","meaning":"work, job"},{"id":403,"kanji":"閉まる","hiragana":"しまる","meaning":"to be shut, to close"},{"id":404,"kanji":"閉める","hiragana":"しめる","meaning":"to close, to shut"},{"id":405,"kanji":"締める","hiragana":"しめる","meaning":"to tie, to fasten"}]
+[
+    {
+        "id": "1",
+        "kanji": "危ない",
+        "hiragana": "あぶない",
+        "meaning": "berbahaya, berisiko",
+        "example": "この道は危ないです。",
+        "category": "Kata Sifat"
+    },
+    {
+        "id": "2",
+        "kanji": "あげる",
+        "hiragana": "あげる",
+        "meaning": "memberikan",
+        "example": "友達にあげます。",
+        "category": "Kata Kerja"
+    },
+    {
+        "id": "3",
+        "kanji": "赤",
+        "hiragana": "あか",
+        "meaning": "merah",
+        "example": "赤いりんごです。",
+        "category": "Kata Benda"
+    },
+    {
+        "id": "4",
+        "kanji": "赤い",
+        "hiragana": "あかい",
+        "meaning": "merah",
+        "example": "りんごは赤いです。",
+        "category": "Kata Sifat"
+    },
+    {
+        "id": "5",
+        "kanji": "明るい",
+        "hiragana": "あかるい",
+        "meaning": "cerah, berwarna-warni",
+        "example": "この部屋は明るいです。",
+        "category": "Kata Sifat"
+    },
+    {
+        "id": "6",
+        "kanji": "開ける",
+        "hiragana": "あける",
+        "meaning": "membuka",
+        "example": "ドアを開けます。",
+        "category": "Kata Kerja"
+    },
+    {
+        "id": "7",
+        "kanji": "秋",
+        "hiragana": "あき",
+        "meaning": "musim gugur",
+        "example": "秋は涼しいです。",
+        "category": "Kata Benda"
+    },
+    {
+        "id": "8",
+        "kanji": "開く",
+        "hiragana": "あく",
+        "meaning": "membuka",
+        "example": "ドアが開きます。",
+        "category": "Kata Kerja"
+    },
+    {
+        "id": "9",
+        "kanji": "甘い",
+        "hiragana": "あまい",
+        "meaning": "manis",
+        "example": "このケーキは甘いです。",
+        "category": "Kata Sifat"
+    },
+    {
+        "id": "10",
+        "kanji": "雨",
+        "hiragana": "あめ",
+        "meaning": "hujan",
+        "example": "今日、雨が降ります。",
+        "category": "Kata Benda"
+    },
+    {
+        "id": "11",
+        "kanji": "あなた",
+        "hiragana": "あなた",
+        "meaning": "Anda",
+        "example": "あなたは学生ですか？",
+        "category": "Kata Ganti"
+    },
+    {
+        "id": "12",
+        "kanji": "兄",
+        "hiragana": "あに",
+        "meaning": "kakak laki-laki",
+        "example": "私の兄は医者です。",
+        "category": "Kata Benda"
+    },
+    {
+        "id": "13",
+        "kanji": "姉",
+        "hiragana": "あね",
+        "meaning": "kakak perempuan",
+        "example": "姉は先生です。",
+        "category": "Kata Benda"
+    },
+    {
+        "id": "14",
+        "kanji": "青い",
+        "hiragana": "あおい",
+        "meaning": "biru",
+        "example": "空は青いです。",
+        "category": "Kata Sifat"
+    },
+    {
+        "id": "15",
+        "kanji": "洗う",
+        "hiragana": "あらう",
+        "meaning": "mencuci",
+        "example": "服を洗います。",
+        "category": "Kata Kerja"
+    },
+    {
+        "id": "16",
+        "kanji": "有る",
+        "hiragana": "ある",
+        "meaning": "menjadi, ada",
+        "example": "机の上に本があります。",
+        "category": "Kata Kerja"
+    },
+    {
+        "id": "17",
+        "kanji": "歩く",
+        "hiragana": "あるく",
+        "meaning": "berjalan kaki",
+        "example": "公園を歩きます。",
+        "category": "Kata Kerja"
+    },
+    {
+        "id": "18",
+        "kanji": "朝",
+        "hiragana": "あさ",
+        "meaning": "pagi hari",
+        "example": "朝早く起きます。",
+        "category": "Kata Benda"
+    },
+    {
+        "id": "19",
+        "kanji": "朝ご飯",
+        "hiragana": "あさごはん",
+        "meaning": "sarapan pagi",
+        "example": "朝ご飯を食べます。",
+        "category": "Kata Benda"
+    },
+    {
+        "id": "20",
+        "kanji": "明後日",
+        "hiragana": "あさって",
+        "meaning": "lusa",
+        "example": "明後日、旅行に行きます。",
+        "category": "Kata Benda"
+    },
+    {
+        "id": "21",
+        "kanji": "足",
+        "hiragana": "あし",
+        "meaning": "kaki",
+        "example": "足が痛いです。",
+        "category": "Kata Benda"
+    },
+    {
+        "id": "22",
+        "kanji": "明日",
+        "hiragana": "あした",
+        "meaning": "besok",
+        "example": "明日、試験があります。",
+        "category": "Kata Benda"
+    },
+    {
+        "id": "23",
+        "kanji": "遊ぶ",
+        "hiragana": "あそぶ",
+        "meaning": "bermain",
+        "example": "友達と遊びます。",
+        "category": "Kata Kerja"
+    },
+    {
+        "id": "24",
+        "kanji": "あそこ",
+        "hiragana": "あそこ",
+        "meaning": "di sana",
+        "example": "あそこに店があります。",
+        "category": "Kata Keterangan"
+    },
+    {
+        "id": "25",
+        "kanji": "頭",
+        "hiragana": "あたま",
+        "meaning": "kepala",
+        "example": "頭が痛いです。",
+        "category": "Kata Benda"
+    },
+    {
+        "id": "26",
+        "kanji": "暖かい",
+        "hiragana": "あたたかい",
+        "meaning": "hangat",
+        "example": "このスープは暖かいです。",
+        "category": "Kata Sifat"
+    },
+    {
+        "id": "27",
+        "kanji": "新しい",
+        "hiragana": "あたらしい",
+        "meaning": "baru",
+        "example": "新しい服を買いました。",
+        "category": "Kata Sifat"
+    },
+    {
+        "id": "28",
+        "kanji": "後",
+        "hiragana": "あと",
+        "meaning": "belakang, setelah",
+        "example": "後で会いましょう。",
+        "category": "Kata Benda"
+    },
+    {
+        "id": "29",
+        "kanji": "暑い",
+        "hiragana": "あつい",
+        "meaning": "panas (cuaca)",
+        "example": "今日、暑いです。",
+        "category": "Kata Sifat"
+    },
+    {
+        "id": "30",
+        "kanji": "熱い",
+        "hiragana": "あつい",
+        "meaning": "panas (benda)",
+        "example": "このお茶は熱いです。",
+        "category": "Kata Sifat"
+    },
+    {
+        "id": "31",
+        "kanji": "厚い",
+        "hiragana": "あつい",
+        "meaning": "tebal",
+        "example": "この本は厚いです。",
+        "category": "Kata Sifat"
+    },
+    {
+        "id": "32",
+        "kanji": "会う",
+        "hiragana": "あう",
+        "meaning": "bertemu",
+        "example": "友達に会います。",
+        "category": "Kata Kerja"
+    },
+    {
+        "id": "33",
+        "kanji": "晩ご飯",
+        "hiragana": "ばんごはん",
+        "meaning": "makan malam",
+        "example": "晩ご飯を作ります。",
+        "category": "Kata Benda"
+    },
+    {
+        "id": "34",
+        "kanji": "番号",
+        "hiragana": "ばんごう",
+        "meaning": "nomor",
+        "example": "電話番号を教えてください。",
+        "category": "Kata Benda"
+    },
+    {
+        "id": "35",
+        "kanji": "勉強",
+        "hiragana": "べんきょう",
+        "meaning": "belajar",
+        "example": "日本語を勉強します。",
+        "category": "Kata Benda"
+    },
+    {
+        "id": "36",
+        "kanji": "便利",
+        "hiragana": "べんり",
+        "meaning": "nyaman, praktis",
+        "example": "この店は便利です。",
+        "category": "Kata Sifat"
+    },
+    {
+        "id": "37",
+        "kanji": "帽子",
+        "hiragana": "ぼうし",
+        "meaning": "topi",
+        "example": "帽子をかぶります。",
+        "category": "Kata Benda"
+    },
+    {
+        "id": "38",
+        "kanji": "病院",
+        "hiragana": "びょういん",
+        "meaning": "rumah sakit",
+        "example": "病院に行きます。",
+        "category": "Kata Benda"
+    },
+    {
+        "id": "39",
+        "kanji": "病気",
+        "hiragana": "びょうき",
+        "meaning": "penyakit",
+        "example": "病気になりました。",
+        "category": "Kata Benda"
+    },
+    {
+        "id": "40",
+        "kanji": "豚肉",
+        "hiragana": "ぶたにく",
+        "meaning": "daging babi",
+        "example": "豚肉を食べます。",
+        "category": "Kata Benda"
+    },
+    {
+        "id": "41",
+        "kanji": "茶色",
+        "hiragana": "ちゃいろ",
+        "meaning": "cokelat muda",
+        "example": "茶色の靴を買いました。",
+        "category": "Kata Benda"
+    },
+    {
+        "id": "42",
+        "kanji": "茶碗",
+        "hiragana": "ちゃわん",
+        "meaning": "mangkuk nasi, cangkir teh",
+        "example": "茶碗にご飯を入れます。",
+        "category": "Kata Benda"
+    },
+    {
+        "id": "43",
+        "kanji": "父",
+        "hiragana": "ちち",
+        "meaning": "ayah",
+        "example": "父は会社員です。",
+        "category": "Kata Benda"
+    },
+    {
+        "id": "44",
+        "kanji": "違う",
+        "hiragana": "ちがう",
+        "meaning": "berbeda",
+        "example": "それは違います。",
+        "category": "Kata Kerja"
+    },
+    {
+        "id": "45",
+        "kanji": "小さい",
+        "hiragana": "ちいさい",
+        "meaning": "kecil",
+        "example": "この犬は小さいです。",
+        "category": "Kata Sifat"
+    },
+    {
+        "id": "46",
+        "kanji": "近い",
+        "hiragana": "ちかい",
+        "meaning": "dekat",
+        "example": "駅は近いです。",
+        "category": "Kata Sifat"
+    },
+    {
+        "id": "47",
+        "kanji": "近く",
+        "hiragana": "ちかく",
+        "meaning": "dekat, lingkungan",
+        "example": "近くに店があります。",
+        "category": "Kata Keterangan"
+    },
+    {
+        "id": "48",
+        "kanji": "地下鉄",
+        "hiragana": "ちかてつ",
+        "meaning": "kereta bawah tanah, metro",
+        "example": "地下鉄に乗ります。",
+        "category": "Kata Benda"
+    },
+    {
+        "id": "49",
+        "kanji": "ちょっと",
+        "hiragana": "ちょっと",
+        "meaning": "sedikit",
+        "example": "ちょっと待ってください。",
+        "category": "Kata Keterangan"
+    },
+    {
+        "id": "50",
+        "kanji": "ちょうど",
+        "hiragana": "ちょうど",
+        "meaning": "tepat, persis",
+        "example": "ちょうど10時です。",
+        "category": "Kata Keterangan"
+    },
+    {
+        "id": "51",
+        "kanji": "地図",
+        "hiragana": "ちず",
+        "meaning": "peta",
+        "example": "地図を見ます。",
+        "category": "Kata Benda"
+    },
+    {
+        "id": "52",
+        "kanji": "台所",
+        "hiragana": "だいどころ",
+        "meaning": "dapur",
+        "example": "台所で料理します。",
+        "category": "Kata Benda"
+    },
+    {
+        "id": "53",
+        "kanji": "大学",
+        "hiragana": "だいがく",
+        "meaning": "universitas",
+        "example": "大学で勉強します。",
+        "category": "Kata Benda"
+    },
+    {
+        "id": "54",
+        "kanji": "大丈夫",
+        "hiragana": "だいじょうぶ",
+        "meaning": "aman, baik-baik saja",
+        "example": "大丈夫ですか？",
+        "category": "Kata Sifat"
+    },
+    {
+        "id": "55",
+        "kanji": "段々",
+        "hiragana": "だんだん",
+        "meaning": "bertahap, sedikit demi sedikit",
+        "example": "日本語がだんだん上手になります。",
+        "category": "Kata Keterangan"
+    },
+    {
+        "id": "56",
+        "kanji": "誰",
+        "hiragana": "だれ",
+        "meaning": "siapa",
+        "example": "あれは誰ですか？",
+        "category": "Kata Ganti"
+    },
+    {
+        "id": "57",
+        "kanji": "誰か",
+        "hiragana": "だれか",
+        "meaning": "seseorang",
+        "example": "誰かいますか？",
+        "category": "Kata Ganti"
+    },
+    {
+        "id": "58",
+        "kanji": "出す",
+        "hiragana": "だす",
+        "meaning": "mengeluarkan",
+        "example": "手紙を出します。",
+        "category": "Kata Kerja"
+    },
+    {
+        "id": "59",
+        "kanji": "出口",
+        "hiragana": "でぐち",
+        "meaning": "pintu keluar",
+        "example": "出口はあそこです。",
+        "category": "Kata Benda"
+    },
+    {
+        "id": "60",
+        "kanji": "出かける",
+        "hiragana": "でかける",
+        "meaning": "keluar, pergi",
+        "example": "買い物に出かけます。",
+        "category": "Kata Kerja"
+    },
+    {
+        "id": "61",
+        "kanji": "電気",
+        "hiragana": "でんき",
+        "meaning": "listrik, lampu",
+        "example": "電気を消します。",
+        "category": "Kata Benda"
+    },
+    {
+        "id": "62",
+        "kanji": "電車",
+        "hiragana": "でんしゃ",
+        "meaning": "kereta listrik",
+        "example": "電車で駅に行きます。",
+        "category": "Kata Benda"
+    },
+    {
+        "id": "63",
+        "kanji": "電話",
+        "hiragana": "でんわ",
+        "meaning": "telepon",
+        "example": "電話をかけます。",
+        "category": "Kata Benda"
+    },
+    {
+        "id": "64",
+        "kanji": "出る",
+        "hiragana": "でる",
+        "meaning": "keluar, meninggalkan",
+        "example": "家を出ます。",
+        "category": "Kata Kerja"
+    },
+    {
+        "id": "65",
+        "kanji": "どちら",
+        "hiragana": "どちら",
+        "meaning": "yang mana",
+        "example": "どちらが好きですか？",
+        "category": "Kata Ganti"
+    },
+    {
+        "id": "66",
+        "kanji": "どこ",
+        "hiragana": "どこ",
+        "meaning": "di mana",
+        "example": "どこに行きますか？",
+        "category": "Kata Ganti"
+    },
+    {
+        "id": "67",
+        "kanji": "どう",
+        "hiragana": "どう",
+        "meaning": "bagaimana",
+        "example": "どうですか？",
+        "category": "Kata Keterangan"
+    },
+    {
+        "id": "68",
+        "kanji": "動物",
+        "hiragana": "どうぶつ",
+        "meaning": "hewan",
+        "example": "動物園に行きます。",
+        "category": "Kata Benda"
+    },
+    {
+        "id": "69",
+        "kanji": "どうも",
+        "hiragana": "どうも",
+        "meaning": "terima kasih",
+        "example": "どうもありがとう。",
+        "category": "Kata Keterangan"
+    },
+    {
+        "id": "70",
+        "kanji": "どうして",
+        "hiragana": "どうして",
+        "meaning": "mengapa",
+        "example": "どうして遅れましたか？",
+        "category": "Kata Keterangan"
+    },
+    {
+        "id": "71",
+        "kanji": "どうぞ",
+        "hiragana": "どうぞ",
+        "meaning": "silakan",
+        "example": "どうぞ、入ってください。",
+        "category": "Kata Keterangan"
+    },
+    {
+        "id": "72",
+        "kanji": "土曜日",
+        "hiragana": "どようび",
+        "meaning": "hari Sabtu",
+        "example": "土曜日は休みです。",
+        "category": "Kata Benda"
+    },
+    {
+        "id": "73",
+        "kanji": "絵",
+        "hiragana": "え",
+        "meaning": "gambar, lukisan",
+        "example": "絵を描きます。",
+        "category": "Kata Benda"
+    },
+    {
+        "id": "74",
+        "kanji": "映画",
+        "hiragana": "えいが",
+        "meaning": "film",
+        "example": "映画を見ます。",
+        "category": "Kata Benda"
+    },
+    {
+        "id": "75",
+        "kanji": "映画館",
+        "hiragana": "えいがかん",
+        "meaning": "bioskop",
+        "example": "映画館に行きます。",
+        "category": "Kata Benda"
+    },
+    {
+        "id": "76",
+        "kanji": "英語",
+        "hiragana": "えいご",
+        "meaning": "bahasa Inggris",
+        "example": "英語を話します。",
+        "category": "Kata Benda"
+    },
+    {
+        "id": "77",
+        "kanji": "駅",
+        "hiragana": "えき",
+        "meaning": "stasiun",
+        "example": "駅で待ちます。",
+        "category": "Kata Benda"
+    },
+    {
+        "id": "78",
+        "kanji": "鉛筆",
+        "hiragana": "えんぴつ",
+        "meaning": "pensil",
+        "example": "鉛筆を使います。",
+        "category": "Kata Benda"
+    },
+    {
+        "id": "79",
+        "kanji": "服",
+        "hiragana": "ふく",
+        "meaning": "pakaian",
+        "example": "服を買います。",
+        "category": "Kata Benda"
+    },
+    {
+        "id": "80",
+        "kanji": "吹く",
+        "hiragana": "ふく",
+        "meaning": "bertiup (angin)",
+        "example": "風が吹きます。",
+        "category": "Kata Kerja"
+    },
+    {
+        "id": "81",
+        "kanji": "二人",
+        "hiragana": "ふたり",
+        "meaning": "dua orang",
+        "example": "二人で遊びます。",
+        "category": "Kata Benda"
+    },
+    {
+        "id": "82",
+        "kanji": "二日",
+        "hiragana": "ふつか",
+        "meaning": "tanggal dua, dua hari",
+        "example": "二日に会います。",
+        "category": "Kata Benda"
+    },
+    {
+        "id": "83",
+        "kanji": "降る",
+        "hiragana": "ふる",
+        "meaning": "turun (hujan)",
+        "example": "雨が降ります。",
+        "category": "Kata Kerja"
+    },
+    {
+        "id": "84",
+        "kanji": "古い",
+        "hiragana": "ふるい",
+        "meaning": "lama (bukan orang)",
+        "example": "この家は古いです。",
+        "category": "Kata Sifat"
+    },
+    {
+        "id": "85",
+        "kanji": "封筒",
+        "hiragana": "ふうとう",
+        "meaning": "amplop",
+        "example": "封筒に手紙を入れます。",
+        "category": "Kata Benda"
+    },
+    {
+        "id": "86",
+        "kanji": "冬",
+        "hiragana": "ふゆ",
+        "meaning": "musim dingin",
+        "example": "冬は寒いです。",
+        "category": "Kata Benda"
+    },
+    {
+        "id": "87",
+        "kanji": "学校",
+        "hiragana": "がっこう",
+        "meaning": "sekolah",
+        "example": "学校に行きます。",
+        "category": "Kata Benda"
+    },
+    {
+        "id": "88",
+        "kanji": "学生",
+        "hiragana": "がくせい",
+        "meaning": "pelajar",
+        "example": "私は学生です。",
+        "category": "Kata Benda"
+    },
+    {
+        "id": "89",
+        "kanji": "外国",
+        "hiragana": "がいこく",
+        "meaning": "negara asing",
+        "example": "外国に行きます。",
+        "category": "Kata Benda"
+    },
+    {
+        "id": "90",
+        "kanji": "外国人",
+        "hiragana": "がいこくじん",
+        "meaning": "orang asing",
+        "example": "外国人と話します。",
+        "category": "Kata Benda"
+    },
+    {
+        "id": "91",
+        "kanji": "元気",
+        "hiragana": "げんき",
+        "meaning": "sehat, bersemangat",
+        "example": "元気ですか？",
+        "category": "Kata Sifat"
+    },
+    {
+        "id": "92",
+        "kanji": "玄関",
+        "hiragana": "げんかん",
+        "meaning": "pintu masuk",
+        "example": "玄関で靴を脱ぎます。",
+        "category": "Kata Benda"
+    },
+    {
+        "id": "93",
+        "kanji": "月曜日",
+        "hiragana": "げつようび",
+        "meaning": "hari Senin",
+        "example": "月曜日は忙しいです。",
+        "category": "Kata Benda"
+    },
+    {
+        "id": "94",
+        "kanji": "銀行",
+        "hiragana": "ぎんこう",
+        "meaning": "bank",
+        "example": "銀行でお金を下ろします。",
+        "category": "Kata Benda"
+    },
+    {
+        "id": "95",
+        "kanji": "牛肉",
+        "hiragana": "ぎゅうにく",
+        "meaning": "daging sapi",
+        "example": "牛肉を食べます。",
+        "category": "Kata Benda"
+    },
+    {
+        "id": "96",
+        "kanji": "牛乳",
+        "hiragana": "ぎゅうにゅう",
+        "meaning": "susu",
+        "example": "牛乳を飲みます。",
+        "category": "Kata Benda"
+    },
+    {
+        "id": "97",
+        "kanji": "五",
+        "hiragana": "ご",
+        "meaning": "lima",
+        "example": "五つりんごがあります。",
+        "category": "Kata Bilangan"
+    },
+    {
+        "id": "98",
+        "kanji": "午後",
+        "hiragana": "ごご",
+        "meaning": "sore, p.m.",
+        "example": "午後3時に会います。",
+        "category": "Kata Benda"
+    },
+    {
+        "id": "99",
+        "kanji": "ご飯",
+        "hiragana": "ごはん",
+        "meaning": "nasi, makanan",
+        "example": "ご飯を食べます。",
+        "category": "Kata Benda"
+    },
+    {
+        "id": "100",
+        "kanji": "午前",
+        "hiragana": "ごぜん",
+        "meaning": "pagi, a.m.",
+        "example": "午前10時に行きます。",
+        "category": "Kata Benda"
+    },
+    {
+        "id": "101",
+        "kanji": "歯",
+        "hiragana": "は",
+        "meaning": "gigi",
+        "example": "歯を磨きます。",
+        "category": "Kata Benda"
+    },
+    {
+        "id": "102",
+        "kanji": "八",
+        "hiragana": "はち",
+        "meaning": "delapan",
+        "example": "八時に起きます。",
+        "category": "Kata Bilangan"
+    },
+    {
+        "id": "103",
+        "kanji": "葉書",
+        "hiragana": "はがき",
+        "meaning": "kartu pos",
+        "example": "葉書を書きます。",
+        "category": "Kata Benda"
+    },
+    {
+        "id": "104",
+        "kanji": "母",
+        "hiragana": "はは",
+        "meaning": "ibu",
+        "example": "母は料理が上手です。",
+        "category": "Kata Benda"
+    },
+    {
+        "id": "105",
+        "kanji": "入る",
+        "hiragana": "はいる",
+        "meaning": "masuk",
+        "example": "部屋に入ります。",
+        "category": "Kata Kerja"
+    },
+    {
+        "id": "106",
+        "kanji": "灰皿",
+        "hiragana": "はいざら",
+        "meaning": "asbak",
+        "example": "灰皿をください。",
+        "category": "Kata Benda"
+    },
+    {
+        "id": "107",
+        "kanji": "始め",
+        "hiragana": "はじめ",
+        "meaning": "awal, mulai",
+        "example": "授業が始めます。",
+        "category": "Kata Benda"
+    },
+    {
+        "id": "108",
+        "kanji": "初めて",
+        "hiragana": "はじめて",
+        "meaning": "pertama kali",
+        "example": "日本に初めて来ました。",
+        "category": "Kata Keterangan"
+    },
+    {
+        "id": "109",
+        "kanji": "始まる",
+        "hiragana": "はじまる",
+        "meaning": "mulai",
+        "example": "映画が始まります。",
+        "category": "Kata Kerja"
+    },
+    {
+        "id": "110",
+        "kanji": "箱",
+        "hiragana": "はこ",
+        "meaning": "kotak",
+        "example": "箱に物を入れます。",
+        "category": "Kata Benda"
+    },
+    {
+        "id": "111",
+        "kanji": "半分",
+        "hiragana": "はんぶん",
+        "meaning": "setengah",
+        "example": "ケーキを半分にします。",
+        "category": "Kata Benda"
+    },
+    {
+        "id": "112",
+        "kanji": "花",
+        "hiragana": "はな",
+        "meaning": "bunga",
+        "example": "花を飾ります。",
+        "category": "Kata Benda"
+    },
+    {
+        "id": "113",
+        "kanji": "鼻",
+        "hiragana": "はな",
+        "meaning": "hidung",
+        "example": "鼻が詰まります。",
+        "category": "Kata Benda"
+    },
+    {
+        "id": "114",
+        "kanji": "話",
+        "hiragana": "はなし",
+        "meaning": "cerita, obrolan",
+        "example": "面白い話です。",
+        "category": "Kata Benda"
+    },
+    {
+        "id": "115",
+        "kanji": "話す",
+        "hiragana": "はなす",
+        "meaning": "berbicara",
+        "example": "友達と話します。",
+        "category": "Kata Kerja"
+    },
+    {
+        "id": "116",
+        "kanji": "晴れる",
+        "hiragana": "はれる",
+        "meaning": "cerah (cuaca)",
+        "example": "明日、晴れます。",
+        "category": "Kata Kerja"
+    },
+    {
+        "id": "117",
+        "kanji": "春",
+        "hiragana": "はる",
+        "meaning": "musim semi",
+        "example": "春は暖かいです。",
+        "category": "Kata Benda"
+    },
+    {
+        "id": "118",
+        "kanji": "貼る",
+        "hiragana": "はる",
+        "meaning": "menempel",
+        "example": "壁にポスターを貼ります。",
+        "category": "Kata Kerja"
+    },
+    {
+        "id": "119",
+        "kanji": "箸",
+        "hiragana": "はし",
+        "meaning": "sumpit",
+        "example": "箸でご飯を食べます。",
+        "category": "Kata Benda"
+    },
+    {
+        "id": "120",
+        "kanji": "橋",
+        "hiragana": "はし",
+        "meaning": "jembatan",
+        "example": "橋を渡ります。",
+        "category": "Kata Benda"
+    },
+    {
+        "id": "121",
+        "kanji": "走る",
+        "hiragana": "はしる",
+        "meaning": "berlari",
+        "example": "公園で走ります。",
+        "category": "Kata Kerja"
+    },
+    {
+        "id": "122",
+        "kanji": "二十歳",
+        "hiragana": "はたち",
+        "meaning": "usia 20 tahun",
+        "example": "私は二十歳です。",
+        "category": "Kata Benda"
+    },
+    {
+        "id": "123",
+        "kanji": "働く",
+        "hiragana": "はたらく",
+        "meaning": "bekerja",
+        "example": "会社で働きます。",
+        "category": "Kata Kerja"
+    },
+    {
+        "id": "124",
+        "kanji": "二十日",
+        "hiragana": "はつか",
+        "meaning": "tanggal 20, 20 hari",
+        "example": "二十日に会います。",
+        "category": "Kata Benda"
+    },
+    {
+        "id": "125",
+        "kanji": "早い",
+        "hiragana": "はやい",
+        "meaning": "awal",
+        "example": "朝早く起きます。",
+        "category": "Kata Sifat"
+    },
+    {
+        "id": "126",
+        "kanji": "速い",
+        "hiragana": "はやい",
+        "meaning": "cepat",
+        "example": "この車は速いです。",
+        "category": "Kata Sifat"
+    },
+    {
+        "id": "127",
+        "kanji": "辺",
+        "hiragana": "へん",
+        "meaning": "daerah, sekitar",
+        "example": "この辺に店があります。",
+        "category": "Kata Benda"
+    },
+    {
+        "id": "128",
+        "kanji": "下手",
+        "hiragana": "へた",
+        "meaning": "tidak terampil",
+        "example": "絵が下手です。",
+        "category": "Kata Sifat"
+    },
+    {
+        "id": "129",
+        "kanji": "部屋",
+        "hiragana": "へや",
+        "meaning": "kamar",
+        "example": "部屋を掃除します。",
+        "category": "Kata Benda"
+    },
+    {
+        "id": "130",
+        "kanji": "日",
+        "hiragana": "ひ",
+        "meaning": "hari, matahari",
+        "example": "良い日です。",
+        "category": "Kata Benda"
+    },
+    {
+        "id": "131",
+        "kanji": "火",
+        "hiragana": "ひ",
+        "meaning": "api",
+        "example": "火をつけます。",
+        "category": "Kata Benda"
+    },
+    {
+        "id": "132",
+        "kanji": "左",
+        "hiragana": "ひだり",
+        "meaning": "kiri",
+        "example": "左に曲がります。",
+        "category": "Kata Benda"
+    },
+    {
+        "id": "133",
+        "kanji": "東",
+        "hiragana": "ひがし",
+        "meaning": "timur",
+        "example": "東に山があります。",
+        "category": "Kata Benda"
+    },
+    {
+        "id": "134",
+        "kanji": "弾く",
+        "hiragana": "ひく",
+        "meaning": "memainkan (piano, gitar)",
+        "example": "ピアノを弾きます。",
+        "category": "Kata Kerja"
+    },
+    {
+        "id": "135",
+        "kanji": "引く",
+        "hiragana": "ひく",
+        "meaning": "menarik",
+        "example": "ロープを引きます。",
+        "category": "Kata Kerja"
+    },
+    {
+        "id": "136",
+        "kanji": "低い",
+        "hiragana": "ひくい",
+        "meaning": "rendah",
+        "example": "この机は低いです。",
+        "category": "Kata Sifat"
+    },
+    {
+        "id": "137",
+        "kanji": "飛行機",
+        "hiragana": "ひこうき",
+        "meaning": "pesawat terbang",
+        "example": "飛行機に乗ります。",
+        "category": "Kata Benda"
+    },
+    {
+        "id": "138",
+        "kanji": "暇",
+        "hiragana": "ひま",
+        "meaning": "waktu luang",
+        "example": "暇な時、読みます。",
+        "category": "Kata Benda"
+    },
+    {
+        "id": "139",
+        "kanji": "広い",
+        "hiragana": "ひろい",
+        "meaning": "luas",
+        "example": "この部屋は広いです。",
+        "category": "Kata Sifat"
+    },
+    {
+        "id": "140",
+        "kanji": "昼",
+        "hiragana": "ひる",
+        "meaning": "siang",
+        "example": "昼に食べます。",
+        "category": "Kata Benda"
+    },
+    {
+        "id": "141",
+        "kanji": "昼ご飯",
+        "hiragana": "ひるごはん",
+        "meaning": "makan siang",
+        "example": "昼ご飯を食べます。",
+        "category": "Kata Benda"
+    },
+    {
+        "id": "142",
+        "kanji": "人",
+        "hiragana": "ひと",
+        "meaning": "orang",
+        "example": "人が多いです。",
+        "category": "Kata Benda"
+    },
+    {
+        "id": "143",
+        "kanji": "一人",
+        "hiragana": "ひとり",
+        "meaning": "satu orang, sendiri",
+        "example": "一人で歩きます。",
+        "category": "Kata Benda"
+    },
+    {
+        "id": "144",
+        "kanji": "一つ",
+        "hiragana": "ひとつ",
+        "meaning": "satu",
+        "example": "一つください。",
+        "category": "Kata Bilangan"
+    },
+    {
+        "id": "145",
+        "kanji": "本",
+        "hiragana": "ほん",
+        "meaning": "buku",
+        "example": "本を読みます。",
+        "category": "Kata Benda"
+    },
+    {
+        "id": "146",
+        "kanji": "本棚",
+        "hiragana": "ほんだな",
+        "meaning": "rak buku",
+        "example": "本棚に本を置きます。",
+        "category": "Kata Benda"
+    },
+    {
+        "id": "147",
+        "kanji": "本当",
+        "hiragana": "ほんとう",
+        "meaning": "benar, kenyataan",
+        "example": "本当ですか？",
+        "category": "Kata Sifat"
+    },
+    {
+        "id": "148",
+        "kanji": "他",
+        "hiragana": "ほか",
+        "meaning": "lain, lainnya",
+        "example": "他の人が来ます。",
+        "category": "Kata Benda"
+    },
+    {
+        "id": "149",
+        "kanji": "百",
+        "hiragana": "ひゃく",
+        "meaning": "seratus",
+        "example": "百円です。",
+        "category": "Kata Bilangan"
+    },
+    {
+        "id": "150",
+        "kanji": "一",
+        "hiragana": "いち",
+        "meaning": "satu",
+        "example": "一つ買います。",
+        "category": "Kata Bilangan"
+    },
+    {
+        "id": "151",
+        "kanji": "一番",
+        "hiragana": "いちばん",
+        "meaning": "nomor satu, pertama",
+        "example": "一番好きです。",
+        "category": "Kata Keterangan"
+    },
+    {
+        "id": "152",
+        "kanji": "一日",
+        "hiragana": "いちにち",
+        "meaning": "satu hari",
+        "example": "一日で終わります。",
+        "category": "Kata Benda"
+    },
+    {
+        "id": "153",
+        "kanji": "家",
+        "hiragana": "いえ",
+        "meaning": "rumah",
+        "example": "家に帰ります。",
+        "category": "Kata Benda"
+    },
+    {
+        "id": "154",
+        "kanji": "いい",
+        "hiragana": "いい",
+        "meaning": "baik",
+        "example": "いい天気です。",
+        "category": "Kata Sifat"
+    },
+    {
+        "id": "155",
+        "kanji": "否",
+        "hiragana": "いいえ",
+        "meaning": "tidak",
+        "example": "いいえ、違います。",
+        "category": "Kata Keterangan"
+    },
+    {
+        "id": "156",
+        "kanji": "池",
+        "hiragana": "いけ",
+        "meaning": "kolam",
+        "example": "池に魚がいます。",
+        "category": "Kata Benda"
+    },
+    {
+        "id": "157",
+        "kanji": "行く",
+        "hiragana": "いく",
+        "meaning": "pergi",
+        "example": "学校に行きます。",
+        "category": "Kata Kerja"
+    },
+    {
+        "id": "158",
+        "kanji": "幾ら",
+        "hiragana": "いくら",
+        "meaning": "berapa banyak",
+        "example": "これは幾らですか？",
+        "category": "Kata Ganti"
+    },
+    {
+        "id": "159",
+        "kanji": "幾つ",
+        "hiragana": "いくつ",
+        "meaning": "berapa banyak, berapa umur",
+        "example": "りんごは幾つですか？",
+        "category": "Kata Ganti"
+    },
+    {
+        "id": "160",
+        "kanji": "今",
+        "hiragana": "いま",
+        "meaning": "sekarang",
+        "example": "今、忙しいです。",
+        "category": "Kata Benda"
+    },
+    {
+        "id": "161",
+        "kanji": "意味",
+        "hiragana": "いみ",
+        "meaning": "arti, makna",
+        "example": "この言葉の意味は？",
+        "category": "Kata Benda"
+    },
+    {
+        "id": "162",
+        "kanji": "妹",
+        "hiragana": "いもうと",
+        "meaning": "adik perempuan",
+        "example": "妹は学生です。",
+        "category": "Kata Benda"
+    },
+    {
+        "id": "163",
+        "kanji": "犬",
+        "hiragana": "いぬ",
+        "meaning": "anjing",
+        "example": "犬を飼います。",
+        "category": "Kata Benda"
+    },
+    {
+        "id": "164",
+        "kanji": "入れる",
+        "hiragana": "いれる",
+        "meaning": "memasukkan",
+        "example": "バッグにお金を入れます。",
+        "category": "Kata Kerja"
+    },
+    {
+        "id": "165",
+        "kanji": "入口",
+        "hiragana": "いりぐち",
+        "meaning": "pintu masuk",
+        "example": "入口はあそこです。",
+        "category": "Kata Benda"
+    },
+    {
+        "id": "166",
+        "kanji": "色",
+        "hiragana": "いろ",
+        "meaning": "warna",
+        "example": "好きな色は？",
+        "category": "Kata Benda"
+    },
+    {
+        "id": "167",
+        "kanji": "色々",
+        "hiragana": "いろいろ",
+        "meaning": "bermacam-macam",
+        "example": "色々な本があります。",
+        "category": "Kata Keterangan"
+    },
+    {
+        "id": "168",
+        "kanji": "要る",
+        "hiragana": "いる",
+        "meaning": "membutuhkan",
+        "example": "お金が要ります。",
+        "category": "Kata Kerja"
+    },
+    {
+        "id": "169",
+        "kanji": "医者",
+        "hiragana": "いしゃ",
+        "meaning": "dokter",
+        "example": "医者に行きます。",
+        "category": "Kata Benda"
+    },
+    {
+        "id": "170",
+        "kanji": "忙しい",
+        "hiragana": "いそがしい",
+        "meaning": "sibuk",
+        "example": "今日、忙しいです。",
+        "category": "Kata Sifat"
+    },
+    {
+        "id": "171",
+        "kanji": "一緒",
+        "hiragana": "いっしょ",
+        "meaning": "bersama",
+        "example": "一緒に行きます。",
+        "category": "Kata Keterangan"
+    },
+    {
+        "id": "172",
+        "kanji": "椅子",
+        "hiragana": "いす",
+        "meaning": "kursi",
+        "example": "椅子に座ります。",
+        "category": "Kata Benda"
+    },
+    {
+        "id": "173",
+        "kanji": "痛い",
+        "hiragana": "いたい",
+        "meaning": "sakit",
+        "example": "足が痛いです。",
+        "category": "Kata Sifat"
+    },
+    {
+        "id": "174",
+        "kanji": "五日",
+        "hiragana": "いつか",
+        "meaning": "tanggal lima, lima hari",
+        "example": "五日に会います。",
+        "category": "Kata Benda"
+    },
+    {
+        "id": "175",
+        "kanji": "いつも",
+        "hiragana": "いつも",
+        "meaning": "selalu",
+        "example": "いつも本を読みます。",
+        "category": "Kata Keterangan"
+    },
+    {
+        "id": "176",
+        "kanji": "五つ",
+        "hiragana": "いつつ",
+        "meaning": "lima",
+        "example": "りんごを五つください。",
+        "category": "Kata Bilangan"
+    },
+    {
+        "id": "177",
+        "kanji": "言う",
+        "hiragana": "いう",
+        "meaning": "mengatakan",
+        "example": "友達がそう言います。",
+        "category": "Kata Kerja"
+    },
+    {
+        "id": "178",
+        "kanji": "嫌",
+        "hiragana": "いや",
+        "meaning": "tidak menyenangkan",
+        "example": "嫌な気分です。",
+        "category": "Kata Sifat"
+    },
+    {
+        "id": "179",
+        "kanji": "字引",
+        "hiragana": "じびき",
+        "meaning": "kamus",
+        "example": "字引で調べます。",
+        "category": "Kata Benda"
+    },
+    {
+        "id": "180",
+        "kanji": "自分",
+        "hiragana": "じぶん",
+        "meaning": "diri sendiri",
+        "example": "自分でやります。",
+        "category": "Kata Ganti"
+    },
+    {
+        "id": "181",
+        "kanji": "自動車",
+        "hiragana": "じどうしゃ",
+        "meaning": "mobil",
+        "example": "自動車を運転します。",
+        "category": "Kata Benda"
+    },
+    {
+        "id": "182",
+        "kanji": "時間",
+        "hiragana": "じかん",
+        "meaning": "waktu, jam",
+        "example": "時間がありません。",
+        "category": "Kata Benda"
+    },
+    {
+        "id": "183",
+        "kanji": "辞書",
+        "hiragana": "じしょ",
+        "meaning": "kamus",
+        "example": "辞書を使います。",
+        "category": "Kata Benda"
+    },
+    {
+        "id": "184",
+        "kanji": "自転車",
+        "hiragana": "じてんしゃ",
+        "meaning": "sepeda",
+        "example": "自転車に乗ります。",
+        "category": "Kata Benda"
+    },
+    {
+        "id": "185",
+        "kanji": "上手",
+        "hiragana": "じょうず",
+        "meaning": "terampil",
+        "example": "日本語が上手です。",
+        "category": "Kata Sifat"
+    },
+    {
+        "id": "186",
+        "kanji": "授業",
+        "hiragana": "じゅぎょう",
+        "meaning": "pelajaran",
+        "example": "授業が始まります。",
+        "category": "Kata Benda"
+    },
+    {
+        "id": "187",
+        "kanji": "鞄",
+        "hiragana": "かばん",
+        "meaning": "tas",
+        "example": "鞄を買います。",
+        "category": "Kata Benda"
+    },
+    {
+        "id": "188",
+        "kanji": "花瓶",
+        "hiragana": "かびん",
+        "meaning": "vas bunga",
+        "example": "花瓶に花を入れます。",
+        "category": "Kata Benda"
+    },
+    {
+        "id": "189",
+        "kanji": "角",
+        "hiragana": "かど",
+        "meaning": "sudut",
+        "example": "角を曲がります。",
+        "category": "Kata Benda"
+    },
+    {
+        "id": "190",
+        "kanji": "帰る",
+        "hiragana": "かえる",
+        "meaning": "pulang",
+        "example": "家に帰ります。",
+        "category": "Kata Kerja"
+    },
+    {
+        "id": "191",
+        "kanji": "返す",
+        "hiragana": "かえす",
+        "meaning": "mengembalikan",
+        "example": "本を返します。",
+        "category": "Kata Kerja"
+    },
+    {
+        "id": "192",
+        "kanji": "鍵",
+        "hiragana": "かぎ",
+        "meaning": "kunci",
+        "example": "鍵をかけます。",
+        "category": "Kata Benda"
+    },
+    {
+        "id": "193",
+        "kanji": "階段",
+        "hiragana": "かいだん",
+        "meaning": "tangga",
+        "example": "階段を登ります。",
+        "category": "Kata Benda"
+    },
+    {
+        "id": "194",
+        "kanji": "買物",
+        "hiragana": "かいもの",
+        "meaning": "belanja",
+        "example": "買い物に行きます。",
+        "category": "Kata Benda"
+    },
+    {
+        "id": "195",
+        "kanji": "会社",
+        "hiragana": "かいしゃ",
+        "meaning": "perusahaan",
+        "example": "会社で働きます。",
+        "category": "Kata Benda"
+    },
+    {
+        "id": "196",
+        "kanji": "書く",
+        "hiragana": "かく",
+        "meaning": "menulis",
+        "example": "手紙を書きます。",
+        "category": "Kata Kerja"
+    },
+    {
+        "id": "197",
+        "kanji": "紙",
+        "hiragana": "かみ",
+        "meaning": "kertas",
+        "example": "紙に書きます。",
+        "category": "Kata Benda"
+    },
+    {
+        "id": "198",
+        "kanji": "漢字",
+        "hiragana": "かんじ",
+        "meaning": "huruf kanji",
+        "example": "漢字を勉強します。",
+        "category": "Kata Benda"
+    },
+    {
+        "id": "199",
+        "kanji": "体",
+        "hiragana": "からだ",
+        "meaning": "tubuh",
+        "example": "体が疲れます。",
+        "category": "Kata Benda"
+    },
+    {
+        "id": "200",
+        "kanji": "辛い",
+        "hiragana": "からい",
+        "meaning": "pedas",
+        "example": "このカレーは辛いです。",
+        "category": "Kata Sifat"
+    },
+    {
+        "id": "201",
+        "kanji": "借りる",
+        "hiragana": "かりる",
+        "meaning": "meminjam",
+        "example": "本を借ります。",
+        "category": "Kata Kerja"
+    },
+    {
+        "id": "202",
+        "kanji": "軽い",
+        "hiragana": "かるい",
+        "meaning": "ringan",
+        "example": "この鞄は軽いです。",
+        "category": "Kata Sifat"
+    },
+    {
+        "id": "203",
+        "kanji": "傘",
+        "hiragana": "かさ",
+        "meaning": "payung",
+        "example": "傘を借ります。",
+        "category": "Kata Benda"
+    },
+    {
+        "id": "204",
+        "kanji": "貸す",
+        "hiragana": "かす",
+        "meaning": "meminjamkan",
+        "example": "お金を貸します。",
+        "category": "Kata Kerja"
+    },
+    {
+        "id": "205",
+        "kanji": "方",
+        "hiragana": "かた",
+        "meaning": "orang",
+        "example": "あの方は誰ですか？",
+        "category": "Kata Benda"
+    },
+    {
+        "id": "206",
+        "kanji": "家庭",
+        "hiragana": "かてい",
+        "meaning": "keluarga, rumah tangga",
+        "example": "家庭で過ごします。",
+        "category": "Kata Benda"
+    },
+    {
+        "id": "207",
+        "kanji": "買う",
+        "hiragana": "かう",
+        "meaning": "membeli",
+        "example": "服を買います。",
+        "category": "Kata Kerja"
+    },
+    {
+        "id": "208",
+        "kanji": "可愛い",
+        "hiragana": "かわいい",
+        "meaning": "lucu, imut",
+        "example": "この猫は可愛いです。",
+        "category": "Kata Sifat"
+    },
+    {
+        "id": "209",
+        "kanji": "家族",
+        "hiragana": "かぞく",
+        "meaning": "keluarga",
+        "example": "家族と旅行します。",
+        "category": "Kata Benda"
+    },
+    {
+        "id": "210",
+        "kanji": "風",
+        "hiragana": "かぜ",
+        "meaning": "angin",
+        "example": "風が強いです。",
+        "category": "Kata Benda"
+    },
+    {
+        "id": "211",
+        "kanji": "風邪",
+        "hiragana": "かぜ",
+        "meaning": "pilek",
+        "example": "風邪をひきます。",
+        "category": "Kata Benda"
+    },
+    {
+        "id": "212",
+        "kanji": "川",
+        "hiragana": "かわ",
+        "meaning": "sungai",
+        "example": "川で泳ぎます。",
+        "category": "Kata Benda"
+    },
+    {
+        "id": "213",
+        "kanji": "警官",
+        "hiragana": "けいかん",
+        "meaning": "polisi",
+        "example": "警官に聞きます。",
+        "category": "Kata Benda"
+    },
+    {
+        "id": "214",
+        "kanji": "結婚",
+        "hiragana": "けっこん",
+        "meaning": "pernikahan",
+        "example": "結婚します。",
+        "category": "Kata Benda"
+    },
+    {
+        "id": "215",
+        "kanji": "結構",
+        "hiragana": "けっこう",
+        "meaning": "bagus, cukup",
+        "example": "結構です。",
+        "category": "Kata Keterangan"
+    },
+    {
+        "id": "216",
+        "kanji": "今朝",
+        "hiragana": "けさ",
+        "meaning": "pagi ini",
+        "example": "今朝、走りました。",
+        "category": "Kata Benda"
+    },
+    {
+        "id": "217",
+        "kanji": "消す",
+        "hiragana": "けす",
+        "meaning": "memadamkan, menghapus",
+        "example": "電気を消します。",
+        "category": "Kata Kerja"
+    },
+    {
+        "id": "218",
+        "kanji": "木",
+        "hiragana": "き",
+        "meaning": "pohon",
+        "example": "木を植えます。",
+        "category": "Kata Benda"
+    },
+    {
+        "id": "219",
+        "kanji": "消える",
+        "hiragana": "きえる",
+        "meaning": "hilang, padam",
+        "example": "火が消えます。",
+        "category": "Kata Kerja"
+    },
+    {
+        "id": "220",
+        "kanji": "黄色い",
+        "hiragana": "きいろい",
+        "meaning": "kuning",
+        "example": "花は黄色いです。",
+        "category": "Kata Sifat"
+    },
+    {
+        "id": "221",
+        "kanji": "昨日",
+        "hiragana": "きのう",
+        "meaning": "kemarin",
+        "example": "昨日、映画を見ました。",
+        "category": "Kata Benda"
+    },
+    {
+        "id": "222",
+        "kanji": "金曜日",
+        "hiragana": "きんようび",
+        "meaning": "hari Jumat",
+        "example": "金曜日は休みです。",
+        "category": "Kata Benda"
+    },
+    {
+        "id": "223",
+        "kanji": "切符",
+        "hiragana": "きっぷ",
+        "meaning": "tiket",
+        "example": "切符を買います。",
+        "category": "Kata Benda"
+    },
+    {
+        "id": "224",
+        "kanji": "嫌い",
+        "hiragana": "きらい",
+        "meaning": "tidak suka",
+        "example": "野菜が嫌いです。",
+        "category": "Kata Sifat"
+    },
+    {
+        "id": "225",
+        "kanji": "切る",
+        "hiragana": "きる",
+        "meaning": "memotong",
+        "example": "紙を切ります。",
+        "category": "Kata Kerja"
+    },
+    {
+        "id": "226",
+        "kanji": "着る",
+        "hiragana": "きる",
+        "meaning": "memakai (pakaian)",
+        "example": "服を着ます。",
+        "category": "Kata Kerja"
+    },
+    {
+        "id": "227",
+        "kanji": "喫茶店",
+        "hiragana": "きっさてん",
+        "meaning": "kafé",
+        "example": "喫茶店で待ちます。",
+        "category": "Kata Benda"
+    },
+    {
+        "id": "228",
+        "kanji": "北",
+        "hiragana": "きた",
+        "meaning": "utara",
+        "example": "北に行きます。",
+        "category": "Kata Benda"
+    },
+    {
+        "id": "229",
+        "kanji": "汚い",
+        "hiragana": "きたない",
+        "meaning": "kotor",
+        "example": "この部屋は汚いです。",
+        "category": "Kata Sifat"
+    },
+    {
+        "id": "230",
+        "kanji": "切手",
+        "hiragana": "きって",
+        "meaning": "perangko",
+        "example": "切手を貼ります。",
+        "category": "Kata Benda"
+    },
+    {
+        "id": "231",
+        "kanji": "九",
+        "hiragana": "きゅう",
+        "meaning": "sembilan",
+        "example": "九時に会います。",
+        "category": "Kata Bilangan"
+    },
+    {
+        "id": "232",
+        "kanji": "声",
+        "hiragana": "こえ",
+        "meaning": "suara",
+        "example": "声が大きいです。",
+        "category": "Kata Benda"
+    },
+    {
+        "id": "233",
+        "kanji": "ここ",
+        "hiragana": "ここ",
+        "meaning": "di sini",
+        "example": "ここに座ります。",
+        "category": "Kata Keterangan"
+    },
+    {
+        "id": "234",
+        "kanji": "九日",
+        "hiragana": "ここのか",
+        "meaning": "tanggal sembilan, sembilan hari",
+        "example": "九日に旅行します。",
+        "category": "Kata Benda"
+    },
+    {
+        "id": "235",
+        "kanji": "困る",
+        "hiragana": "こまる",
+        "meaning": "bingung, kesulitan",
+        "example": "お金がなくて困ります。",
+        "category": "Kata Kerja"
+    },
+    {
+        "id": "236",
+        "kanji": "今晩",
+        "hiragana": "こんばん",
+        "meaning": "malam ini",
+        "example": "今晩、会います。",
+        "category": "Kata Benda"
+    },
+    {
+        "id": "237",
+        "kanji": "今週",
+        "hiragana": "こんしゅう",
+        "meaning": "minggu ini",
+        "example": "今週、忙しいです。",
+        "category": "Kata Benda"
+    },
+    {
+        "id": "238",
+        "kanji": "交番",
+        "hiragana": "こうばん",
+        "meaning": "pos polisi",
+        "example": "交番で聞きます。",
+        "category": "Kata Benda"
+    },
+    {
+        "id": "239",
+        "kanji": "紅茶",
+        "hiragana": "こうちゃ",
+        "meaning": "teh hitam",
+        "example": "紅茶を飲みます。",
+        "category": "Kata Benda"
+    },
+    {
+        "id": "240",
+        "kanji": "公園",
+        "hiragana": "こうえん",
+        "meaning": "taman",
+        "example": "公園で遊びます。",
+        "category": "Kata Benda"
+    },
+    {
+        "id": "241",
+        "kanji": "子供",
+        "hiragana": "こども",
+        "meaning": "anak",
+        "example": "子供が遊びます。",
+        "category": "Kata Benda"
+    },
+    {
+        "id": "242",
+        "kanji": "答える",
+        "hiragana": "こたえる",
+        "meaning": "menjawab",
+        "example": "質問に答えます。",
+        "category": "Kata Kerja"
+    },
+    {
+        "id": "243",
+        "kanji": "言葉",
+        "hiragana": "ことば",
+        "meaning": "kata, bahasa",
+        "example": "日本語の言葉を勉強します。",
+        "category": "Kata Benda"
+    },
+    {
+        "id": "244",
+        "kanji": "今年",
+        "hiragana": "ことし",
+        "meaning": "tahun ini",
+        "example": "今年、旅行します。",
+        "category": "Kata Benda"
+    },
+    {
+        "id": "245",
+        "kanji": "交差点",
+        "hiragana": "こうさてん",
+        "meaning": "persimpangan",
+        "example": "交差点で曲がります。",
+        "category": "Kata Benda"
+    },
+    {
+        "id": "246",
+        "kanji": "聞く",
+        "hiragana": "きく",
+        "meaning": "mendengar, mendengarkan",
+        "example": "音楽を聞きます。",
+        "category": "Kata Kerja"
+    },
+    {
+        "id": "247",
+        "kanji": "奇麗",
+        "hiragana": "きれい",
+        "meaning": "cantik, indah",
+        "example": "この花は奇麗です。",
+        "category": "Kata Sifat"
+    },
+    {
+        "id": "248",
+        "kanji": "去年",
+        "hiragana": "きょねん",
+        "meaning": "tahun lalu",
+        "example": "去年、日本に行きました。",
+        "category": "Kata Benda"
+    },
+    {
+        "id": "249",
+        "kanji": "今日",
+        "hiragana": "きょう",
+        "meaning": "hari ini",
+        "example": "今日、忙しいです。",
+        "category": "Kata Benda"
+    },
+    {
+        "id": "250",
+        "kanji": "兄弟",
+        "hiragana": "きょうだい",
+        "meaning": "saudara",
+        "example": "兄弟がいます。",
+        "category": "Kata Benda"
+    },
+    {
+        "id": "251",
+        "kanji": "教室",
+        "hiragana": "きょうしつ",
+        "meaning": "ruang kelas",
+        "example": "教室で勉強します。",
+        "category": "Kata Benda"
+    },
+    {
+        "id": "252",
+        "kanji": "口",
+        "hiragana": "くち",
+        "meaning": "mulut",
+        "example": "口を開けます。",
+        "category": "Kata Benda"
+    },
+    {
+        "id": "253",
+        "kanji": "果物",
+        "hiragana": "くだもの",
+        "meaning": "buah",
+        "example": "果物を食べます。",
+        "category": "Kata Benda"
+    },
+    {
+        "id": "254",
+        "kanji": "曇り",
+        "hiragana": "くもり",
+        "meaning": "mendung",
+        "example": "今日は曇りです。",
+        "category": "Kata Benda"
+    },
+    {
+        "id": "255",
+        "kanji": "国",
+        "hiragana": "くに",
+        "meaning": "negara",
+        "example": "日本は私の国です。",
+        "category": "Kata Benda"
+    },
+    {
+        "id": "256",
+        "kanji": "暗い",
+        "hiragana": "くらい",
+        "meaning": "gelap",
+        "example": "部屋が暗いです。",
+        "category": "Kata Sifat"
+    },
+    {
+        "id": "257",
+        "kanji": "黒い",
+        "hiragana": "くろい",
+        "meaning": "hitam",
+        "example": "黒い服を着ます。",
+        "category": "Kata Sifat"
+    },
+    {
+        "id": "258",
+        "kanji": "来る",
+        "hiragana": "くる",
+        "meaning": "datang",
+        "example": "友達が来ます。",
+        "category": "Kata Kerja"
+    },
+    {
+        "id": "259",
+        "kanji": "車",
+        "hiragana": "くるま",
+        "meaning": "mobil",
+        "example": "車を運転します。",
+        "category": "Kata Benda"
+    },
+    {
+        "id": "260",
+        "kanji": "薬",
+        "hiragana": "くすり",
+        "meaning": "obat",
+        "example": "薬を飲みます。",
+        "category": "Kata Benda"
+    },
+    {
+        "id": "261",
+        "kanji": "靴",
+        "hiragana": "くつ",
+        "meaning": "sepatu",
+        "example": "靴を履きます。",
+        "category": "Kata Benda"
+    },
+    {
+        "id": "262",
+        "kanji": "靴下",
+        "hiragana": "くつした",
+        "meaning": "kaus kaki",
+        "example": "靴下を履きます。",
+        "category": "Kata Benda"
+    },
+    {
+        "id": "263",
+        "kanji": "町",
+        "hiragana": "まち",
+        "meaning": "kota",
+        "example": "町を歩きます。",
+        "category": "Kata Benda"
+    },
+    {
+        "id": "264",
+        "kanji": "まだ",
+        "hiragana": "まだ",
+        "meaning": "masih, belum",
+        "example": "まだ終わっていません。",
+        "category": "Kata Keterangan"
+    },
+    {
+        "id": "265",
+        "kanji": "前",
+        "hiragana": "まえ",
+        "meaning": "depan, sebelum",
+        "example": "家の前に木があります。",
+        "category": "Kata Benda"
+    },
+    {
+        "id": "266",
+        "kanji": "毎朝",
+        "hiragana": "まいあさ",
+        "meaning": "setiap pagi",
+        "example": "毎朝、走ります。",
+        "category": "Kata Keterangan"
+    },
+    {
+        "id": "267",
+        "kanji": "毎晩",
+        "hiragana": "まいばん",
+        "meaning": "setiap malam",
+        "example": "毎晩、本を読みます。",
+        "category": "Kata Keterangan"
+    },
+    {
+        "id": "268",
+        "kanji": "毎月",
+        "hiragana": "まいつき",
+        "meaning": "setiap bulan",
+        "example": "毎月、旅行します。",
+        "category": "Kata Keterangan"
+    },
+    {
+        "id": "269",
+        "kanji": "毎日",
+        "hiragana": "まいにち",
+        "meaning": "setiap hari",
+        "example": "毎日、勉強します。",
+        "category": "Kata Keterangan"
+    },
+    {
+        "id": "270",
+        "kanji": "毎週",
+        "hiragana": "まいしゅう",
+        "meaning": "setiap minggu",
+        "example": "毎週、映画を見ます。",
+        "category": "Kata Keterangan"
+    },
+    {
+        "id": "271",
+        "kanji": "毎年",
+        "hiragana": "まいとし",
+        "meaning": "setiap tahun",
+        "example": "毎年、旅行します。",
+        "category": "Kata Keterangan"
+    },
+    {
+        "id": "272",
+        "kanji": "窓",
+        "hiragana": "まど",
+        "meaning": "jendela",
+        "example": "窓を開けます。",
+        "category": "Kata Benda"
+    },
+    {
+        "id": "273",
+        "kanji": "曲がる",
+        "hiragana": "まがる",
+        "meaning": "berbelok, melengkung",
+        "example": "角を曲がります。",
+        "category": "Kata Kerja"
+    },
+    {
+        "id": "274",
+        "kanji": "万",
+        "hiragana": "まん",
+        "meaning": "sepuluh ribu",
+        "example": "一万円が必要です。",
+        "category": "Kata Bilangan"
+    },
+    {
+        "id": "275",
+        "kanji": "丸い",
+        "hiragana": "まるい",
+        "meaning": "bulat",
+        "example": "このテーブルは丸いです。",
+        "category": "Kata Sifat"
+    },
+    {
+        "id": "276",
+        "kanji": "また",
+        "hiragana": "また",
+        "meaning": "lagi, juga",
+        "example": "また来ます。",
+        "category": "Kata Keterangan"
+    },
+    {
+        "id": "277",
+        "kanji": "待つ",
+        "hiragana": "まつ",
+        "meaning": "menunggu",
+        "example": "友達を待ちます。",
+        "category": "Kata Kerja"
+    },
+    {
+        "id": "278",
+        "kanji": "不味い",
+        "hiragana": "まずい",
+        "meaning": "tidak enak",
+        "example": "この料理は不味いです。",
+        "category": "Kata Sifat"
+    },
+    {
+        "id": "279",
+        "kanji": "目",
+        "hiragana": "め",
+        "meaning": "mata",
+        "example": "目が痛いです。",
+        "category": "Kata Benda"
+    },
+    {
+        "id": "280",
+        "kanji": "眼鏡",
+        "hiragana": "めがね",
+        "meaning": "kacamata",
+        "example": "眼鏡をかけます。",
+        "category": "Kata Benda"
+    },
+    {
+        "id": "281",
+        "kanji": "道",
+        "hiragana": "みち",
+        "meaning": "jalan",
+        "example": "道を歩きます。",
+        "category": "Kata Benda"
+    },
+    {
+        "id": "282",
+        "kanji": "緑",
+        "hiragana": "みどり",
+        "meaning": "hijau",
+        "example": "緑の服を着ます。",
+        "category": "Kata Benda"
+    },
+    {
+        "id": "283",
+        "kanji": "磨く",
+        "hiragana": "みがく",
+        "meaning": "memoles, menggosok",
+        "example": "歯を磨きます。",
+        "category": "Kata Kerja"
+    },
+    {
+        "id": "284",
+        "kanji": "右",
+        "hiragana": "みぎ",
+        "meaning": "kanan",
+        "example": "右に曲がります。",
+        "category": "Kata Benda"
+    },
+    {
+        "id": "285",
+        "kanji": "短い",
+        "hiragana": "みじかい",
+        "meaning": "pendek",
+        "example": "このスカートは短いです。",
+        "category": "Kata Sifat"
+    },
+    {
+        "id": "286",
+        "kanji": "耳",
+        "hiragana": "みみ",
+        "meaning": "telinga",
+        "example": "耳が痛いです。",
+        "category": "Kata Benda"
+    },
+    {
+        "id": "287",
+        "kanji": "南",
+        "hiragana": "みなみ",
+        "meaning": "selatan",
+        "example": "南に行きます。",
+        "category": "Kata Benda"
+    },
+    {
+        "id": "288",
+        "kanji": "皆",
+        "hiragana": "みんな",
+        "meaning": "semua, semua orang",
+        "example": "皆で遊びます。",
+        "category": "Kata Ganti"
+    },
+    {
+        "id": "289",
+        "kanji": "見る",
+        "hiragana": "みる",
+        "meaning": "melihat, menonton",
+        "example": "テレビを見ます。",
+        "category": "Kata Kerja"
+    },
+    {
+        "id": "290",
+        "kanji": "店",
+        "hiragana": "みせ",
+        "meaning": "toko",
+        "example": "店で買い物します。",
+        "category": "Kata Benda"
+    },
+    {
+        "id": "291",
+        "kanji": "見せる",
+        "hiragana": "みせる",
+        "meaning": "menunjukkan",
+        "example": "写真を見せます。",
+        "category": "Kata Kerja"
+    },
+    {
+        "id": "292",
+        "kanji": "水",
+        "hiragana": "みず",
+        "meaning": "air",
+        "example": "水を飲みます。",
+        "category": "Kata Benda"
+    },
+    {
+        "id": "293",
+        "kanji": "門",
+        "hiragana": "もん",
+        "meaning": "gerbang",
+        "example": "門を開けます。",
+        "category": "Kata Benda"
+    },
+    {
+        "id": "294",
+        "kanji": "問題",
+        "hiragana": "もんだい",
+        "meaning": "masalah, soal",
+        "example": "問題を解きます。",
+        "category": "Kata Benda"
+    },
+    {
+        "id": "295",
+        "kanji": "持つ",
+        "hiragana": "もつ",
+        "meaning": "memegang",
+        "example": "鞄を持ちます。",
+        "category": "Kata Kerja"
+    },
+    {
+        "id": "296",
+        "kanji": "木曜日",
+        "hiragana": "もくようび",
+        "meaning": "hari Kamis",
+        "example": "木曜日は授業です。",
+        "category": "Kata Benda"
+    },
+    {
+        "id": "297",
+        "kanji": "六日",
+        "hiragana": "むいか",
+        "meaning": "tanggal enam, enam hari",
+        "example": "六日に会います。",
+        "category": "Kata Benda"
+    },
+    {
+        "id": "298",
+        "kanji": "向こう",
+        "hiragana": "むこう",
+        "meaning": "sisi seberang",
+        "example": "向こうに店があります。",
+        "category": "Kata Benda"
+    },
+    {
+        "id": "299",
+        "kanji": "村",
+        "hiragana": "むら",
+        "meaning": "desa",
+        "example": "村に住みます。",
+        "category": "Kata Benda"
+    },
+    {
+        "id": "300",
+        "kanji": "難しい",
+        "hiragana": "むずかしい",
+        "meaning": "sulit",
+        "example": "この問題は難しいです。",
+        "category": "Kata Sifat"
+    },
+    {
+        "id": "301",
+        "kanji": "長い",
+        "hiragana": "ながい",
+        "meaning": "panjang",
+        "example": "この道は長いです。",
+        "category": "Kata Sifat"
+    },
+    {
+        "id": "302",
+        "kanji": "中",
+        "hiragana": "なか",
+        "meaning": "di dalam, tengah",
+        "example": "箱の中に本があります。",
+        "category": "Kata Benda"
+    },
+    {
+        "id": "303",
+        "kanji": "鳴く",
+        "hiragana": "なく",
+        "meaning": "berkicau (burung)",
+        "example": "鳥が鳴きます。",
+        "category": "Kata Kerja"
+    },
+    {
+        "id": "304",
+        "kanji": "無くす",
+        "hiragana": "なくす",
+        "meaning": "kehilangan",
+        "example": "鍵を無くしました。",
+        "category": "Kata Kerja"
+    },
+    {
+        "id": "305",
+        "kanji": "名前",
+        "hiragana": "なまえ",
+        "meaning": "nama",
+        "example": "名前を教えてください。",
+        "category": "Kata Benda"
+    },
+    {
+        "id": "306",
+        "kanji": "何",
+        "hiragana": "なに",
+        "meaning": "apa",
+        "example": "何を食べますか？",
+        "category": "Kata Ganti"
+    },
+    {
+        "id": "307",
+        "kanji": "七日",
+        "hiragana": "なのか",
+        "meaning": "tanggal tujuh, tujuh hari",
+        "example": "七日に会います。",
+        "category": "Kata Benda"
+    },
+    {
+        "id": "308",
+        "kanji": "並ぶ",
+        "hiragana": "ならぶ",
+        "meaning": "berbaris",
+        "example": "列に並びます。",
+        "category": "Kata Kerja"
+    },
+    {
+        "id": "309",
+        "kanji": "並べる",
+        "hiragana": "ならべる",
+        "meaning": "menyusun",
+        "category": "kata kerja"
+    },
+    {
+        "id": "310",
+        "kanji": "習う",
+        "hiragana": "ならう",
+        "meaning": "belajar (dari guru)",
+        "example": "日本語を習います。",
+        "category": "Kata Kerja"
+    },
+    {
+        "id": "311",
+        "kanji": "なる",
+        "hiragana": "なる",
+        "meaning": "menjadi",
+        "example": "医者になります。",
+        "category": "Kata Kerja"
+    },
+    {
+        "id": "312",
+        "kanji": "夏",
+        "hiragana": "なつ",
+        "meaning": "musim panas",
+        "example": "夏は暑いです。",
+        "category": "Kata Benda"
+    },
+    {
+        "id": "313",
+        "kanji": "猫",
+        "hiragana": "ねこ",
+        "meaning": "kucing",
+        "example": "猫を飼います。",
+        "category": "Kata Benda"
+    },
+    {
+        "id": "314",
+        "kanji": "寝る",
+        "hiragana": "ねる",
+        "meaning": "tidur",
+        "example": "早く寝ます。",
+        "category": "Kata Kerja"
+    },
+    {
+        "id": "315",
+        "kanji": "二",
+        "hiragana": "に",
+        "meaning": "dua",
+        "example": "二つください。",
+        "category": "Kata Bilangan"
+    },
+    {
+        "id": "316",
+        "kanji": "日曜日",
+        "hiragana": "にちようび",
+        "meaning": "hari Minggu",
+        "example": "日曜日は休みです。",
+        "category": "Kata Benda"
+    },
+    {
+        "id": "317",
+        "kanji": "賑やか",
+        "hiragana": "にぎやか",
+        "meaning": "ramai, hidup",
+        "example": "町は賑やかです。",
+        "category": "Kata Sifat"
+    },
+    {
+        "id": "318",
+        "kanji": "肉",
+        "hiragana": "にく",
+        "meaning": "daging",
+        "example": "肉を食べます。",
+        "category": "Kata Benda"
+    },
+    {
+        "id": "319",
+        "kanji": "荷物",
+        "hiragana": "にもの",
+        "meaning": "bagasi, barang bawaan",
+        "example": "荷物を持ちます。",
+        "category": "Kata Benda"
+    },
+    {
+        "id": "320",
+        "kanji": "西",
+        "hiragana": "にし",
+        "meaning": "barat",
+        "example": "西に山があります。",
+        "category": "Kata Benda"
+    },
+    {
+        "id": "321",
+        "kanji": "庭",
+        "hiragana": "にわ",
+        "meaning": "taman, halaman",
+        "example": "庭で遊びます。",
+        "category": "Kata Benda"
+    },
+    {
+        "id": "322",
+        "kanji": "登る",
+        "hiragana": "のぼる",
+        "meaning": "mendaki, naik",
+        "example": "山を登ります。",
+        "category": "Kata Kerja"
+    },
+    {
+        "id": "323",
+        "kanji": "飲物",
+        "hiragana": "のみもの",
+        "meaning": "minuman",
+        "example": "飲物を買います。",
+        "category": "Kata Benda"
+    },
+    {
+        "id": "324",
+        "kanji": "飲む",
+        "hiragana": "のむ",
+        "meaning": "minum",
+        "example": "水を飲みます。",
+        "category": "Kata Kerja"
+    },
+    {
+        "id": "325",
+        "kanji": "乗る",
+        "hiragana": "のる",
+        "meaning": "naik (kendaraan)",
+        "example": "バスに乗ります。",
+        "category": "Kata Kerja"
+    },
+    {
+        "id": "326",
+        "kanji": "脱ぐ",
+        "hiragana": "ぬぐ",
+        "meaning": "melepas (pakaian, sepatu)",
+        "example": "靴を脱ぎます。",
+        "category": "Kata Kerja"
+    },
+    {
+        "id": "327",
+        "kanji": "伯母さん",
+        "hiragana": "おばさん",
+        "meaning": "bibi",
+        "example": "伯母さんに会います。",
+        "category": "Kata Benda"
+    },
+    {
+        "id": "328",
+        "kanji": "お祖母さん",
+        "hiragana": "おばあさん",
+        "meaning": "nenek",
+        "example": "お祖母さんは元気です。",
+        "category": "Kata Benda"
+    },
+    {
+        "id": "329",
+        "kanji": "お弁当",
+        "hiragana": "おべんとう",
+        "meaning": "kotak makan siang",
+        "example": "お弁当を食べます。",
+        "category": "Kata Benda"
+    },
+    {
+        "id": "330",
+        "kanji": "覚える",
+        "hiragana": "おぼえる",
+        "meaning": "mengingat, menghafal",
+        "example": "漢字を覚えます。",
+        "category": "Kata Kerja"
+    },
+    {
+        "id": "331",
+        "kanji": "お茶",
+        "hiragana": "おちゃ",
+        "meaning": "teh",
+        "example": "お茶を飲みます。",
+        "category": "Kata Benda"
+    },
+    {
+        "id": "332",
+        "kanji": "お風呂",
+        "hiragana": "おふろ",
+        "meaning": "mandi, kamar mandi",
+        "example": "お風呂に入ります。",
+        "category": "Kata Benda"
+    },
+    {
+        "id": "333",
+        "kanji": "美味しい",
+        "hiragana": "おいしい",
+        "meaning": "enak, lezat",
+        "example": "このケーキは美味しいです。",
+        "category": "Kata Sifat"
+    },
+    {
+        "id": "334",
+        "kanji": "お母さん",
+        "hiragana": "おかあさん",
+        "meaning": "ibu",
+        "example": "お母さんは料理します。",
+        "category": "Kata Benda"
+    },
+    {
+        "id": "335",
+        "kanji": "お金",
+        "hiragana": "おかね",
+        "meaning": "uang",
+        "example": "お金がありません。",
+        "category": "Kata Benda"
+    },
+    {
+        "id": "336",
+        "kanji": "お菓子",
+        "hiragana": "おかし",
+        "meaning": "kue, permen",
+        "example": "お菓子を食べます。",
+        "category": "Kata Benda"
+    },
+    {
+        "id": "337",
+        "kanji": "起きる",
+        "hiragana": "おきる",
+        "meaning": "bangun, terjadi",
+        "example": "朝、早く起きます。",
+        "category": "Kata Kerja"
+    },
+    {
+        "id": "338",
+        "kanji": "置く",
+        "hiragana": "おく",
+        "meaning": "meletakkan",
+        "example": "本を机に置きます。",
+        "category": "Kata Kerja"
+    },
+    {
+        "id": "339",
+        "kanji": "奥さん",
+        "hiragana": "おくさん",
+        "meaning": "istri",
+        "example": "奥さんは親切です。",
+        "category": "Kata Benda"
+    },
+    {
+        "id": "340",
+        "kanji": "お巡りさん",
+        "hiragana": "おまわりさん",
+        "meaning": "polisi",
+        "example": "お巡りさんに聞きます。",
+        "category": "Kata Benda"
+    },
+    {
+        "id": "341",
+        "kanji": "重い",
+        "hiragana": "おもい",
+        "meaning": "berat",
+        "example": "この鞄は重いです。",
+        "category": "Kata Sifat"
+    },
+    {
+        "id": "342",
+        "kanji": "面白い",
+        "hiragana": "おもしろい",
+        "meaning": "menarik, lucu",
+        "example": "この本は面白いです。",
+        "category": "Kata Sifat"
+    },
+    {
+        "id": "343",
+        "kanji": "お腹",
+        "hiragana": "おなか",
+        "meaning": "perut",
+        "example": "お腹が空きました。",
+        "category": "Kata Benda"
+    },
+    {
+        "id": "344",
+        "kanji": "音楽",
+        "hiragana": "おんがく",
+        "meaning": "musik",
+        "example": "音楽を聞きます。",
+        "category": "Kata Benda"
+    },
+    {
+        "id": "345",
+        "kanji": "女",
+        "hiragana": "おんな",
+        "meaning": "wanita",
+        "example": "女の人がいます。",
+        "category": "Kata Benda"
+    },
+    {
+        "id": "346",
+        "kanji": "同じ",
+        "hiragana": "おなじ",
+        "meaning": "sama",
+        "example": "同じ服を着ます。",
+        "category": "Kata Sifat"
+    },
+    {
+        "id": "347",
+        "kanji": "お姉さん",
+        "hiragana": "おねえさん",
+        "meaning": "kakak perempuan",
+        "example": "お姉さんは優しいです。",
+        "category": "Kata Benda"
+    },
+    {
+        "id": "348",
+        "kanji": "お兄さん",
+        "hiragana": "おにいさん",
+        "meaning": "kakak laki-laki",
+        "example": "お兄さんは医者です。",
+        "category": "Kata Benda"
+    },
+    {
+        "id": "349",
+        "kanji": "女の子",
+        "hiragana": "おんなのこ",
+        "meaning": "anak perempuan",
+        "example": "女の子が遊びます。",
+        "category": "Kata Benda"
+    },
+    {
+        "id": "350",
+        "kanji": "多い",
+        "hiragana": "おおい",
+        "meaning": "banyak",
+        "example": "人が多いです。",
+        "category": "Kata Sifat"
+    },
+    {
+        "id": "351",
+        "kanji": "大きい",
+        "hiragana": "おおきい",
+        "meaning": "besar",
+        "example": "この家は大きいです。",
+        "category": "Kata Sifat"
+    },
+    {
+        "id": "352",
+        "kanji": "大勢",
+        "hiragana": "おおぜい",
+        "meaning": "banyak orang",
+        "example": "大勢の人がいます。",
+        "category": "Kata Benda"
+    },
+    {
+        "id": "353",
+        "kanji": "降りる",
+        "hiragana": "おりる",
+        "meaning": "turun",
+        "example": "バスを降ります。",
+        "category": "Kata Kerja"
+    },
+    {
+        "id": "354",
+        "kanji": "お皿",
+        "hiragana": "おさら",
+        "meaning": "piring",
+        "example": "お皿を洗います。",
+        "category": "Kata Benda"
+    },
+    {
+        "id": "355",
+        "kanji": "教える",
+        "hiragana": "おしえる",
+        "meaning": "mengajar",
+        "example": "日本語を教えます。",
+        "category": "Kata Kerja"
+    },
+    {
+        "id": "356",
+        "kanji": "遅い",
+        "hiragana": "おそい",
+        "meaning": "lambat, terlambat",
+        "example": "バスが遅いです。",
+        "category": "Kata Sifat"
+    },
+    {
+        "id": "357",
+        "kanji": "押す",
+        "hiragana": "おす",
+        "meaning": "mendorong, menekan",
+        "example": "ボタンを押します。",
+        "category": "Kata Kerja"
+    },
+    {
+        "id": "358",
+        "kanji": "お手洗い",
+        "hiragana": "おてあらい",
+        "meaning": "toilet",
+        "example": "お手洗いはどこですか？",
+        "category": "Kata Benda"
+    },
+    {
+        "id": "359",
+        "kanji": "男",
+        "hiragana": "おとこ",
+        "meaning": "pria",
+        "example": "男の人がいます。",
+        "category": "Kata Benda"
+    },
+    {
+        "id": "360",
+        "kanji": "男の子",
+        "hiragana": "おとこのこ",
+        "meaning": "anak laki-laki",
+        "example": "男の子が遊びます。",
+        "category": "Kata Benda"
+    },
+    {
+        "id": "361",
+        "kanji": "大人",
+        "hiragana": "おとな",
+        "meaning": "orang dewasa",
+        "example": "大人が話します。",
+        "category": "Kata Benda"
+    },
+    {
+        "id": "362",
+        "kanji": "一昨日",
+        "hiragana": "おととい",
+        "meaning": "kemarin lusa",
+        "example": "一昨日、会いました。",
+        "category": "Kata Benda"
+    },
+    {
+        "id": "363",
+        "kanji": "お父さん",
+        "hiragana": "おとうさん",
+        "meaning": "ayah",
+        "example": "お父さんは会社員です。",
+        "category": "Kata Benda"
+    },
+    {
+        "id": "364",
+        "kanji": "一昨年",
+        "hiragana": "おととし",
+        "meaning": "dua tahun lalu",
+        "example": "一昨年、日本に行きました。",
+        "category": "Kata Benda"
+    },
+    {
+        "id": "365",
+        "kanji": "弟",
+        "hiragana": "おとうと",
+        "meaning": "adik laki-laki",
+        "example": "弟は学生です。",
+        "category": "Kata Benda"
+    },
+    {
+        "id": "366",
+        "kanji": "終わる",
+        "hiragana": "おわる",
+        "meaning": "selesai",
+        "example": "授業が終わります。",
+        "category": "Kata Kerja"
+    },
+    {
+        "id": "367",
+        "kanji": "泳ぐ",
+        "hiragana": "およぐ",
+        "meaning": "berenang",
+        "example": "プールで泳ぎます。",
+        "category": "Kata Kerja"
+    },
+    {
+        "id": "368",
+        "kanji": "来月",
+        "hiragana": "らいげつ",
+        "meaning": "bulan depan",
+        "example": "来月、旅行します。",
+        "category": "Kata Benda"
+    },
+    {
+        "id": "369",
+        "kanji": "来年",
+        "hiragana": "らいねん",
+        "meaning": "tahun depan",
+        "example": "来年、大学に行きます。",
+        "category": "Kata Benda"
+    },
+    {
+        "id": "370",
+        "kanji": "来週",
+        "hiragana": "らいしゅう",
+        "meaning": "minggu depan",
+        "example": "来週、会います。",
+        "category": "Kata Benda"
+    },
+    {
+        "id": "371",
+        "kanji": "冷蔵庫",
+        "hiragana": "れいぞうこ",
+        "meaning": "kulkas",
+        "example": "冷蔵庫に牛乳があります。",
+        "category": "Kata Benda"
+    },
+    {
+        "id": "372",
+        "kanji": "練習",
+        "hiragana": "れんしゅう",
+        "meaning": "latihan",
+        "example": "毎日、練習します。",
+        "category": "Kata Benda"
+    },
+    {
+        "id": "373",
+        "kanji": "六",
+        "hiragana": "ろく",
+        "meaning": "enam",
+        "example": "六つください。",
+        "category": "Kata Bilangan"
+    },
+    {
+        "id": "374",
+        "kanji": "廊下",
+        "hiragana": "ろうか",
+        "meaning": "koridor",
+        "example": "廊下を歩きます。",
+        "category": "Kata Benda"
+    },
+    {
+        "id": "375",
+        "kanji": "旅行",
+        "hiragana": "りょこう",
+        "meaning": "perjalanan",
+        "example": "旅行に行きます。",
+        "category": "Kata Benda"
+    },
+    {
+        "id": "376",
+        "kanji": "料理",
+        "hiragana": "りょうり",
+        "meaning": "masakan",
+        "example": "料理を作ります。",
+        "category": "Kata Benda"
+    },
+    {
+        "id": "377",
+        "kanji": "両親",
+        "hiragana": "りょうしん",
+        "meaning": "orang tua",
+        "example": "両親と住みます。",
+        "category": "Kata Benda"
+    },
+    {
+        "id": "378",
+        "kanji": "留学生",
+        "hiragana": "りゅうがくせい",
+        "meaning": "pelajar asing",
+        "example": "留学生です。",
+        "category": "Kata Benda"
+    },
+    {
+        "id": "379",
+        "kanji": "歳",
+        "hiragana": "さい",
+        "meaning": "tahun (usia)",
+        "example": "二十歳です。",
+        "category": "Kata Benda"
+    },
+    {
+        "id": "380",
+        "kanji": "財布",
+        "hiragana": "さいふ",
+        "meaning": "dompet",
+        "example": "財布を忘れました。",
+        "category": "Kata Benda"
+    },
+    {
+        "id": "381",
+        "kanji": "魚",
+        "hiragana": "さかな",
+        "meaning": "ikan",
+        "example": "魚を食べます。",
+        "category": "Kata Benda"
+    },
+    {
+        "id": "382",
+        "kanji": "酒",
+        "hiragana": "さけ",
+        "meaning": "alkohol, sake",
+        "example": "酒を飲みます。",
+        "category": "Kata Benda"
+    },
+    {
+        "id": "383",
+        "kanji": "先",
+        "hiragana": "さき",
+        "meaning": "sebelumnya, ujung",
+        "example": "先に食べます。",
+        "category": "Kata Benda"
+    },
+    {
+        "id": "384",
+        "kanji": "咲く",
+        "hiragana": "さく",
+        "meaning": "mekar",
+        "example": "花が咲きます。",
+        "category": "Kata Kerja"
+    },
+    {
+        "id": "385",
+        "kanji": "作文",
+        "hiragana": "さくぶん",
+        "meaning": "karangan",
+        "example": "作文を書きます。",
+        "category": "Kata Benda"
+    },
+    {
+        "id": "386",
+        "kanji": "寒い",
+        "hiragana": "さむい",
+        "meaning": "dingin",
+        "example": "冬は寒いです。",
+        "category": "Kata Sifat"
+    },
+    {
+        "id": "387",
+        "kanji": "三",
+        "hiragana": "さん",
+        "meaning": "tiga",
+        "example": "三つください。",
+        "category": "Kata Bilangan"
+    },
+    {
+        "id": "388",
+        "kanji": "散歩",
+        "hiragana": "さんぽ",
+        "meaning": "berjalan-jalan",
+        "example": "公園で散歩します。",
+        "category": "Kata Benda"
+    },
+    {
+        "id": "389",
+        "kanji": "再来年",
+        "hiragana": "さらいねん",
+        "meaning": "dua tahun lagi",
+        "example": "再来年、留学します。",
+        "category": "Kata Benda"
+    },
+    {
+        "id": "390",
+        "kanji": "砂糖",
+        "hiragana": "さとう",
+        "meaning": "gula",
+        "example": "砂糖を入れます。",
+        "category": "Kata Benda"
+    },
+    {
+        "id": "391",
+        "kanji": "背",
+        "hiragana": "せ",
+        "meaning": "tinggi badan",
+        "example": "背が高いです。",
+        "category": "Kata Benda"
+    },
+    {
+        "id": "392",
+        "kanji": "背広",
+        "hiragana": "せびろ",
+        "meaning": "jas",
+        "example": "背広を着ます。",
+        "category": "Kata Benda"
+    },
+    {
+        "id": "393",
+        "kanji": "生徒",
+        "hiragana": "せいと",
+        "meaning": "murid",
+        "example": "生徒が勉強します。",
+        "category": "Kata Benda"
+    },
+    {
+        "id": "394",
+        "kanji": "石鹸",
+        "hiragana": "せっけん",
+        "meaning": "sabun",
+        "example": "石鹸を使います。",
+        "category": "Kata Benda"
+    },
+    {
+        "id": "395",
+        "kanji": "狭い",
+        "hiragana": "せまい",
+        "meaning": "sempit",
+        "example": "この部屋は狭いです。",
+        "category": "Kata Sifat"
+    },
+    {
+        "id": "396",
+        "kanji": "千",
+        "hiragana": "せん",
+        "meaning": "seribu",
+        "example": "千円です。",
+        "category": "Kata Bilangan"
+    },
+    {
+        "id": "397",
+        "kanji": "先月",
+        "hiragana": "せんげつ",
+        "meaning": "bulan lalu",
+        "example": "先月、旅行しました。",
+        "category": "Kata Benda"
+    },
+    {
+        "id": "398",
+        "kanji": "先生",
+        "hiragana": "せんせい",
+        "meaning": "guru",
+        "example": "先生に聞きます。",
+        "category": "Kata Benda"
+    },
+    {
+        "id": "399",
+        "kanji": "先週",
+        "hiragana": "せんしゅう",
+        "meaning": "minggu lalu",
+        "example": "先週、映画を見ました。",
+        "category": "Kata Benda"
+    },
+    {
+        "id": "400",
+        "kanji": "洗濯",
+        "hiragana": "せんたく",
+        "meaning": "cucian",
+        "example": "洗濯をします。",
+        "category": "Kata Benda"
+    },
+    {
+        "id": "401",
+        "kanji": "四",
+        "hiragana": "し",
+        "meaning": "empat",
+        "example": "四つください。",
+        "category": "Kata Bilangan"
+    },
+    {
+        "id": "402",
+        "kanji": "七",
+        "hiragana": "しち",
+        "meaning": "tujuh",
+        "example": "七時に会います。",
+        "category": "Kata Bilangan"
+    },
+    {
+        "id": "403",
+        "kanji": "写真",
+        "hiragana": "しゃしん",
+        "meaning": "foto",
+        "example": "写真を撮ります。",
+        "category": "Kata Benda"
+    },
+    {
+        "id": "404",
+        "kanji": "仕事",
+        "hiragana": "しごと",
+        "meaning": "pekerjaan",
+        "example": "仕事が忙しいです。",
+        "category": "Kata Benda"
+    },
+    {
+        "id": "405",
+        "kanji": "閉まる",
+        "hiragana": "しまる",
+        "meaning": "tertutup",
+        "example": "ドアが閉まります。",
+        "category": "Kata Kerja"
+    },
+    {
+        "id": "406",
+        "kanji": "閉める",
+        "hiragana": "しめる",
+        "meaning": "menutup",
+        "example": "窓を閉めます。",
+        "category": "Kata Kerja"
+    },
+    {
+        "id": "407",
+        "kanji": "締める",
+        "hiragana": "しめる",
+        "meaning": "mengikat, mengencangkan",
+        "example": "ベルトを締めます。",
+        "category": "Kata Kerja"
+    },
+    {
+        "id": "408",
+        "kanji": "新聞",
+        "hiragana": "しんぶん",
+        "meaning": "koran",
+        "example": "新聞を読みます。",
+        "category": "Kata Benda"
+    },
+    {
+        "id": "409",
+        "kanji": "死ぬ",
+        "hiragana": "しぬ",
+        "meaning": "mati",
+        "example": "魚が死にました。",
+        "category": "Kata Kerja"
+    },
+    {
+        "id": "410",
+        "kanji": "塩",
+        "hiragana": "しお",
+        "meaning": "garam",
+        "example": "塩を入れます。",
+        "category": "Kata Benda"
+    },
+    {
+        "id": "411",
+        "kanji": "白い",
+        "hiragana": "しろい",
+        "meaning": "putih",
+        "example": "白い服を着ます。",
+        "category": "Kata Sifat"
+    },
+    {
+        "id": "412",
+        "kanji": "知る",
+        "hiragana": "しる",
+        "meaning": "tahu",
+        "example": "彼を知っています。",
+        "category": "Kata Kerja"
+    },
+    {
+        "id": "413",
+        "kanji": "下",
+        "hiragana": "した",
+        "meaning": "bawah",
+        "example": "机の下に本があります。",
+        "category": "Kata Benda"
+    },
+    {
+        "id": "414",
+        "kanji": "質問",
+        "hiragana": "しつもん",
+        "meaning": "pertanyaan",
+        "example": "質問があります。",
+        "category": "Kata Benda"
+    },
+    {
+        "id": "415",
+        "kanji": "静か",
+        "hiragana": "しずか",
+        "meaning": "tenang",
+        "example": "この部屋は静かです。",
+        "category": "Kata Sifat"
+    },
+    {
+        "id": "416",
+        "kanji": "食堂",
+        "hiragana": "しょくどう",
+        "meaning": "ruang makan, kantin",
+        "example": "食堂でご飯を食べます。",
+        "category": "Kata Benda"
+    },
+    {
+        "id": "417",
+        "kanji": "醤油",
+        "hiragana": "しょうゆ",
+        "meaning": "kecap",
+        "example": "醤油を使います。",
+        "category": "Kata Benda"
+    },
+    {
+        "id": "418",
+        "kanji": "宿題",
+        "hiragana": "しゅくだい",
+        "meaning": "pekerjaan rumah",
+        "example": "宿題をします。",
+        "category": "Kata Benda"
+    },
+    {
+        "id": "419",
+        "kanji": "側",
+        "hiragana": "そば",
+        "meaning": "dekat, samping",
+        "example": "駅の側にいます。",
+        "category": "Kata Benda"
+    },
+    {
+        "id": "420",
+        "kanji": "空",
+        "hiragana": "そら",
+        "meaning": "langit",
+        "example": "空は青いです。",
+        "category": "Kata Benda"
+    },
+    {
+        "id": "421",
+        "kanji": "外",
+        "hiragana": "そと",
+        "meaning": "luar",
+        "example": "外で遊びます。",
+        "category": "Kata Benda"
+    },
+    {
+        "id": "422",
+        "kanji": "掃除",
+        "hiragana": "そうじ",
+        "meaning": "pembersihan",
+        "example": "部屋を掃除します。",
+        "category": "Kata Benda"
+    },
+    {
+        "id": "423",
+        "kanji": "すぐ",
+        "hiragana": "すぐ",
+        "meaning": "segera",
+        "example": "すぐ来ます。",
+        "category": "Kata Keterangan"
+    },
+    {
+        "id": "424",
+        "kanji": "水曜日",
+        "hiragana": "すいようび",
+        "meaning": "hari Rabu",
+        "example": "水曜日は授業です。",
+        "category": "Kata Benda"
+    },
+    {
+        "id": "425",
+        "kanji": "好き",
+        "hiragana": "すき",
+        "meaning": "suka",
+        "example": "音楽が好きです。",
+        "category": "Kata Sifat"
+    },
+    {
+        "id": "426",
+        "kanji": "少し",
+        "hiragana": "すこし",
+        "meaning": "sedikit",
+        "example": "少し食べます。",
+        "category": "Kata Keterangan"
+    },
+    {
+        "id": "427",
+        "kanji": "少ない",
+        "hiragana": "すくない",
+        "meaning": "sedikit",
+        "example": "お金が少ないです。",
+        "category": "Kata Sifat"
+    },
+    {
+        "id": "428",
+        "kanji": "住む",
+        "hiragana": "すむ",
+        "meaning": "tinggal",
+        "example": "日本に住みます。",
+        "category": "Kata Kerja"
+    },
+    {
+        "id": "429",
+        "kanji": "吸う",
+        "hiragana": "すう",
+        "meaning": "merokok, menghirup",
+        "example": "タバコを吸います。",
+        "category": "Kata Kerja"
+    },
+    {
+        "id": "430",
+        "kanji": "座る",
+        "hiragana": "すわる",
+        "meaning": "duduk",
+        "example": "椅子に座ります。",
+        "category": "Kata Kerja"
+    },
+    {
+        "id": "431",
+        "kanji": "涼しい",
+        "hiragana": "すずしい",
+        "meaning": "sejuk",
+        "example": "秋は涼しいです。",
+        "category": "Kata Sifat"
+    },
+    {
+        "id": "432",
+        "kanji": "煙草",
+        "hiragana": "たばこ",
+        "meaning": "rokok",
+        "example": "煙草を吸います。",
+        "category": "Kata Benda"
+    },
+    {
+        "id": "433",
+        "kanji": "食べ物",
+        "hiragana": "たべもの",
+        "meaning": "makanan",
+        "example": "食べ物を買います。",
+        "category": "Kata Benda"
+    },
+    {
+        "id": "434",
+        "kanji": "食べる",
+        "hiragana": "たべる",
+        "meaning": "makan",
+        "example": "ご飯を食べます。",
+        "category": "Kata Kerja"
+    },
+    {
+        "id": "435",
+        "kanji": "多分",
+        "hiragana": "たぶん",
+        "meaning": "mungkin",
+        "example": "多分、行きます。",
+        "category": "Kata Keterangan"
+    },
+    {
+        "id": "436",
+        "kanji": "大変",
+        "hiragana": "たいへん",
+        "meaning": "sangat, sulit",
+        "example": "大変な仕事です。",
+        "category": "Kata Sifat"
+    },
+    {
+        "id": "437",
+        "kanji": "大切",
+        "hiragana": "たいせつ",
+        "meaning": "penting",
+        "example": "大切な本です。",
+        "category": "Kata Sifat"
+    },
+    {
+        "id": "438",
+        "kanji": "大使館",
+        "hiragana": "たいしかん",
+        "meaning": "kedutaan",
+        "example": "大使館に行きます。",
+        "category": "Kata Benda"
+    },
+    {
+        "id": "439",
+        "kanji": "高い",
+        "hiragana": "たかい",
+        "meaning": "tinggi, mahal",
+        "example": "この服は高いです。",
+        "category": "Kata Sifat"
+    },
+    {
+        "id": "440",
+        "kanji": "沢山",
+        "hiragana": "たくさん",
+        "meaning": "banyak",
+        "example": "本が沢山あります。",
+        "category": "Kata Keterangan"
+    },
+    {
+        "id": "441",
+        "kanji": "卵",
+        "hiragana": "たまご",
+        "meaning": "telur",
+        "example": "卵を食べます。",
+        "category": "Kata Benda"
+    },
+    {
+        "id": "442",
+        "kanji": "誕生日",
+        "hiragana": "たんじょうび",
+        "meaning": "hari ulang tahun",
+        "example": "誕生日は明日です。",
+        "category": "Kata Benda"
+    },
+    {
+        "id": "443",
+        "kanji": "楽しい",
+        "hiragana": "たのしい",
+        "meaning": "menyenangkan",
+        "example": "パーティーは楽しいです。",
+        "category": "Kata Sifat"
+    },
+    {
+        "id": "444",
+        "kanji": "頼む",
+        "hiragana": "たのむ",
+        "meaning": "meminta",
+        "example": "助けを頼みます。",
+        "category": "Kata Kerja"
+    },
+    {
+        "id": "445",
+        "kanji": "建物",
+        "hiragana": "たてもの",
+        "meaning": "bangunan",
+        "example": "大きな建物です。",
+        "category": "Kata Benda"
+    },
+    {
+        "id": "446",
+        "kanji": "立つ",
+        "hiragana": "たつ",
+        "meaning": "berdiri",
+        "example": "そこに立ちます。",
+        "category": "Kata Kerja"
+    },
+    {
+        "id": "447",
+        "kanji": "手",
+        "hiragana": "て",
+        "meaning": "tangan",
+        "example": "手を洗います。",
+        "category": "Kata Benda"
+    },
+    {
+        "id": "448",
+        "kanji": "手紙",
+        "hiragana": "てがみ",
+        "meaning": "surat",
+        "example": "手紙を書きます。",
+        "category": "Kata Benda"
+    },
+    {
+        "id": "449",
+        "kanji": "天気",
+        "hiragana": "てんき",
+        "meaning": "cuaca",
+        "example": "天気が良いです。",
+        "category": "Kata Benda"
+    },
+    {
+        "id": "450",
+        "kanji": "戸",
+        "hiragana": "と",
+        "meaning": "pintu",
+        "example": "戸を閉めます。",
+        "category": "Kata Benda"
+    },
+    {
+        "id": "451",
+        "kanji": "飛ぶ",
+        "hiragana": "とぶ",
+        "meaning": "terbang",
+        "example": "鳥が飛びます。",
+        "category": "Kata Kerja"
+    },
+    {
+        "id": "452",
+        "kanji": "友達",
+        "hiragana": "ともだち",
+        "meaning": "teman",
+        "example": "友達に会います。",
+        "category": "Kata Benda"
+    },
+    {
+        "id": "453",
+        "kanji": "止まる",
+        "hiragana": "とまる",
+        "meaning": "berhenti",
+        "example": "車が止まります。",
+        "category": "Kata Kerja"
+    },
+    {
+        "id": "454",
+        "kanji": "隣",
+        "hiragana": "となり",
+        "meaning": "sebelah",
+        "example": "隣に座ります。",
+        "category": "Kata Benda"
+    },
+    {
+        "id": "455",
+        "kanji": "十日",
+        "hiragana": "とおか",
+        "meaning": "tanggal sepuluh, sepuluh hari",
+        "example": "十日に会います。",
+        "category": "Kata Benda"
+    },
+    {
+        "id": "456",
+        "kanji": "鳥",
+        "hiragana": "とり",
+        "meaning": "burung",
+        "example": "鳥が鳴きます。",
+        "category": "Kata Benda"
+    },
+    {
+        "id": "457",
+        "kanji": "取る",
+        "hiragana": "とる",
+        "meaning": "mengambil",
+        "example": "本を取ります。",
+        "category": "Kata Kerja"
+    },
+    {
+        "id": "458",
+        "kanji": "年",
+        "hiragana": "とし",
+        "meaning": "tahun",
+        "example": "今年は忙しいです。",
+        "category": "Kata Benda"
+    },
+    {
+        "id": "459",
+        "kanji": "図書館",
+        "hiragana": "としょかん",
+        "meaning": "perpustakaan",
+        "example": "図書館に行きます。",
+        "category": "Kata Benda"
+    },
+    {
+        "id": "460",
+        "kanji": "時計",
+        "hiragana": "とけい",
+        "meaning": "jam",
+        "example": "時計を見ます。",
+        "category": "Kata Benda"
+    },
+    {
+        "id": "461",
+        "kanji": "時々",
+        "hiragana": "ときどき",
+        "meaning": "kadang-kadang",
+        "example": "時々、走ります。",
+        "category": "Kata Keterangan"
+    },
+    {
+        "id": "462",
+        "kanji": "所",
+        "hiragana": "ところ",
+        "meaning": "tempat",
+        "example": "静かな所です。",
+        "category": "Kata Benda"
+    },
+    {
+        "id": "463",
+        "kanji": "遠い",
+        "hiragana": "とおい",
+        "meaning": "jauh",
+        "example": "学校は遠いです。",
+        "category": "Kata Sifat"
+    },
+    {
+        "id": "464",
+        "kanji": "撮る",
+        "hiragana": "とる",
+        "meaning": "memotret",
+        "example": "写真を撮ります。",
+        "category": "Kata Kerja"
+    },
+    {
+        "id": "465",
+        "kanji": "とても",
+        "hiragana": "とても",
+        "meaning": "sangat",
+        "example": "とても疲れました。",
+        "category": "Kata Keterangan"
+    },
+    {
+        "id": "466",
+        "kanji": "疲れる",
+        "hiragana": "つかれる",
+        "meaning": "lelah",
+        "example": "仕事で疲れました。",
+        "category": "Kata Kerja"
+    },
+    {
+        "id": "467",
+        "kanji": "次",
+        "hiragana": "つぎ",
+        "meaning": "berikutnya",
+        "example": "次の駅で降ります。",
+        "category": "Kata Benda"
+    },
+    {
+        "id": "468",
+        "kanji": "使う",
+        "hiragana": "つかう",
+        "meaning": "menggunakan",
+        "example": "ペンを使います。",
+        "category": "Kata Kerja"
+    },
+    {
+        "id": "469",
+        "kanji": "一日",
+        "hiragana": "ついたち",
+        "meaning": "tanggal satu",
+        "example": "一日に会います。",
+        "category": "Kata Benda"
+    },
+    {
+        "id": "470",
+        "kanji": "着く",
+        "hiragana": "つく",
+        "meaning": "tiba",
+        "example": "駅に着きます。",
+        "category": "Kata Kerja"
+    },
+    {
+        "id": "471",
+        "kanji": "机",
+        "hiragana": "つくえ",
+        "meaning": "meja",
+        "example": "机に本を置きます。",
+        "category": "Kata Benda"
+    },
+    {
+        "id": "472",
+        "kanji": "作る",
+        "hiragana": "つくる",
+        "meaning": "membuat",
+        "example": "料理を作ります。",
+        "category": "Kata Kerja"
+    },
+    {
+        "id": "473",
+        "kanji": "詰まらない",
+        "hiragana": "つまらない",
+        "meaning": "membosankan",
+        "example": "この映画は詰まらないです。",
+        "category": "Kata Sifat"
+    },
+    {
+        "id": "474",
+        "kanji": "冷たい",
+        "hiragana": "つめたい",
+        "meaning": "dingin (sentuhan)",
+        "example": "水が冷たいです。",
+        "category": "Kata Sifat"
+    },
+    {
+        "id": "475",
+        "kanji": "勤める",
+        "hiragana": "つとめる",
+        "meaning": "bekerja (untuk)",
+        "example": "会社に勤めます。",
+        "category": "Kata Kerja"
+    },
+    {
+        "id": "476",
+        "kanji": "強い",
+        "hiragana": "つよい",
+        "meaning": "kuat",
+        "example": "彼は強いです。",
+        "category": "Kata Sifat"
+    },
+    {
+        "id": "477",
+        "kanji": "上",
+        "hiragana": "うえ",
+        "meaning": "atas",
+        "example": "机の上に本があります。",
+        "category": "Kata Benda"
+    },
+    {
+        "id": "478",
+        "kanji": "生まれる",
+        "hiragana": "うまれる",
+        "meaning": "lahir",
+        "example": "私は日本で生まれました。",
+        "category": "Kata Kerja"
+    },
+    {
+        "id": "479",
+        "kanji": "海",
+        "hiragana": "うみ",
+        "meaning": "laut",
+        "example": "海で泳ぎます。",
+        "category": "Kata Benda"
+    },
+    {
+        "id": "480",
+        "kanji": "売る",
+        "hiragana": "うる",
+        "meaning": "menjual",
+        "example": "本を売ります。",
+        "category": "Kata Kerja"
+    },
+    {
+        "id": "481",
+        "kanji": "煩い",
+        "hiragana": "うるさい",
+        "meaning": "berisik",
+        "example": "この部屋は煩いです。",
+        "category": "Kata Sifat"
+    },
+    {
+        "id": "482",
+        "kanji": "後ろ",
+        "hiragana": "うしろ",
+        "meaning": "belakang",
+        "example": "後ろに人がいます。",
+        "category": "Kata Benda"
+    },
+    {
+        "id": "483",
+        "kanji": "薄い",
+        "hiragana": "うすい",
+        "meaning": "tipis",
+        "example": "この紙は薄いです。",
+        "category": "Kata Sifat"
+    },
+    {
+        "id": "484",
+        "kanji": "歌",
+        "hiragana": "うた",
+        "meaning": "lagu",
+        "example": "歌を歌います。",
+        "category": "Kata Benda"
+    },
+    {
+        "id": "485",
+        "kanji": "歌う",
+        "hiragana": "うたう",
+        "meaning": "menyanyi",
+        "example": "歌を歌います。",
+        "category": "Kata Kerja"
+    },
+    {
+        "id": "486",
+        "kanji": "上着",
+        "hiragana": "うわぎ",
+        "meaning": "jaket",
+        "example": "上着を着ます。",
+        "category": "Kata Benda"
+    },
+    {
+        "id": "487",
+        "kanji": "若い",
+        "hiragana": "わかい",
+        "meaning": "muda",
+        "example": "彼は若いです。",
+        "category": "Kata Sifat"
+    },
+    {
+        "id": "488",
+        "kanji": "分かる",
+        "hiragana": "わかる",
+        "meaning": "mengerti",
+        "example": "日本語が分かります。",
+        "category": "Kata Kerja"
+    },
+    {
+        "id": "489",
+        "kanji": "悪い",
+        "hiragana": "わるい",
+        "meaning": "buruk",
+        "example": "天気が悪いです。",
+        "category": "Kata Sifat"
+    },
+    {
+        "id": "490",
+        "kanji": "忘れる",
+        "hiragana": "わすれる",
+        "meaning": "lupa",
+        "example": "名前を忘れました。",
+        "category": "Kata Kerja"
+    },
+    {
+        "id": "491",
+        "kanji": "私",
+        "hiragana": "わたし",
+        "meaning": "saya",
+        "example": "私は学生です。",
+        "category": "Kata Ganti"
+    },
+    {
+        "id": "492",
+        "kanji": "渡る",
+        "hiragana": "わたる",
+        "meaning": "menyeberang",
+        "example": "橋を渡ります。",
+        "category": "Kata Kerja"
+    },
+    {
+        "id": "493",
+        "kanji": "渡す",
+        "hiragana": "わたす",
+        "meaning": "menyerahkan",
+        "example": "本を渡します。",
+        "category": "Kata Kerja"
+    },
+    {
+        "id": "494",
+        "kanji": "山",
+        "hiragana": "やま",
+        "meaning": "gunung",
+        "example": "山に登ります。",
+        "category": "Kata Benda"
+    },
+    {
+        "id": "495",
+        "kanji": "やる",
+        "hiragana": "やる",
+        "meaning": "melakukan",
+        "example": "宿題をやります。",
+        "category": "Kata Kerja"
+    },
+    {
+        "id": "496",
+        "kanji": "野菜",
+        "hiragana": "やさい",
+        "meaning": "sayuran",
+        "example": "野菜を食べます。",
+        "category": "Kata Benda"
+    },
+    {
+        "id": "497",
+        "kanji": "安い",
+        "hiragana": "やすい",
+        "meaning": "murah",
+        "example": "この服は安いです。",
+        "category": "Kata Sifat"
+    },
+    {
+        "id": "498",
+        "kanji": "休み",
+        "hiragana": "やすみ",
+        "meaning": "hari libur",
+        "example": "今日は休みです。",
+        "category": "Kata Benda"
+    },
+    {
+        "id": "499",
+        "kanji": "休む",
+        "hiragana": "やすむ",
+        "meaning": "istirahat",
+        "example": "少し休みます。",
+        "category": "Kata Kerja"
+    },
+    {
+        "id": "500",
+        "kanji": "呼ぶ",
+        "hiragana": "よぶ",
+        "meaning": "memanggil",
+        "example": "友達を呼びます。",
+        "category": "Kata Kerja"
+    },
+    {
+        "id": "501",
+        "kanji": "四日",
+        "hiragana": "よっか",
+        "meaning": "tanggal empat, empat hari",
+        "example": "四日に会います。",
+        "category": "Kata Benda"
+    },
+    {
+        "id": "502",
+        "kanji": "横",
+        "hiragana": "よこ",
+        "meaning": "samping",
+        "example": "横に座ります。",
+        "category": "Kata Benda"
+    },
+    {
+        "id": "503",
+        "kanji": "読む",
+        "hiragana": "よむ",
+        "meaning": "membaca",
+        "example": "本を読みます。",
+        "category": "Kata Kerja"
+    },
+    {
+        "id": "504",
+        "kanji": "夜",
+        "hiragana": "よる",
+        "meaning": "malam",
+        "example": "夜に勉強します。",
+        "category": "Kata Benda"
+    },
+    {
+        "id": "505",
+        "kanji": "洋服",
+        "hiragana": "ようふく",
+        "meaning": "pakaian barat",
+        "example": "洋服を買います。",
+        "category": "Kata Benda"
+    },
+    {
+        "id": "506",
+        "kanji": "八日",
+        "hiragana": "ようか",
+        "meaning": "tanggal delapan, delapan hari",
+        "example": "八日に会います。",
+        "category": "Kata Benda"
+    },
+    {
+        "id": "507",
+        "kanji": "弱い",
+        "hiragana": "よわい",
+        "meaning": "lemah",
+        "example": "彼は弱いです。",
+        "category": "Kata Sifat"
+    },
+    {
+        "id": "508",
+        "kanji": "雪",
+        "hiragana": "ゆき",
+        "meaning": "salju",
+        "example": "雪が降ります。",
+        "category": "Kata Benda"
+    },
+    {
+        "id": "509",
+        "kanji": "ゆっくり",
+        "hiragana": "ゆっくり",
+        "meaning": "perlahan",
+        "example": "ゆっくり歩きます。",
+        "category": "Kata Keterangan"
+    },
+    {
+        "id": "510",
+        "kanji": "郵便局",
+        "hiragana": "ゆうびんきょく",
+        "meaning": "kantor pos",
+        "example": "郵便局に行きます。",
+        "category": "Kata Benda"
+    },
+    {
+        "id": "511",
+        "kanji": "有名",
+        "hiragana": "ゆうめい",
+        "meaning": "terkenal",
+        "example": "彼は有名です。",
+        "category": "Kata Sifat"
+    },
+    {
+        "id": "512",
+        "kanji": "雑誌",
+        "hiragana": "ざっし",
+        "meaning": "majalah",
+        "example": "雑誌を読みます。",
+        "category": "Kata Benda"
+    },
+    {
+        "id": "513",
+        "kanji": "全部",
+        "hiragana": "ぜんぶ",
+        "meaning": "semua, seluruh",
+        "example": "全部食べます。",
+        "category": "Kata Keterangan"
+    },
+    {
+        "id": "514",
+        "kanji": "アパート",
+        "hiragana": "あぱーと",
+        "meaning": "apartemen",
+        "example": "アパートに住みます。",
+        "category": "Kata Benda (Katakana)"
+    },
+    {
+        "id": "515",
+        "kanji": "バス",
+        "hiragana": "ばす",
+        "meaning": "bus",
+        "example": "バスに乗ります。",
+        "category": "Kata Benda (Katakana)"
+    },
+    {
+        "id": "516",
+        "kanji": "ベッド",
+        "hiragana": "べっど",
+        "meaning": "tempat tidur",
+        "example": "ベッドで寝ます。",
+        "category": "Kata Benda (Katakana)"
+    },
+    {
+        "id": "517",
+        "kanji": "デパート",
+        "hiragana": "でぱーと",
+        "meaning": "toko serba ada",
+        "example": "デパートで買い物します。",
+        "category": "Kata Benda (Katakana)"
+    },
+    {
+        "id": "518",
+        "kanji": "ドア",
+        "hiragana": "どあ",
+        "meaning": "pintu (gaya Barat)",
+        "example": "ドアを開けます。",
+        "category": "Kata Benda (Katakana)"
+    },
+    {
+        "id": "519",
+        "kanji": "エレベータ",
+        "hiragana": "えれべーた",
+        "meaning": "lift",
+        "example": "エレベータに乗ります。",
+        "category": "Kata Benda (Katakana)"
+    },
+    {
+        "id": "520",
+        "kanji": "フォーク",
+        "hiragana": "ふぉーく",
+        "meaning": "garpu",
+        "example": "フォークを使います。",
+        "category": "Kata Benda (Katakana)"
+    },
+    {
+        "id": "521",
+        "kanji": "ギター",
+        "hiragana": "ぎたー",
+        "meaning": "gitar",
+        "example": "ギターを弾きます。",
+        "category": "Kata Benda (Katakana)"
+    },
+    {
+        "id": "522",
+        "kanji": "グラム",
+        "hiragana": "ぐらむ",
+        "meaning": "gram",
+        "example": "百グラムください。",
+        "category": "Kata Benda (Katakana)"
+    },
+    {
+        "id": "523",
+        "kanji": "ホテル",
+        "hiragana": "ほてる",
+        "meaning": "hotel",
+        "example": "ホテルに泊まります。",
+        "category": "Kata Benda (Katakana)"
+    },
+    {
+        "id": "524",
+        "kanji": "カメラ",
+        "hiragana": "かめら",
+        "meaning": "kamera",
+        "example": "カメラで写真を撮ります。",
+        "category": "Kata Benda (Katakana)"
+    },
+    {
+        "id": "525",
+        "kanji": "キロ",
+        "hiragana": "きろ",
+        "meaning": "kilogram",
+        "example": "一キロのりんごです。",
+        "category": "Kata Benda (Katakana)"
+    },
+    {
+        "id": "526",
+        "kanji": "コーヒー",
+        "hiragana": "こーひー",
+        "meaning": "kopi",
+        "example": "コーヒーを飲みます。",
+        "category": "Kata Benda (Katakana)"
+    },
+    {
+        "id": "527",
+        "kanji": "コート",
+        "hiragana": "こーと",
+        "meaning": "mantel",
+        "example": "コートを着ます。",
+        "category": "Kata Benda (Katakana)"
+    },
+    {
+        "id": "528",
+        "kanji": "コップ",
+        "hiragana": "こっぷ",
+        "meaning": "gelas",
+        "example": "コップに水を入れます。",
+        "category": "Kata Benda (Katakana)"
+    },
+    {
+        "id": "529",
+        "kanji": "クラス",
+        "hiragana": "くらす",
+        "meaning": "kelas",
+        "example": "クラスで勉強します。",
+        "category": "Kata Benda (Katakana)"
+    },
+    {
+        "id": "530",
+        "kanji": "パーティー",
+        "hiragana": "ぱーてぃー",
+        "meaning": "pesta",
+        "example": "パーティーに行きます。",
+        "category": "Kata Benda (Katakana)"
+    },
+    {
+        "id": "531",
+        "kanji": "ペン",
+        "hiragana": "ぺん",
+        "meaning": "pena",
+        "example": "ペンで書きます。",
+        "category": "Kata Benda (Katakana)"
+    },
+    {
+        "id": "532",
+        "kanji": "ペット",
+        "hiragana": "ぺっと",
+        "meaning": "hewan peliharaan",
+        "example": "ペットを飼います。",
+        "category": "Kata Benda (Katakana)"
+    },
+    {
+        "id": "533",
+        "kanji": "ポケット",
+        "hiragana": "ぽけっと",
+        "meaning": "saku",
+        "example": "ポケットにお金を入れます。",
+        "category": "Kata Benda (Katakana)"
+    },
+    {
+        "id": "534",
+        "kanji": "プール",
+        "hiragana": "ぷーる",
+        "meaning": "kolam renang",
+        "example": "プールで泳ぎます。",
+        "category": "Kata Benda (Katakana)"
+    },
+    {
+        "id": "535",
+        "kanji": "セーター",
+        "hiragana": "せーたー",
+        "meaning": "sweter",
+        "example": "セーターを着ます。",
+        "category": "Kata Benda (Katakana)"
+    },
+    {
+        "id": "536",
+        "kanji": "シャワー",
+        "hiragana": "しゃわー",
+        "meaning": "pancuran",
+        "example": "シャワーを浴びます。",
+        "category": "Kata Benda (Katakana)"
+    },
+    {
+        "id": "537",
+        "kanji": "シャツ",
+        "hiragana": "しゃつ",
+        "meaning": "kemeja",
+        "example": "シャツを着ます。",
+        "category": "Kata Benda (Katakana)"
+    },
+    {
+        "id": "538",
+        "kanji": "スカート",
+        "hiragana": "すかーと",
+        "meaning": "rok",
+        "example": "スカートを着ます。",
+        "category": "Kata Benda (Katakana)"
+    },
+    {
+        "id": "539",
+        "kanji": "スポーツ",
+        "hiragana": "すぽーつ",
+        "meaning": "olahraga",
+        "example": "スポーツをします。",
+        "category": "Kata Benda (Katakana)"
+    },
+    {
+        "id": "540",
+        "kanji": "スプーン",
+        "hiragana": "すぷーん",
+        "meaning": "sendok",
+        "example": "スプーンを使います。",
+        "category": "Kata Benda (Katakana)"
+    },
+    {
+        "id": "541",
+        "kanji": "スリッパ",
+        "hiragana": "すりっぱ",
+        "meaning": "sandal",
+        "example": "スリッパを履きます。",
+        "category": "Kata Benda (Katakana)"
+    }
+] 
