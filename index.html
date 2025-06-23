@@ -3,31 +3,47 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
-  <!-- Judul -->
   <title>Japanese Flash Cards</title>
-
-  <!-- Deskripsi untuk Google -->
   <meta name="description" content="Belajar kosakata Jepang dengan flash card bergaya simpel dan modern. Cocok untuk pemula N5.">
-
-  <!-- Izinkan Google mengindeks -->
   <meta name="robots" content="index, follow">
-
-  <!-- Google Fonts dan CSS -->
   <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;500;700&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
   <link rel="stylesheet" href="styles.css">
+<link href="css/stylesheet.css" rel="stylesheet">
 </head>
 <body>
   <div class="app-container">
     <header class="app-header">
-      <h1 class="header-title">KICHA-KICHA</h1>
+      <h1 class="glow">KICHA-KICHA</h1>
       <div class="header-controls">
+        <div class="level-toggle" data-tooltip="Select JLPT level">
+          <label for="level-select" class="sr-only">Select JLPT Level</label>
+          <select id="level-select" aria-label="Select JLPT Level">
+            <option value="" disabled selected>Select Level</option>
+            <option value="N5">N5</option>
+            <option value="N4">N4</option>
+            <option value="N3">N3</option>
+            <option value="N2">N2</option>
+            <option value="N1">N1</option>
+          </select>
+        </div>
+        <div class="category-toggle" data-tooltip="Select word category">
+          <label for="category-select" class="sr-only">Select Category</label>
+          <select id="category-select" aria-label="Select Category">
+            <option value="" disabled selected>Select Category</option>
+            <option value="all">All</option>
+            <option value="noun">Noun</option>
+            <option value="verb">Verb</option>
+            <option value="adjective">Adjective</option>
+            <option value="adverb">Adverb</option>
+            <option value="expression">Expression</option>
+          </select>
+        </div>
         <button id="fullscreen-toggle" title="Toggle fullscreen" aria-label="Toggle fullscreen mode">
           <i class="fas fa-expand" aria-hidden="true"></i>
         </button>
         <button id="theme-toggle" aria-label="Toggle dark/light theme">
-          <i class="fas fa-moon" aria-hidden="true"></i>
+          <i class="fa-regular fa-face-grin-squint-tears" aria-hidden="true"></i>
         </button>
       </div>
     </header>
@@ -44,14 +60,14 @@
     </main>
 
     <footer class="app-footer">
-      <nav class="level-tabs" role="tablist">
-        <button class="level-btn active" data-level="N5" role="tab" aria-selected="true">N5</button>
-        <button class="level-btn" data-level="N4" role="tab" aria-selected="false">N4</button>
-        <button class="level-btn" data-level="N3" role="tab" aria-selected="false">N3</button>
-        <button class="level-btn" data-level="N2" role="tab" aria-selected="false">N2</button>
-        <button class="level-btn" data-level="N1" role="tab" aria-selected="false">N1</button>
-      </nav>
       <p class="footer-note">日本語学習アプリ - Japanese Learning App</p>
+       <hr class="glow">
+       <p>&copy; 2025 Kicha-Kicha. All rights reserved.</p>
+       <p>
+       <a href="/about.html" style="color: #ccc; text-decoration: none;">Tentang</a> |
+       <a href="/kontak.html" style="color: #ccc; text-decoration: none;">Kontak</a> |
+       <a href="/privacy.html" style="color: #ccc; text-decoration: none;">Privasi</a>
+      </p>
     </footer>
   </div>
 
